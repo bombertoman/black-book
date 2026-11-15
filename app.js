@@ -28,6 +28,8 @@ const variants = {};         // kind -> Map(key -> Set of names as written)
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
   for (const k in DEFAULTS) state[k] = p.get(k) || DEFAULTS[k];
+  // A hand-edited link with an unknown kind ("#who=foo:bar") would break rendering.
+  if (state.who && !Object.hasOwn(KINDS, state.who.split(':')[0])) state.who = '';
 }
 function writeHash() {
   const p = new URLSearchParams();

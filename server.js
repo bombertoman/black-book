@@ -14,7 +14,13 @@ const send = (res, code, body, type = 'application/json; charset=utf-8') => {
   res.end(typeof body === 'string' || Buffer.isBuffer(body) ? body : JSON.stringify(body));
 };
 
+const LOCAL = /^(localhost|127\.0\.0\.1|\[::1\])(:\d+)?$/;
+
 function handle(req, res) {
+  // Answer only to localhost: blocks DNS rebinding (an outside site whose domain resolves to 127.0.0.1).
+  if (!LOCAL.test(req.headers.host || '')) return send(res, 403, { error: 'Host non consentito' });
+  const origin = req.headers.origin;
+  if (origin && !LOCAL.test(origin.replace(/^http:\/\//, ''))) return send(res, 403, { error: 'Origine non consentita' });
   const url = new URL(req.url, 'http://localhost').pathname;
   if (url === '/api/ping') return send(res, 200, { ok: true });
   if (url === '/api/breaks' && req.method === 'POST') {
