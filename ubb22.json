@@ -1,0 +1,243 @@
+{
+  "breaks": [
+    {
+      "title": "Woman",
+      "artist": "Barrabás",
+      "release": "Barrabás (1971), apre il lato B; fuori dalla Spagna anche come Wild Safari (1972)",
+      "album": "Barrabás",
+      "year": 1971,
+      "drummers": [
+        "Fernando Arbex"
+      ],
+      "drummerText": "Fernando Arbex (crediti dell'album; anche Tito Duarte vi è accreditato alla batteria, oltre a sax e flauto)",
+      "producers": [
+        "Fernando Arbex"
+      ],
+      "labels": [
+        "RCA Victor"
+      ],
+      "type": "famoso",
+      "ubb": 22
+    },
+    {
+      "title": "Corazon",
+      "artist": "Creative Source",
+      "release": "Migration (1974)",
+      "album": "Migration",
+      "year": 1974,
+      "drummers": [
+        "Kenneth \"Spider Webb\" Rice"
+      ],
+      "drummerText": "Kenneth \"Spider Webb\" Rice (probabile: nei crediti dell'album come Kenny Rice)",
+      "producers": [
+        "Michael Stokes"
+      ],
+      "labels": [
+        "Sussex"
+      ],
+      "type": "famoso",
+      "ubb": 22
+    },
+    {
+      "title": "Save the World",
+      "artist": "Southside Movement",
+      "release": "Movin' (1974), lato B, traccia 2",
+      "album": "Movin'",
+      "year": 1974,
+      "drummers": [
+        "Willie Hayes"
+      ],
+      "drummerText": "Willie Hayes (probabile: batterista del gruppo nel primo album del 1973)",
+      "producers": [
+        "James Vanleer"
+      ],
+      "labels": [
+        "20th Century"
+      ],
+      "type": "famoso",
+      "ubb": 22
+    },
+    {
+      "title": "The Grunt (Part 1)",
+      "artist": "The J.B.'s",
+      "release": "45 giri in due parti (1970); poi nell'album Food for Thought (1972)",
+      "album": "Food for Thought",
+      "year": 1970,
+      "drummers": [
+        "Frank \"Kash\" Waddy"
+      ],
+      "producers": [
+        "James Brown"
+      ],
+      "labels": [
+        "King"
+      ],
+      "type": "famoso",
+      "ubb": 22
+    },
+    {
+      "title": "Do the Funky Penguin (Part 2)",
+      "artist": "Rufus Thomas",
+      "release": "45 giri in due parti (1971), lato B; poi nell'album Did You Heard Me? (1972), lato B, traccia 4",
+      "album": "Did You Heard Me?",
+      "year": 1971,
+      "drummers": [
+        "Willie Hall"
+      ],
+      "drummerText": "Willie Hall (crediti per brano della Part 1, stessa registrazione)",
+      "producers": [
+        "Tom Nixon"
+      ],
+      "producerText": "Tom Nixon (crediti per brano della Part 1, stessa registrazione; l'album accredita anche Al Bell)",
+      "labels": [
+        "Stax"
+      ],
+      "type": "famoso",
+      "ubb": 22
+    },
+    {
+      "title": "Dynamite (The Bomb)",
+      "artist": "Shotgun",
+      "release": "Shotgun (1977), lato B, traccia 4",
+      "album": "Shotgun",
+      "year": 1977,
+      "drummers": [
+        "Tyrone Steels"
+      ],
+      "producers": [
+        "Al Nalli",
+        "Steve Klein"
+      ],
+      "labels": [
+        "ABC"
+      ],
+      "type": "famoso",
+      "ubb": 22
+    },
+    {
+      "title": "Films",
+      "artist": "Gary Numan",
+      "release": "The Pleasure Principle (1979), lato A, traccia 4",
+      "album": "The Pleasure Principle",
+      "year": 1979,
+      "drummers": [
+        "Cedric Sharpley"
+      ],
+      "producers": [
+        "Gary Numan"
+      ],
+      "labels": [
+        "Beggars Banquet",
+        "Atco"
+      ],
+      "labelText": "Beggars Banquet (Regno Unito) e Atco (USA)",
+      "type": "famoso",
+      "ubb": 22
+    }
+  ],
+  "drummers": {
+    "Fernando Arbex": {
+      "role": "Membro, leader e produttore (Barrabás)",
+      "other": "Los Brincos; Alacrán; altri album dei Barrabás come produttore"
+    },
+    "Willie Hayes": {
+      "role": "Membro (Southside Movement)",
+      "other": "The Southside Movement (1973)"
+    },
+    "Frank \"Kash\" Waddy": {
+      "role": "Membro (J.B.'s, 1970)",
+      "other": "Bootsy's Rubber Band (anni '70)"
+    },
+    "Willie Hall": {
+      "role": "Turnista (Stax), batterista dei Bar-Kays",
+      "other": "Isaac Hayes Theme from Shaft (1971); poi nella Blues Brothers Band",
+      "fullName": "Willie \"Too Big\" Hall"
+    },
+    "Tyrone Steels": {
+      "role": "Membro (Shotgun)",
+      "other": "Altri album degli Shotgun (1978–82); prima nei 24-Carat Black"
+    },
+    "Cedric Sharpley": {
+      "role": "Membro (band di Gary Numan)",
+      "other": "Gary Numan Telekon (1980) e Dance (1981); prima nei Druid"
+    }
+  },
+  "sources": [
+    {
+      "title": "Wikipedia – Wild Safari",
+      "url": "https://en.wikipedia.org/wiki/Wild_Safari"
+    },
+    {
+      "title": "Wikipedia – Barrabás",
+      "url": "https://en.wikipedia.org/wiki/Barrab%C3%A1s"
+    },
+    {
+      "title": "45worlds – Barrabas – Barrabas (Grecia)",
+      "url": "https://www.45worlds.com/vinyl/album/sklg20068"
+    },
+    {
+      "title": "Wikipedia – Migration (Creative Source album)",
+      "url": "https://en.wikipedia.org/wiki/Migration_(Creative_Source_album)"
+    },
+    {
+      "title": "Sessiondays – Creative Source, Migration",
+      "url": "https://www.sessiondays.com/2018/03/1974-creative-source-migration"
+    },
+    {
+      "title": "Wikipedia – Spider Webb (jazz drummer)",
+      "url": "https://en.wikipedia.org/wiki/Spider_Webb_(jazz_drummer)"
+    },
+    {
+      "title": "Wikipedia – Southside Movement",
+      "url": "https://en.wikipedia.org/wiki/Southside_Movement"
+    },
+    {
+      "title": "Discogs – Southside Movement – Movin'",
+      "url": "https://www.discogs.com/release/1149653"
+    },
+    {
+      "title": "Discogs – Southside Movement – Southside Movement",
+      "url": "https://www.discogs.com/release/14526570"
+    },
+    {
+      "title": "Wikipedia – The Grunt",
+      "url": "https://en.wikipedia.org/wiki/The_Grunt"
+    },
+    {
+      "title": "Now-Again – The J.B.'s, These Are The J.B.'s",
+      "url": "https://www.nowagainrecords.com/?p=3763"
+    },
+    {
+      "title": "Culture Sonar – Bootsy, James Brown e Kash Waddy",
+      "url": "https://culturesonar.com/bootsy-james-brown-soul-power-on-the-one"
+    },
+    {
+      "title": "45worlds – Rufus Thomas – Did You Heard Me?",
+      "url": "https://www.45worlds.com/vinyl/album/sts3004"
+    },
+    {
+      "title": "Qobuz – Rufus Thomas, Did You Heard Me? (crediti)",
+      "url": "https://www.qobuz.com/es-es/album/did-you-heard-me-rufus-thomas/ijqpfw6gr1ijc"
+    },
+    {
+      "title": "Stax Records – Rufus Thomas, Do the Push and Pull",
+      "url": "https://staxrecords.com/number-ones/do-the-push-and-pull-part-1-by-rufus-thomas/"
+    },
+    {
+      "title": "Wikipedia – Shotgun (funk band)",
+      "url": "https://en.wikipedia.org/wiki/Shotgun_(funk_band)"
+    },
+    {
+      "title": "Discogs – Shotgun – Shotgun",
+      "url": "https://www.discogs.com/release/1250549"
+    },
+    {
+      "title": "Wikipedia – The Pleasure Principle",
+      "url": "https://en.wikipedia.org/wiki/The_Pleasure_Principle_(album)"
+    },
+    {
+      "title": "Wikipedia – Cedric Sharpley",
+      "url": "https://en.wikipedia.org/wiki/Cedric_Sharpley"
+    }
+  ]
+}

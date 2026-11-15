@@ -1,0 +1,10 @@
+{
+  "name": "black-book",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Black Book – database di drum break",
+  "bin": { "bb": "bb.js" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

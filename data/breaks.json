@@ -1,0 +1,4384 @@
+[
+  {
+    "id": "2001-the-cecil-holmes-soulful-sounds",
+    "title": "2001",
+    "artist": "The Cecil Holmes Soulful Sounds",
+    "release": "The Black Motion Picture Experience (1973)",
+    "album": "The Black Motion Picture Experience",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Cecil Holmes"
+    ],
+    "labels": [
+      "Buddah"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "action-orange-krush",
+    "title": "Action",
+    "artist": "Orange Krush",
+    "release": "12\" (1982)",
+    "year": 1982,
+    "drummers": [
+      "Trevor Gale"
+    ],
+    "producers": [
+      "Larry Smith",
+      "Russell Simmons"
+    ],
+    "labels": [
+      "Mercury"
+    ],
+    "type": "famoso",
+    "ubb": "11"
+  },
+  {
+    "id": "ain-t-we-funkin-now-the-brothers-johnson",
+    "title": "Ain't We Funkin' Now",
+    "artist": "The Brothers Johnson",
+    "release": "Blam!! (1978)",
+    "album": "Blam!!",
+    "year": 1978,
+    "drummers": [
+      "Steve Schaeffer"
+    ],
+    "drummerText": "Steve Schaeffer (secondo SessionDays; nei crediti dell'album c'è anche Harvey Mason)",
+    "producers": [
+      "Quincy Jones"
+    ],
+    "labels": [
+      "A&M"
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "all-night-long-mary-jane-girls",
+    "title": "All Night Long",
+    "artist": "Mary Jane Girls",
+    "release": "Mary Jane Girls (1983)",
+    "album": "Mary Jane Girls",
+    "year": 1983,
+    "drummers": [
+      "Rick James"
+    ],
+    "drummerText": "Rick James: drum machine Oberheim DMX",
+    "producers": [
+      "Rick James"
+    ],
+    "labels": [
+      "Gordy (Motown)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "amen-brother-the-winstons",
+    "title": "Amen, Brother",
+    "artist": "The Winstons",
+    "release": "Lato B di \"Color Him Father\" (1969)",
+    "year": 1969,
+    "where": "Circa 1:26, 4 battute",
+    "drummers": [
+      "Gregory C. Coleman"
+    ],
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Metromedia"
+    ],
+    "type": "famoso",
+    "ubb": "1"
+  },
+  {
+    "id": "another-brick-in-the-wall-fausto-papetti",
+    "title": "Another Brick in the Wall",
+    "artist": "Fausto Papetti",
+    "release": "30ª Raccolta (1980), lato B",
+    "album": "30ª Raccolta",
+    "year": 1980,
+    "where": "Batteria isolata, minuto da annotare",
+    "drummers": [
+      "Tullio De Piscopo"
+    ],
+    "drummerText": "Tullio De Piscopo (crediti dell'album)",
+    "producers": [],
+    "producerText": "Non indicato",
+    "labels": [
+      "Durium"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "apache-incredible-bongo-band",
+    "title": "Apache",
+    "artist": "Incredible Bongo Band",
+    "release": "Bongo Rock (1973)",
+    "album": "Bongo Rock",
+    "year": 1973,
+    "drummers": [
+      "Jim Gordon",
+      "King Errisson"
+    ],
+    "drummerText": "Jim Gordon e King Errisson (crediti dell'album)",
+    "producers": [
+      "Michael Viner",
+      "Perry Botkin Jr."
+    ],
+    "labels": [
+      "Pride (MGM)"
+    ],
+    "type": "famoso",
+    "ubb": "3"
+  },
+  {
+    "id": "ashley-s-roachclip-the-soul-searchers",
+    "title": "Ashley's Roachclip",
+    "artist": "The Soul Searchers",
+    "release": "Salt of the Earth (1974)",
+    "album": "Salt of the Earth",
+    "year": 1974,
+    "drummers": [
+      "Kenny Scoggins"
+    ],
+    "producers": [
+      "Carroll Hynson",
+      "Joe Tate"
+    ],
+    "labels": [
+      "Sussex"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "the-assembly-line-commodores",
+    "title": "The Assembly Line",
+    "artist": "Commodores",
+    "release": "Machine Gun (1974)",
+    "album": "Machine Gun",
+    "year": 1974,
+    "where": "4:08",
+    "drummers": [
+      "Walter \"Clyde\" Orange"
+    ],
+    "producers": [
+      "James Anthony Carmichael",
+      "Commodores"
+    ],
+    "producerText": "James Anthony Carmichael e i Commodores",
+    "labels": [
+      "Motown"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "the-big-beat-billy-squier",
+    "title": "The Big Beat",
+    "artist": "Billy Squier",
+    "release": "The Tale of the Tape (1980)",
+    "album": "The Tale of the Tape",
+    "year": 1980,
+    "where": "Intro",
+    "drummers": [
+      "Bobby Chouinard"
+    ],
+    "producers": [
+      "Billy Squier",
+      "Eddy Offord"
+    ],
+    "labels": [
+      "Capitol"
+    ],
+    "type": "famoso",
+    "ubb": "9"
+  },
+  {
+    "id": "black-grass-bad-bascomb",
+    "title": "Black Grass",
+    "artist": "Bad Bascomb",
+    "release": "45 giri (1972)",
+    "year": 1972,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Paramount"
+    ],
+    "type": "famoso",
+    "ubb": "1"
+  },
+  {
+    "id": "blind-alley-the-emotions",
+    "title": "Blind Alley",
+    "artist": "The Emotions",
+    "release": "Untouched (1971), lato B, traccia 1; anche su 45 giri (1972)",
+    "album": "Untouched",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non trovato (l'album accredita come sezioni ritmiche i Bar-Kays, la Muscle Shoals Sound Rhythm Section e i Soul Spacemen)",
+    "producers": [
+      "David Porter",
+      "Ronnie Williams"
+    ],
+    "producerText": "David Porter e Ronnie Williams (crediti per brano)",
+    "labels": [
+      "Volt (Stax)"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "blow-your-head-the-j-b-s",
+    "title": "Blow Your Head",
+    "artist": "The J.B.'s",
+    "release": "Damn Right I Am Somebody (1974), lato A, traccia 2, come Fred Wesley & the J.B.'s",
+    "album": "Damn Right I Am Somebody",
+    "year": 1974,
+    "drummers": [
+      "Jabo Starks"
+    ],
+    "drummerText": "Jabo Starks (probabile: musicisti non accreditati)",
+    "producers": [
+      "James Brown"
+    ],
+    "producerText": "James Brown (non accreditato)",
+    "labels": [
+      "People"
+    ],
+    "type": "famoso",
+    "ubb": "14"
+  },
+  {
+    "id": "bongo-rock-incredible-bongo-band",
+    "title": "Bongo Rock",
+    "artist": "Incredible Bongo Band",
+    "release": "Bongo Rock (1973)",
+    "album": "Bongo Rock",
+    "year": 1973,
+    "drummers": [
+      "Jim Gordon",
+      "King Errisson"
+    ],
+    "drummerText": "Jim Gordon e King Errisson (crediti dell'album)",
+    "producers": [
+      "Michael Viner",
+      "Perry Botkin Jr."
+    ],
+    "labels": [
+      "Pride (MGM)"
+    ],
+    "type": "famoso",
+    "ubb": "3"
+  },
+  {
+    "id": "the-boogie-back-roy-ayers-ubiquity",
+    "title": "The Boogie Back",
+    "artist": "Roy Ayers Ubiquity",
+    "release": "Change Up the Groove (1974), traccia B4",
+    "album": "Change Up the Groove",
+    "year": 1974,
+    "drummers": [
+      "Bernard Purdie",
+      "Wilby Fletcher"
+    ],
+    "producers": [],
+    "producerText": "Non indicato",
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "2"
+  },
+  {
+    "id": "bouncy-lady-pleasure",
+    "title": "Bouncy Lady",
+    "artist": "Pleasure",
+    "release": "Dust Yourself Off (1975), lato B, traccia 2",
+    "album": "Dust Yourself Off",
+    "year": 1975,
+    "drummers": [
+      "Bruce Carter"
+    ],
+    "producers": [
+      "Wayne Henderson"
+    ],
+    "labels": [
+      "Fantasy"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "the-breakdown-part-2-rufus-thomas",
+    "title": "The Breakdown (Part 2)",
+    "artist": "Rufus Thomas",
+    "release": "45 giri Stax 0098 in due parti (1971), lato B; poi nell'album Did You Heard Me? (1972), lato B, traccia 1",
+    "album": "Did You Heard Me?",
+    "year": 1971,
+    "drummers": [
+      "Willie Hall"
+    ],
+    "producers": [
+      "Al Bell"
+    ],
+    "producerText": "Al Bell (crediti per brano; l'album accredita anche Tom Nixon)",
+    "labels": [
+      "Stax"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "breakthrough-isaac-hayes",
+    "title": "Breakthrough",
+    "artist": "Isaac Hayes",
+    "release": "Truck Turner, colonna sonora (1974), traccia B1",
+    "album": "Truck Turner",
+    "year": 1974,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Isaac Hayes"
+    ],
+    "labels": [
+      "Enterprise (Stax)"
+    ],
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "bring-it-here-wild-sugar",
+    "title": "Bring It Here",
+    "artist": "Wild Sugar",
+    "release": "12\" Messin' Around / Bring It Here (1981), lato B",
+    "year": 1981,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bill \"Fatback\" Curtis",
+      "Gerry Thomas"
+    ],
+    "producerText": "Bill \"Fatback\" Curtis e Gerry Thomas (\"A Bill & Gerry Production\")",
+    "labels": [
+      "The Sound of Brooklyn"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "brother-green-the-disco-king-roy-ayers-ubiquity",
+    "title": "Brother Green (The Disco King)",
+    "artist": "Roy Ayers Ubiquity",
+    "release": "Mystic Voyage (1975), traccia 1",
+    "album": "Mystic Voyage",
+    "year": 1975,
+    "drummers": [
+      "Ricky Lawson"
+    ],
+    "producers": [
+      "Roy Ayers"
+    ],
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "bullet-the-blue-sky-u2",
+    "title": "Bullet the Blue Sky",
+    "artist": "U2",
+    "release": "The Joshua Tree (1987)",
+    "album": "The Joshua Tree",
+    "year": 1987,
+    "where": "Da 0:00",
+    "drummers": [
+      "Larry Mullen Jr."
+    ],
+    "producers": [
+      "Daniel Lanois",
+      "Brian Eno"
+    ],
+    "labels": [
+      "Island"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "burning-bridges-mike-curb-congregation",
+    "title": "Burning Bridges",
+    "artist": "Mike Curb Congregation",
+    "release": "Kelly's Heroes, colonna sonora (1970)",
+    "album": "Kelly's Heroes",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Mike Curb"
+    ],
+    "producerText": "Mike Curb (probabile)",
+    "labels": [
+      "MGM"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "catch-a-groove-juice",
+    "title": "Catch a Groove",
+    "artist": "Juice",
+    "release": "Lato B di \"Feel Like Good Music\" (1976)",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Greedy"
+    ],
+    "type": "famoso",
+    "ubb": "2"
+  },
+  {
+    "id": "cavern-liquid-liquid",
+    "title": "Cavern",
+    "artist": "Liquid Liquid",
+    "release": "Optimo, EP (1983)",
+    "album": "Optimo",
+    "year": 1983,
+    "drummers": [
+      "Scott Hartley"
+    ],
+    "producers": [
+      "Ed Bahlman"
+    ],
+    "labels": [
+      "99 Records"
+    ],
+    "type": "famoso",
+    "ubb": "9"
+  },
+  {
+    "id": "the-champ-the-mohawks",
+    "title": "The Champ",
+    "artist": "The Mohawks",
+    "release": "45 giri (1968), studio band di Alan Hawkshaw; poi LP The Champ",
+    "album": "The Champ",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Harry Palmer"
+    ],
+    "labels": [
+      "Pama"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "change-makes-you-want-to-hustle-donald-byrd",
+    "title": "Change (Makes You Want to Hustle)",
+    "artist": "Donald Byrd",
+    "release": "Places and Spaces (1975), apre il lato A",
+    "album": "Places and Spaces",
+    "year": 1975,
+    "drummers": [
+      "Harvey Mason"
+    ],
+    "producers": [
+      "Larry e Fonce Mizell"
+    ],
+    "labels": [
+      "Blue Note"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "chella-lla-orchestra-internationale",
+    "title": "Chella Llà",
+    "artist": "Orchestra Internationale",
+    "release": "Disco Italiano (1974)",
+    "album": "Disco Italiano",
+    "year": 1974,
+    "where": "2:07",
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Angelo Di Pippo"
+    ],
+    "labels": [
+      "Fiesta"
+    ],
+    "type": "famoso",
+    "ubb": "2"
+  },
+  {
+    "id": "chicken-yellow-miami",
+    "title": "Chicken Yellow",
+    "artist": "Miami",
+    "release": "The Party Freaks (1974), lato B, traccia 4",
+    "album": "The Party Freaks",
+    "year": 1974,
+    "drummers": [
+      "Freddie Scott"
+    ],
+    "producers": [
+      "Clarence Reid (Blowfly)",
+      "Willie Clarke"
+    ],
+    "labels": [
+      "Drive (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "chinese-chicken-duke-williams-and-the-extremes",
+    "title": "Chinese Chicken",
+    "artist": "Duke Williams and the Extremes",
+    "release": "A Monkey in a Silk Suit Is Still a Monkey (1973), lato A, traccia 2; anche 45 giri (1974)",
+    "album": "A Monkey in a Silk Suit Is Still a Monkey",
+    "year": 1973,
+    "drummers": [
+      "Earl Young"
+    ],
+    "drummerText": "Earl Young (probabile: lo indica una recensione dell'album; il disco ha due sezioni ritmiche, nell'altra c'è Andy Newmark)",
+    "producers": [
+      "T.J. Tindall",
+      "Skip Drinkwater"
+    ],
+    "labels": [
+      "Capricorn"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "cold-sweat-james-brown",
+    "title": "Cold Sweat",
+    "artist": "James Brown",
+    "release": "45 giri e album Cold Sweat (1967)",
+    "album": "Cold Sweat",
+    "year": 1967,
+    "drummers": [
+      "Clyde Stubblefield"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "conga-lafayette-afro-rock-band",
+    "title": "Conga",
+    "artist": "Lafayette Afro Rock Band",
+    "release": "Malik (1974), lato A, traccia 3",
+    "album": "Malik",
+    "year": 1974,
+    "drummers": [
+      "Ernest \"Donny\" Donable"
+    ],
+    "producers": [
+      "Pierre Jaubert"
+    ],
+    "labels": [
+      "America",
+      "Makossa"
+    ],
+    "labelText": "America (Francia, 1974) e Makossa (USA, 1976)",
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "cookies-brother-soul",
+    "title": "Cookies",
+    "artist": "Brother Soul",
+    "release": "45 giri (1974); poi nella raccolta Disco-Funk (RCA, 1975)",
+    "album": "Disco-Funk",
+    "year": 1974,
+    "drummers": [
+      "Phillip White",
+      "Michael Baxter"
+    ],
+    "drummerText": "Phillip White o Michael Baxter: uno dei due (batteristi del gruppo secondo la biografia su Last.fm)",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Leo Mini"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "cool-hand-stanley-wynder-k-frog",
+    "title": "Cool Hand Stanley",
+    "artist": "Wynder K. Frog",
+    "release": "Into the Fire (1970)",
+    "album": "Into the Fire",
+    "year": 1970,
+    "drummers": [
+      "Bruce Rowland"
+    ],
+    "producers": [
+      "Chris Mercer",
+      "Mick Weaver"
+    ],
+    "labels": [
+      "United Artists"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "corazon-creative-source",
+    "title": "Corazon",
+    "artist": "Creative Source",
+    "release": "Migration (1974)",
+    "album": "Migration",
+    "year": 1974,
+    "drummers": [
+      "Kenneth \"Spider Webb\" Rice"
+    ],
+    "drummerText": "Kenneth \"Spider Webb\" Rice (probabile: nei crediti dell'album come Kenny Rice)",
+    "producers": [
+      "Michael Stokes"
+    ],
+    "labels": [
+      "Sussex"
+    ],
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "country-cooking-jim-dandy",
+    "title": "Country Cooking",
+    "artist": "Jim Dandy",
+    "release": "Flash Fearless Versus the Zorg Women Parts 5 & 6 (1975), album collettivo, lato A, traccia 3 (sull'LP inglese come Country Cookin')",
+    "album": "Flash Fearless Versus the Zorg Women Parts 5 & 6",
+    "year": 1975,
+    "drummers": [
+      "Kenney Jones"
+    ],
+    "drummerText": "Kenney Jones (accreditato come Kenny Jones)",
+    "producers": [
+      "John Alcock"
+    ],
+    "labels": [
+      "Chrysalis"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "cramp-your-style-all-the-people",
+    "title": "Cramp Your Style",
+    "artist": "All the People",
+    "release": "45 giri con \"Whatcha Gonna Do About It\" (1972)",
+    "year": 1972,
+    "drummers": [],
+    "drummerText": "Non accreditato (gruppo di musicisti della TK con Robert Moore alla voce)",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Blue Candle (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "crazy-little-thing-called-love-fausto-papetti",
+    "title": "Crazy Little Thing Called Love",
+    "artist": "Fausto Papetti",
+    "release": "30ª Raccolta (1980), lato B",
+    "album": "30ª Raccolta",
+    "year": 1980,
+    "where": "Batteria isolata, minuto da annotare",
+    "drummers": [
+      "Tullio De Piscopo"
+    ],
+    "drummerText": "Tullio De Piscopo (crediti dell'album)",
+    "producers": [],
+    "producerText": "Non indicato",
+    "labels": [
+      "Durium"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "daisy-lady-7th-wonder",
+    "title": "Daisy Lady",
+    "artist": "7th Wonder",
+    "release": "1979, disco non confermato",
+    "year": 1979,
+    "drummers": [],
+    "drummerText": "Non confermato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Parachute"
+    ],
+    "type": "famoso",
+    "ubb": "1"
+  },
+  {
+    "id": "dance-to-the-drummer-s-beat-herman-kelly-life",
+    "title": "Dance to the Drummer's Beat",
+    "artist": "Herman Kelly & Life",
+    "release": "Percussion Explosion! (1978), traccia 1",
+    "album": "Percussion Explosion!",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Herman Kelly"
+    ],
+    "labels": [
+      "Alston (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "3"
+  },
+  {
+    "id": "devil-with-the-bust-sound-experience",
+    "title": "Devil with the Bust",
+    "artist": "Sound Experience",
+    "release": "Don't Fight the Feeling (1974)",
+    "album": "Don't Fight the Feeling",
+    "year": 1974,
+    "drummers": [],
+    "drummerText": "Non trovato (batterista del gruppo, nome non trovato)",
+    "producers": [
+      "Stan Watson"
+    ],
+    "labels": [
+      "Soulville"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "different-strokes-syl-johnson",
+    "title": "Different Strokes",
+    "artist": "Syl Johnson",
+    "release": "45 giri (1967), poi Dresses Too Short (1968)",
+    "album": "Dresses Too Short",
+    "year": 1967,
+    "drummers": [
+      "Morris Jennings"
+    ],
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Twinight"
+    ],
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "dirty-feet-daly-wilson-big-band",
+    "title": "Dirty Feet",
+    "artist": "Daly-Wilson Big Band",
+    "release": "The Exciting Daly-Wilson Big Band (1972)",
+    "album": "The Exciting Daly-Wilson Big Band",
+    "year": 1972,
+    "drummers": [
+      "Warren Daly"
+    ],
+    "producers": [
+      "Ed Wilson",
+      "Warren Daly"
+    ],
+    "labels": [
+      "Festival"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "dizzy-tommy-roe",
+    "title": "Dizzy",
+    "artist": "Tommy Roe",
+    "release": "45 giri (1968); poi nell'album Dizzy (1969), chiude il lato B",
+    "album": "Dizzy",
+    "year": 1968,
+    "drummers": [
+      "Hal Blaine"
+    ],
+    "producers": [
+      "Steve Barri"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "do-it-again-steely-dan",
+    "title": "Do It Again",
+    "artist": "Steely Dan",
+    "release": "Can't Buy a Thrill (1972)",
+    "album": "Can't Buy a Thrill",
+    "year": 1972,
+    "where": "Intro, da 0:00",
+    "drummers": [
+      "Jim Hodder",
+      "Victor Feldman"
+    ],
+    "drummerText": "Jim Hodder; percussioni Victor Feldman",
+    "producers": [
+      "Gary Katz"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "do-the-funky-penguin-rufus-thomas",
+    "title": "Do the Funky Penguin",
+    "artist": "Rufus Thomas",
+    "release": "45 giri in due parti (1971), su UBB probabilmente la Part 1 (lato A); poi nell'album Did You Heard Me? (1972), lato B, traccia 3",
+    "album": "Did You Heard Me?",
+    "year": 1971,
+    "drummers": [
+      "Willie Hall"
+    ],
+    "drummerText": "Willie Hall (crediti per brano della Part 1)",
+    "producers": [
+      "Tom Nixon"
+    ],
+    "producerText": "Tom Nixon (crediti per brano; l'album accredita anche Al Bell)",
+    "labels": [
+      "Stax"
+    ],
+    "type": "famoso",
+    "ubb": "1"
+  },
+  {
+    "id": "do-the-funky-penguin-part-2-rufus-thomas",
+    "title": "Do the Funky Penguin (Part 2)",
+    "artist": "Rufus Thomas",
+    "release": "45 giri in due parti (1971), lato B; poi nell'album Did You Heard Me? (1972), lato B, traccia 4",
+    "album": "Did You Heard Me?",
+    "year": 1971,
+    "drummers": [
+      "Willie Hall"
+    ],
+    "drummerText": "Willie Hall (crediti per brano della Part 1, stessa registrazione)",
+    "producers": [
+      "Tom Nixon"
+    ],
+    "producerText": "Tom Nixon (crediti per brano della Part 1, stessa registrazione; l'album accredita anche Al Bell)",
+    "labels": [
+      "Stax"
+    ],
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "do-your-dance-rose-royce",
+    "title": "Do Your Dance",
+    "artist": "Rose Royce",
+    "release": "Rose Royce II: In Full Bloom (1977)",
+    "album": "Rose Royce II: In Full Bloom",
+    "year": 1977,
+    "where": "Da 0:00, attacco a 0:22",
+    "drummers": [
+      "Henry Garner"
+    ],
+    "producers": [
+      "Norman Whitfield"
+    ],
+    "labels": [
+      "Whitfield"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "don-t-change-your-love-five-stairsteps-cubie",
+    "title": "Don't Change Your Love",
+    "artist": "Five Stairsteps & Cubie",
+    "release": "45 giri Curtom 1931 (1968); poi nell'album Love's Happening (1969), lato A, traccia 2",
+    "album": "Love's Happening",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Curtis Mayfield"
+    ],
+    "labels": [
+      "Curtom"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "down-on-the-avenue-fat-larry-s-band",
+    "title": "Down on the Avenue",
+    "artist": "Fat Larry's Band",
+    "release": "Feel It (1976)",
+    "album": "Feel It",
+    "year": 1976,
+    "drummers": [
+      "Larry James"
+    ],
+    "producers": [
+      "Vince Montana Jr."
+    ],
+    "labels": [
+      "WMOT"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "dynamite-the-bomb-shotgun",
+    "title": "Dynamite (The Bomb)",
+    "artist": "Shotgun",
+    "release": "Shotgun (1977), lato B, traccia 4",
+    "album": "Shotgun",
+    "year": 1977,
+    "drummers": [
+      "Tyrone Steels"
+    ],
+    "producers": [
+      "Al Nalli",
+      "Steve Klein"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "the-easiest-way-to-fall-freda-payne",
+    "title": "The Easiest Way to Fall",
+    "artist": "Freda Payne",
+    "release": "45 giri Invictus 9073 (1969), lato B di The Unhooked Generation; poi lato B di Band of Gold (1970) e nell'album Band of Gold (1970), lato B, traccia 6",
+    "album": "Band of Gold",
+    "year": 1969,
+    "drummers": [
+      "Uriel Jones"
+    ],
+    "drummerText": "Uriel Jones (probabile: crediti dell'album)",
+    "producers": [
+      "Brian Holland",
+      "Lamont Dozier",
+      "Eddie Holland"
+    ],
+    "producerText": "Brian Holland, Lamont Dozier e Eddie Holland (sul 45 giri come Holland-Dozier-Holland Prod.)",
+    "labels": [
+      "Invictus"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "easter-parade-ingrid",
+    "title": "Easter Parade",
+    "artist": "Ingrid",
+    "release": "12\" (1982)",
+    "year": 1982,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "9"
+  },
+  {
+    "id": "electric-frog-kool-the-gang",
+    "title": "Electric Frog",
+    "artist": "Kool & the Gang",
+    "release": "Music Is the Message (1972)",
+    "album": "Music Is the Message",
+    "year": 1972,
+    "drummers": [
+      "George \"Funky\" Brown"
+    ],
+    "producers": [
+      "Kool & the Gang"
+    ],
+    "labels": [
+      "De-Lite"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "ever-ready-johnnie-taylor",
+    "title": "Ever Ready",
+    "artist": "Johnnie Taylor",
+    "release": "Ever Ready (1978), lato A, traccia 2; anche 45 giri (1978)",
+    "album": "Ever Ready",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Don Davis"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "expansions-lonnie-liston-smith-the-cosmic-echoes",
+    "title": "Expansions",
+    "artist": "Lonnie Liston Smith & the Cosmic Echoes",
+    "release": "Expansions (1975), lato A, traccia 1; su UBB come Expansions (Part 1)",
+    "album": "Expansions",
+    "year": 1975,
+    "drummers": [
+      "Art Gore"
+    ],
+    "drummerText": "Art Gore (crediti per brano; Michael Carvin alle percussioni)",
+    "producers": [
+      "Bob Thiele",
+      "Lonnie Liston Smith"
+    ],
+    "labels": [
+      "Flying Dutchman (RCA)"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "fatbackin-the-fatback-band",
+    "title": "Fatbackin'",
+    "artist": "The Fatback Band",
+    "release": "People Music (1973)",
+    "album": "People Music",
+    "year": 1973,
+    "drummers": [
+      "Bill \"Fatback\" Curtis",
+      "Wayne Woolford"
+    ],
+    "drummerText": "Bill \"Fatback\" Curtis e Wayne Woolford (crediti dell'album)",
+    "producers": [
+      "The Fatback Band"
+    ],
+    "labels": [
+      "Perception"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "feel-good-fancy",
+    "title": "Feel Good",
+    "artist": "Fancy",
+    "release": "Wild Thing (1974), lato B, traccia 5",
+    "album": "Wild Thing",
+    "year": 1974,
+    "drummers": [
+      "Les Binks"
+    ],
+    "drummerText": "Les Binks (probabile: batterista del gruppo; nell'album anche Clem Cattini e Henry Spinetti)",
+    "producers": [
+      "Mike Hurst"
+    ],
+    "labels": [
+      "Big Tree (Atlantic)"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "films-gary-numan",
+    "title": "Films",
+    "artist": "Gary Numan",
+    "release": "The Pleasure Principle (1979), lato A, traccia 4",
+    "album": "The Pleasure Principle",
+    "year": 1979,
+    "drummers": [
+      "Cedric Sharpley"
+    ],
+    "producers": [
+      "Gary Numan"
+    ],
+    "labels": [
+      "Beggars Banquet",
+      "Atco"
+    ],
+    "labelText": "Beggars Banquet (Regno Unito) e Atco (USA)",
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "flip-jesse-green",
+    "title": "Flip",
+    "artist": "Jesse Green",
+    "release": "Flip (1976)",
+    "album": "Flip",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Ken Gibson"
+    ],
+    "producerText": "Ken Gibson (probabile)",
+    "labels": [
+      "EMI"
+    ],
+    "labelText": "EMI (probabile)",
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "fly-fly-the-route-shoot-if",
+    "title": "Fly, Fly, the Route, Shoot",
+    "artist": "If",
+    "release": "Double Diamond (1973); in Germania This Is If",
+    "album": "Double Diamond",
+    "year": 1973,
+    "drummers": [
+      "Cliff Davies"
+    ],
+    "producers": [
+      "Lew Futterman"
+    ],
+    "labels": [
+      "Metromedia",
+      "Brain"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "footsteps-in-the-dark-the-isley-brothers",
+    "title": "Footsteps in the Dark",
+    "artist": "The Isley Brothers",
+    "release": "Go for Your Guns (1977)",
+    "album": "Go for Your Guns",
+    "year": 1977,
+    "drummers": [
+      "Ernie Isley"
+    ],
+    "producers": [
+      "The Isley Brothers",
+      "Malcolm Cecil",
+      "Robert Margouleff"
+    ],
+    "producerText": "The Isley Brothers, con Malcolm Cecil e Robert Margouleff",
+    "labels": [
+      "T-Neck"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "free-your-mind-the-politicians",
+    "title": "Free Your Mind",
+    "artist": "The Politicians",
+    "release": "The Politicians Featuring McKinley Jackson (1972), lato A, traccia 4; anche 45 giri",
+    "album": "The Politicians Featuring McKinley Jackson",
+    "year": 1972,
+    "drummers": [
+      "Zac Slater"
+    ],
+    "drummerText": "Zac Slater (probabile: batterista del gruppo nel 1972)",
+    "producers": [
+      "McKinley Jackson"
+    ],
+    "labels": [
+      "Hot Wax"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "frisco-disco-eastside-connection",
+    "title": "Frisco Disco",
+    "artist": "Eastside Connection",
+    "release": "12\" (1978)",
+    "year": 1978,
+    "drummers": [
+      "Salvador Rodriguez"
+    ],
+    "producers": [
+      "Eddie Davis"
+    ],
+    "labels": [
+      "Rampart"
+    ],
+    "type": "famoso",
+    "ubb": "13"
+  },
+  {
+    "id": "funky-drummer-james-brown",
+    "title": "Funky Drummer",
+    "artist": "James Brown",
+    "release": "45 giri (1970)",
+    "year": 1970,
+    "drummers": [
+      "Clyde Stubblefield"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "funky-music-is-the-thing-dynamic-corvettes",
+    "title": "Funky Music Is the Thing",
+    "artist": "Dynamic Corvettes",
+    "release": "45 giri in due parti (1975)",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Carroll Hynson",
+      "Joe Tate"
+    ],
+    "producerText": "Carroll Hynson e Joe Tate (probabile: in etichetta \"C. Hynson e J. Tate\")",
+    "labels": [
+      "Abet"
+    ],
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "funky-president-james-brown",
+    "title": "Funky President",
+    "artist": "James Brown",
+    "release": "Reality (1974)",
+    "album": "Reality",
+    "year": 1974,
+    "drummers": [
+      "Allan Schwartzberg"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "gangster-boogie-chicago-gangsters",
+    "title": "Gangster Boogie",
+    "artist": "Chicago Gangsters",
+    "release": "Blind Over You (1975), lato B, traccia 1",
+    "album": "Blind Over You",
+    "year": 1975,
+    "drummers": [
+      "Brian Grice"
+    ],
+    "producers": [
+      "Mac & Mac"
+    ],
+    "labels": [
+      "Gold Plate"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "get-me-back-on-time-engine-number-9-wilson-pickett",
+    "title": "Get Me Back on Time, Engine Number 9",
+    "artist": "Wilson Pickett",
+    "release": "Wilson Pickett in Philadelphia (1970)",
+    "album": "Wilson Pickett in Philadelphia",
+    "year": 1970,
+    "drummers": [
+      "Earl Young"
+    ],
+    "producers": [
+      "Kenneth Gamble",
+      "Leon Huff"
+    ],
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "famoso",
+    "ubb": "2"
+  },
+  {
+    "id": "get-out-of-my-life-woman-lee-dorsey",
+    "title": "Get Out of My Life, Woman",
+    "artist": "Lee Dorsey",
+    "release": "45 giri (1966)",
+    "year": 1966,
+    "drummers": [
+      "June Gardner",
+      "Clarence Brown"
+    ],
+    "drummerText": "June Gardner o Clarence Brown",
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "labels": [
+      "Amy"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "get-out-of-my-life-woman-solomon-burke",
+    "title": "Get Out of My Life, Woman",
+    "artist": "Solomon Burke",
+    "release": "I Wish I Knew (1968), lato A, traccia 2; poi su 45 giri Atlantic 2566 (1968) in versione accorciata. Registrato a Memphis (American Sound Studio) nel marzo 1968",
+    "album": "I Wish I Knew",
+    "year": 1968,
+    "drummers": [
+      "Gene Chrisman"
+    ],
+    "drummerText": "Gene Chrisman (probabile: era il batterista fisso dello studio; la scheda della sessione non riporta i musicisti)",
+    "producers": [
+      "Tom Dowd"
+    ],
+    "producerText": "Tom Dowd (crediti del 45 giri; arrangiamenti di Arif Mardin)",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "get-up-and-dance-freedom",
+    "title": "Get Up and Dance",
+    "artist": "Freedom",
+    "release": "45 giri (1979)",
+    "year": 1979,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Jesse Thompson",
+      "Vernon Weakley",
+      "Mike Daniel",
+      "Freedom"
+    ],
+    "producerText": "Jesse Thompson, Vernon Weakley, Mike Daniel e i Freedom",
+    "labels": [
+      "Malaco"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "gimme-what-you-got-le-pamplemousse",
+    "title": "Gimme What You Got",
+    "artist": "Le Pamplemousse",
+    "release": "12\" (1976)",
+    "year": 1976,
+    "drummers": [
+      "Laurin Rinder"
+    ],
+    "drummerText": "Laurin Rinder (probabile: lui e Lewis suonavano tutti gli strumenti)",
+    "producers": [
+      "Laurin Rinder",
+      "W. Michael Lewis"
+    ],
+    "labels": [
+      "AVI"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "give-it-to-you-upp",
+    "title": "Give It to You",
+    "artist": "UPP",
+    "release": "Upp (1975), traccia 5",
+    "album": "Upp",
+    "year": 1975,
+    "drummers": [
+      "Jim Copley"
+    ],
+    "producers": [
+      "Jeff Beck"
+    ],
+    "labels": [
+      "Epic"
+    ],
+    "type": "famoso",
+    "ubb": "3"
+  },
+  {
+    "id": "give-it-up-or-turnit-a-loose-james-brown",
+    "title": "Give It Up or Turnit a Loose",
+    "artist": "James Brown",
+    "release": "Sex Machine (1970), versione dal vivo",
+    "album": "Sex Machine",
+    "year": 1970,
+    "drummers": [
+      "Clyde Stubblefield"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "god-make-me-funky-the-headhunters",
+    "title": "God Make Me Funky",
+    "artist": "The Headhunters",
+    "release": "Survival of the Fittest (1975), apre il lato A",
+    "album": "Survival of the Fittest",
+    "year": 1975,
+    "drummers": [
+      "Mike Clark"
+    ],
+    "producers": [
+      "David Rubinson",
+      "Herbie Hancock"
+    ],
+    "labels": [
+      "Arista"
+    ],
+    "type": "famoso",
+    "ubb": "11"
+  },
+  {
+    "id": "good-old-music-funkadelic",
+    "title": "Good Old Music",
+    "artist": "Funkadelic",
+    "release": "Funkadelic (1970)",
+    "album": "Funkadelic",
+    "year": 1970,
+    "drummers": [
+      "Tiki Fulwood"
+    ],
+    "producers": [
+      "George Clinton"
+    ],
+    "labels": [
+      "Westbound"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "got-to-be-real-cheryl-lynn",
+    "title": "Got to Be Real",
+    "artist": "Cheryl Lynn",
+    "release": "Cheryl Lynn (1978)",
+    "album": "Cheryl Lynn",
+    "year": 1978,
+    "drummers": [
+      "James Gadson"
+    ],
+    "producers": [
+      "David Paich",
+      "Marty Paich"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "famoso",
+    "ubb": "3"
+  },
+  {
+    "id": "gotta-get-out-of-here-lucy-hawkins",
+    "title": "Gotta Get Out of Here",
+    "artist": "Lucy Hawkins",
+    "release": "Lato B del 12\" \"Lady of the Night\" (1978)",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "John Davis"
+    ],
+    "labels": [
+      "SAM"
+    ],
+    "type": "famoso",
+    "ubb": "11"
+  },
+  {
+    "id": "granny-s-funky-rolls-royce-junie",
+    "title": "Granny's Funky Rolls Royce",
+    "artist": "Junie",
+    "release": "Freeze (1975), lato B, traccia 3",
+    "album": "Freeze",
+    "year": 1975,
+    "drummers": [
+      "Junie Morrison"
+    ],
+    "drummerText": "Junie Morrison (suona tutti gli strumenti, crediti dell'album)",
+    "producers": [
+      "Junie Morrison"
+    ],
+    "labels": [
+      "Westbound"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "groove-to-get-down-t-connection",
+    "title": "Groove to Get Down",
+    "artist": "T-Connection",
+    "release": "On Fire (1978), lato B, traccia 2",
+    "album": "On Fire",
+    "year": 1978,
+    "drummers": [
+      "Berkley Van Byrd",
+      "Anthony Flowers"
+    ],
+    "drummerText": "Berkley Van Byrd o Anthony Flowers: uno dei due (batteristi del gruppo in quegli anni)",
+    "producers": [
+      "Alex Sadkin",
+      "Cory Wade",
+      "T-Connection"
+    ],
+    "producerText": "Alex Sadkin, Cory Wade e i T-Connection",
+    "labels": [
+      "Dash (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "the-grunt-part-1-the-j-b-s",
+    "title": "The Grunt (Part 1)",
+    "artist": "The J.B.'s",
+    "release": "45 giri in due parti (1970); poi nell'album Food for Thought (1972)",
+    "album": "Food for Thought",
+    "year": 1970,
+    "drummers": [
+      "Frank \"Kash\" Waddy"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "hand-clapping-song-the-meters",
+    "title": "Hand Clapping Song",
+    "artist": "The Meters",
+    "release": "Struttin' (1970), traccia 7",
+    "album": "Struttin'",
+    "year": 1970,
+    "drummers": [
+      "Zigaboo Modeliste"
+    ],
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "labels": [
+      "Josie"
+    ],
+    "type": "famoso",
+    "ubb": "13"
+  },
+  {
+    "id": "hard-to-handle-otis-redding",
+    "title": "Hard to Handle",
+    "artist": "Otis Redding",
+    "release": "The Immortal Otis Redding (1968), lato A, traccia 4; anche 45 giri Atco 6592 (1968), lato B di Amen",
+    "album": "The Immortal Otis Redding",
+    "year": 1968,
+    "drummers": [
+      "Al Jackson Jr."
+    ],
+    "producers": [
+      "Steve Cropper"
+    ],
+    "labels": [
+      "Atco"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "heart-of-glass-blondie",
+    "title": "Heart of Glass",
+    "artist": "Blondie",
+    "release": "Parallel Lines (1978)",
+    "album": "Parallel Lines",
+    "year": 1978,
+    "where": "Intro: sola drum machine",
+    "drummers": [
+      "Clem Burke"
+    ],
+    "drummerText": "Clem Burke + drum machine Roland CR-78",
+    "producers": [
+      "Mike Chapman"
+    ],
+    "labels": [
+      "Chrysalis"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "heaven-and-hell-is-on-earth-20th-century-steel-band",
+    "title": "Heaven and Hell Is on Earth",
+    "artist": "20th Century Steel Band",
+    "release": "Warm Heart Cold Steel (1975), traccia B1",
+    "album": "Warm Heart Cold Steel",
+    "year": 1975,
+    "drummers": [
+      "Collins Moore"
+    ],
+    "producers": [
+      "Alan David"
+    ],
+    "labels": [
+      "United Artists"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "hector-the-village-callers",
+    "title": "Hector",
+    "artist": "The Village Callers",
+    "release": "45 giri in due parti (1968); anche nell'album The Village Callers Live (1968)",
+    "album": "The Village Callers Live",
+    "year": 1968,
+    "drummers": [
+      "Manny Fernandez"
+    ],
+    "drummerText": "Manny Fernandez (probabile: batterista del gruppo nell'album del 1968)",
+    "producers": [
+      "Eddie Davis"
+    ],
+    "labels": [
+      "Rampart"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "hihache-lafayette-afro-rock-band",
+    "title": "Hihache",
+    "artist": "Lafayette Afro Rock Band",
+    "release": "Soul Makossa (1973)",
+    "album": "Soul Makossa",
+    "year": 1973,
+    "drummers": [
+      "Ernest \"Donny\" Donable"
+    ],
+    "producers": [
+      "Pierre Jaubert"
+    ],
+    "labels": [
+      "Musidisc"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "hit-or-miss-bo-diddley",
+    "title": "Hit or Miss",
+    "artist": "Bo Diddley",
+    "release": "Big Bad Bo (1974)",
+    "album": "Big Bad Bo",
+    "year": 1974,
+    "drummers": [
+      "Jimmy Johnson Jr."
+    ],
+    "producers": [
+      "Esmond Edwards"
+    ],
+    "labels": [
+      "Chess"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "honky-tonk-women-the-rolling-stones",
+    "title": "Honky Tonk Women",
+    "artist": "The Rolling Stones",
+    "release": "45 giri (1969)",
+    "year": 1969,
+    "where": "Intro con campanaccio",
+    "drummers": [
+      "Charlie Watts"
+    ],
+    "producers": [
+      "Jimmy Miller"
+    ],
+    "producerText": "Jimmy Miller, che suona il campanaccio",
+    "labels": [
+      "Decca",
+      "London"
+    ],
+    "type": "famoso",
+    "ubb": "2"
+  },
+  {
+    "id": "hook-sling-eddie-bo",
+    "title": "Hook & Sling",
+    "artist": "Eddie Bo",
+    "release": "45 giri in due parti (1969)",
+    "year": 1969,
+    "drummers": [
+      "James Black"
+    ],
+    "producers": [
+      "Al Scramuzza"
+    ],
+    "producerText": "Al Scramuzza (arrangiamento di Eddie Bo)",
+    "labels": [
+      "Scram"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "hot-pants-too-the-hank-carbo-offramp-featuring-hank-kranen",
+    "title": "Hot Pants, Too",
+    "artist": "The Hank Carbo Offramp Featuring Hank Kranen",
+    "release": "45 giri ALA A-1172 (1971), lato B di Hot Pants (Hank Carbo); su UBB come Hot Pants Pt. 2; la stampa Laff Records dello stesso numero ha un altro mix del lato B",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Hank Carbo",
+      "Hank Kranen"
+    ],
+    "producerText": "Hank Carbo e Hank Kranen (sul disco solo \"Hank\" due volte)",
+    "labels": [
+      "ALA"
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "house-of-rising-funk-the-chubukos",
+    "title": "House of Rising Funk",
+    "artist": "The Chubukos",
+    "release": "Lato B del 45 giri \"Witch Doctor Bump\" (1973); anche nell'album Soul Makossa degli Afrique (1973), lato B, traccia 2",
+    "album": "Soul Makossa (Afrique)",
+    "year": 1973,
+    "drummers": [
+      "Ray Pounds"
+    ],
+    "drummerText": "Ray Pounds (probabile: crediti dell'album degli Afrique, stesso gruppo con altro nome; tra i percussionisti anche Paul Humphrey)",
+    "producers": [
+      "Bob Shad"
+    ],
+    "producerText": "Bob Shad (probabile: titolare della Mainstream, ha messo insieme il gruppo)",
+    "labels": [
+      "Mainstream"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "humpty-dump-the-vibrettes",
+    "title": "Humpty Dump",
+    "artist": "The Vibrettes",
+    "release": "45 giri (1973)",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Roscoe Porter"
+    ],
+    "labels": [
+      "Lujon"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "hydra-grover-washington-jr",
+    "title": "Hydra",
+    "artist": "Grover Washington Jr.",
+    "release": "Feels So Good (1975)",
+    "album": "Feels So Good",
+    "year": 1975,
+    "drummers": [
+      "Kenneth \"Spider Webb\" Rice"
+    ],
+    "producers": [
+      "Creed Taylor"
+    ],
+    "labels": [
+      "Kudu (CTI)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "i-believe-in-music-kay-gees",
+    "title": "I Believe in Music",
+    "artist": "Kay-Gees",
+    "release": "Find a Friend (1976), lato A, traccia 4",
+    "album": "Find a Friend",
+    "year": 1976,
+    "drummers": [
+      "Callie Cheek"
+    ],
+    "producers": [
+      "Ronald Bell"
+    ],
+    "producerText": "Ronald Bell (accreditato come Khalis Bayyan, di Kool & the Gang)",
+    "labels": [
+      "Gang (De-Lite)"
+    ],
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "i-can-t-stop-john-davis-the-monster-orchestra",
+    "title": "I Can't Stop",
+    "artist": "John Davis & the Monster Orchestra",
+    "release": "Night and Day (1976), apre il lato B",
+    "album": "Night and Day",
+    "year": 1976,
+    "drummers": [
+      "Charles Collins"
+    ],
+    "producers": [
+      "John Davis"
+    ],
+    "labels": [
+      "SAM"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "i-get-lifted-kc-the-sunshine-band",
+    "title": "I Get Lifted",
+    "artist": "KC & the Sunshine Band",
+    "release": "KC and the Sunshine Band (1975), lato B, traccia 4",
+    "album": "KC and the Sunshine Band",
+    "year": 1975,
+    "drummers": [
+      "Robert Johnson",
+      "Richard Finch"
+    ],
+    "drummerText": "Robert Johnson o Richard Finch: uno dei due (crediti dell'album)",
+    "producers": [
+      "Harry Wayne Casey",
+      "Richard Finch"
+    ],
+    "labels": [
+      "TK"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "i-know-you-got-soul-bobby-byrd",
+    "title": "I Know You Got Soul",
+    "artist": "Bobby Byrd",
+    "release": "45 giri (1971)",
+    "year": 1971,
+    "drummers": [
+      "Jabo Starks"
+    ],
+    "drummerText": "Jabo Starks (secondo il blog Funkatropolis)",
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "i-like-funky-music-uncle-louie",
+    "title": "I Like Funky Music",
+    "artist": "Uncle Louie",
+    "release": "Uncle Louie's Here (1979)",
+    "album": "Uncle Louie's Here",
+    "year": 1979,
+    "drummers": [
+      "Ed Greene",
+      "Bobby May"
+    ],
+    "drummerText": "Ed Greene o Bobby May: uno dei due (crediti dell'album)",
+    "producers": [
+      "Walter Murphy"
+    ],
+    "labels": [
+      "Marlin (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "i-think-i-d-do-it-z-z-hill",
+    "title": "I Think I'd Do It",
+    "artist": "Z.Z. Hill",
+    "release": "The Brand New Z.Z. Hill (1971)",
+    "album": "The Brand New Z.Z. Hill",
+    "year": 1971,
+    "where": "Si apre con la sola batteria",
+    "drummers": [
+      "Fred Proudy",
+      "Jasper Guarino",
+      "Lou Mullenix"
+    ],
+    "drummerText": "Fred Proudy, Jasper Guarino o Lou Mullenix: uno dei tre",
+    "producers": [
+      "Swamp Dogg"
+    ],
+    "labels": [
+      "Mankind"
+    ],
+    "labelText": "Mankind (probabile)",
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "i-walk-on-gilded-splinters-johnny-jenkins",
+    "title": "I Walk on Gilded Splinters",
+    "artist": "Johnny Jenkins",
+    "release": "Ton-Ton Macoute! (1970)",
+    "album": "Ton-Ton Macoute!",
+    "year": 1970,
+    "drummers": [
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "drummerText": "Butch Trucks; timbales Jaimoe",
+    "producers": [
+      "Duane Allman",
+      "Johnny Sandlin"
+    ],
+    "labels": [
+      "Capricorn",
+      "Atco"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "i-wouldn-t-change-a-thing-coke-escovedo",
+    "title": "I Wouldn't Change a Thing",
+    "artist": "Coke Escovedo",
+    "release": "Comin' at Ya! (1976), traccia 8; su UBB unita a \"Runaway\"",
+    "album": "Comin' at Ya!",
+    "year": 1976,
+    "drummers": [
+      "Glenn Symmonds",
+      "Coke Escovedo"
+    ],
+    "drummerText": "Glenn Symmonds; percussioni Coke Escovedo",
+    "producers": [
+      "Patrick Gleeson"
+    ],
+    "labels": [
+      "Mercury"
+    ],
+    "type": "famoso",
+    "ubb": "13"
+  },
+  {
+    "id": "i-m-glad-you-re-mine-al-green",
+    "title": "I'm Glad You're Mine",
+    "artist": "Al Green",
+    "release": "I'm Still in Love with You (1972)",
+    "album": "I'm Still in Love with You",
+    "year": 1972,
+    "where": "Intro",
+    "drummers": [
+      "Howard Grimes"
+    ],
+    "producers": [
+      "Willie Mitchell",
+      "Al Green"
+    ],
+    "labels": [
+      "Hi"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "i-m-gonna-get-you-sir-joe-quarterman-free-soul",
+    "title": "I'm Gonna Get You",
+    "artist": "Sir Joe Quarterman & Free Soul",
+    "release": "45 giri, non incluso nell'album del 1973",
+    "year": 1974,
+    "drummers": [
+      "Allen Stewart"
+    ],
+    "drummerText": "Allen Stewart (probabile: batterista del gruppo nell'album del 1973)",
+    "producers": [
+      "Bill Tate",
+      "Cotter Wells",
+      "Joe Quarterman"
+    ],
+    "producerText": "Bill Tate, Cotter Wells e Joe Quarterman (probabile: produttori dell'album del 1973)",
+    "labels": [
+      "GSF"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "i-m-gonna-love-you-just-a-little-more-baby-barry-white",
+    "title": "I'm Gonna Love You Just a Little More Baby",
+    "artist": "Barry White",
+    "release": "I've Got So Much to Give (1973)",
+    "album": "I've Got So Much to Give",
+    "year": 1973,
+    "where": "Intro, da 0:01",
+    "drummers": [
+      "Ed Greene"
+    ],
+    "producers": [
+      "Barry White"
+    ],
+    "labels": [
+      "20th Century"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "i-ve-been-watching-you-southside-movement",
+    "title": "I've Been Watching You",
+    "artist": "Southside Movement",
+    "release": "The South Side Movement (1973), lato A, traccia 1; sul disco il titolo è I' Been Watching You; anche 45 giri (1973)",
+    "album": "The South Side Movement",
+    "year": 1973,
+    "drummers": [
+      "Willie Hayes"
+    ],
+    "drummerText": "Willie Hayes (crediti dell'album)",
+    "producers": [
+      "James Vanleer"
+    ],
+    "labels": [
+      "Wand (Scepter)"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "impeach-the-president-the-honey-drippers",
+    "title": "Impeach the President",
+    "artist": "The Honey Drippers",
+    "release": "45 giri (1973)",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Sconosciuto, un liceale",
+    "producers": [
+      "Roy C"
+    ],
+    "labels": [
+      "Alaga"
+    ],
+    "type": "famoso",
+    "ubb": "11"
+  },
+  {
+    "id": "indiscreet-d-c-larue",
+    "title": "Indiscreet",
+    "artist": "D.C. LaRue",
+    "release": "The Tea Dance (1976), traccia 5",
+    "album": "The Tea Dance",
+    "year": 1976,
+    "drummers": [
+      "Chris Parker",
+      "Grady Tate"
+    ],
+    "producers": [
+      "Aram Schefrin",
+      "D.C. LaRue"
+    ],
+    "labels": [
+      "Pyramid"
+    ],
+    "type": "famoso",
+    "ubb": "1"
+  },
+  {
+    "id": "infatuation-up-front",
+    "title": "Infatuation",
+    "artist": "Up Front",
+    "release": "12\" (1983)",
+    "year": 1983,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Eddie Colon",
+      "Fred Zarr"
+    ],
+    "labels": [
+      "Silver Cloud"
+    ],
+    "type": "famoso",
+    "ubb": "8"
+  },
+  {
+    "id": "it-s-a-new-day-skull-snaps",
+    "title": "It's a New Day",
+    "artist": "Skull Snaps",
+    "release": "Skull Snaps (1973)",
+    "album": "Skull Snaps",
+    "year": 1973,
+    "drummers": [
+      "Harold Sargent",
+      "George Bragg"
+    ],
+    "drummerText": "Harold Sargent secondo Modern Drummer; spesso attribuita a George Bragg",
+    "producers": [
+      "George Kerr"
+    ],
+    "labels": [
+      "GSF"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "it-s-great-to-be-here-the-jackson-5",
+    "title": "It's Great to Be Here",
+    "artist": "The Jackson 5",
+    "release": "Maybe Tomorrow (1971)",
+    "album": "Maybe Tomorrow",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "The Corporation",
+      "Freddie Perren"
+    ],
+    "producerText": "The Corporation (probabile): Berry Gordy, Freddie Perren, Fonce Mizell e Deke Richards",
+    "labels": [
+      "Motown"
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "it-s-just-begun-the-jimmy-castor-bunch",
+    "title": "It's Just Begun",
+    "artist": "The Jimmy Castor Bunch",
+    "release": "It's Just Begun (1972), lato A, traccia 2",
+    "album": "It's Just Begun",
+    "year": 1972,
+    "drummers": [
+      "Bobby Manigault"
+    ],
+    "drummerText": "Bobby Manigault (probabile: è lui alla batteria su Phase Two, l'album RCA successivo)",
+    "producers": [
+      "Jimmy Castor",
+      "John Pruitt"
+    ],
+    "producerText": "Jimmy Castor e John Pruitt (Castor-Pruitt Productions)",
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "it-s-my-thing-marva-whitney",
+    "title": "It's My Thing",
+    "artist": "Marva Whitney",
+    "release": "45 giri (1969); anche nell'album It's My Thing (1969), lato A, tracce 1-2",
+    "album": "It's My Thing",
+    "year": 1969,
+    "drummers": [
+      "Clyde Stubblefield"
+    ],
+    "drummerText": "Clyde Stubblefield (probabile: band di James Brown, batteria non accreditata per brano)",
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "jack-diane-john-cougar",
+    "title": "Jack & Diane",
+    "artist": "John Cougar",
+    "release": "American Fool (1982), lato A, traccia 2",
+    "album": "American Fool",
+    "year": 1982,
+    "drummers": [
+      "Kenny Aronoff"
+    ],
+    "drummerText": "Kenny Aronoff (batteria e LinnDrum)",
+    "producers": [
+      "John Mellencamp",
+      "Don Gehman"
+    ],
+    "producerText": "John Mellencamp (come John Cougar) e Don Gehman",
+    "labels": [
+      "Riva"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "the-jam-graham-central-station",
+    "title": "The Jam",
+    "artist": "Graham Central Station",
+    "release": "Ain't No 'Bout-A-Doubt It (1975), lato A, traccia 1",
+    "album": "Ain't No 'Bout-A-Doubt It",
+    "year": 1975,
+    "drummers": [
+      "Manuel Kellough"
+    ],
+    "drummerText": "Manuel Kellough (crediti per brano; nello stesso brano Patryce Banks programma una drum machine, il funk box)",
+    "producers": [
+      "Larry Graham"
+    ],
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "jam-on-the-groove-ralph-macdonald",
+    "title": "Jam on the Groove",
+    "artist": "Ralph MacDonald",
+    "release": "Sound of a Drum (1976), apre il lato B",
+    "album": "Sound of a Drum",
+    "year": 1976,
+    "drummers": [
+      "Rick Marotta",
+      "Ralph MacDonald"
+    ],
+    "drummerText": "Rick Marotta; percussioni Ralph MacDonald",
+    "producers": [
+      "Ralph MacDonald",
+      "William Salter"
+    ],
+    "labels": [
+      "Marlin (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "14"
+  },
+  {
+    "id": "johnny-the-fox-meets-jimmy-the-weed-thin-lizzy",
+    "title": "Johnny the Fox Meets Jimmy the Weed",
+    "artist": "Thin Lizzy",
+    "release": "Johnny the Fox (1976), apre il lato B",
+    "album": "Johnny the Fox",
+    "year": 1976,
+    "drummers": [
+      "Brian Downey"
+    ],
+    "producers": [
+      "John Alcock"
+    ],
+    "labels": [
+      "Vertigo",
+      "Mercury"
+    ],
+    "labelText": "Vertigo, Mercury (USA)",
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "joyous-pleasure",
+    "title": "Joyous",
+    "artist": "Pleasure",
+    "release": "Joyous (1977), lato A, traccia 1; anche su 45 giri",
+    "album": "Joyous",
+    "year": 1977,
+    "drummers": [
+      "Bruce Carter"
+    ],
+    "drummerText": "Bruce Carter (crediti dell'album)",
+    "producers": [
+      "Wayne Henderson"
+    ],
+    "labels": [
+      "Fantasy"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "keep-on-pushin-coalkitchen",
+    "title": "Keep On Pushin'",
+    "artist": "Coalkitchen",
+    "release": "Thirsty or Not... Choose Your Flavor (1977), traccia 8",
+    "album": "Thirsty or Not... Choose Your Flavor",
+    "year": 1977,
+    "drummers": [
+      "Bobby Carlin"
+    ],
+    "drummerText": "Bobby Carlin (crediti dell'album)",
+    "producers": [
+      "Michael Day"
+    ],
+    "labels": [
+      "Full Moon"
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "keep-your-distance-babe-ruth",
+    "title": "Keep Your Distance",
+    "artist": "Babe Ruth",
+    "release": "Kid's Stuff (1976), lato B, traccia 4",
+    "album": "Kid's Stuff",
+    "year": 1976,
+    "drummers": [
+      "Ed Spevock"
+    ],
+    "producers": [
+      "Steve Rowland"
+    ],
+    "labels": [
+      "Capitol",
+      "EMI"
+    ],
+    "labelText": "Capitol, EMI (UK)",
+    "type": "famoso",
+    "ubb": "13"
+  },
+  {
+    "id": "kissing-my-love-bill-withers",
+    "title": "Kissing My Love",
+    "artist": "Bill Withers",
+    "release": "Still Bill (1972), apre il lato B; anche 45 giri (1973)",
+    "album": "Still Bill",
+    "year": 1972,
+    "drummers": [
+      "James Gadson"
+    ],
+    "producers": [
+      "Bill Withers",
+      "Ray Jackson",
+      "Benorce Blackmon",
+      "Melvin Dunlap",
+      "James Gadson"
+    ],
+    "labels": [
+      "Sussex"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "knock-him-out-sugar-ray-experience-unlimited",
+    "title": "Knock Him Out Sugar Ray",
+    "artist": "Experience Unlimited",
+    "release": "45 giri (1980)",
+    "year": 1980,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Vermack"
+    ],
+    "type": "famoso",
+    "ubb": "14"
+  },
+  {
+    "id": "knock-yourself-out-tower-of-power",
+    "title": "Knock Yourself Out",
+    "artist": "Tower of Power",
+    "release": "East Bay Grease (1970), traccia 1",
+    "album": "East Bay Grease",
+    "year": 1970,
+    "drummers": [
+      "David Garibaldi"
+    ],
+    "producers": [
+      "David Rubinson"
+    ],
+    "labels": [
+      "San Francisco Records"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "kool-is-back-funk-inc",
+    "title": "Kool Is Back",
+    "artist": "Funk, Inc.",
+    "release": "Funk, Inc. (1971), apre il lato A",
+    "album": "Funk, Inc.",
+    "year": 1971,
+    "drummers": [
+      "Jimmy Munford"
+    ],
+    "producers": [
+      "Bob Porter"
+    ],
+    "labels": [
+      "Prestige"
+    ],
+    "type": "famoso",
+    "ubb": "11"
+  },
+  {
+    "id": "l-uomo-e-la-citta-piero-umiliani",
+    "title": "L'Uomo e la Città",
+    "artist": "Piero Umiliani",
+    "release": "L'Uomo e la Città (1976)",
+    "album": "L'Uomo e la Città",
+    "year": 1976,
+    "where": "Non indicato; versione \"Beat\"",
+    "drummers": [
+      "Gegè Munari",
+      "Enzo Restuccia"
+    ],
+    "drummerText": "Gegè Munari o Enzo Restuccia: tutti e due accreditati sull'album",
+    "producers": [
+      "Piero Umiliani"
+    ],
+    "labels": [
+      "Liuto"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "last-night-changed-it-all-i-really-had-a-ball-esther-williams",
+    "title": "Last Night Changed It All (I Really Had a Ball)",
+    "artist": "Esther Williams",
+    "release": "1976",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Friends & Co."
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "let-a-woman-be-a-woman-let-a-man-be-a-man-dyke-the-blazers",
+    "title": "Let a Woman Be a Woman, Let a Man Be a Man",
+    "artist": "Dyke & the Blazers",
+    "release": "45 giri (1969)",
+    "year": 1969,
+    "drummers": [
+      "James Gadson"
+    ],
+    "producers": [
+      "Art Laboe",
+      "Art Barrett"
+    ],
+    "labels": [
+      "Original Sound"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "let-the-drums-speak-the-fatback-band",
+    "title": "Let the Drums Speak",
+    "artist": "The Fatback Band",
+    "release": "Yum Yum (1975)",
+    "album": "Yum Yum",
+    "year": 1975,
+    "drummers": [
+      "Bill \"Fatback\" Curtis"
+    ],
+    "producers": [
+      "The Fatback Band"
+    ],
+    "producerText": "The Fatback Band (autoprodotto)",
+    "labels": [
+      "Event"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "let-s-dance-pleasure",
+    "title": "Let's Dance",
+    "artist": "Pleasure",
+    "release": "Accept No Substitutes (1976)",
+    "album": "Accept No Substitutes",
+    "year": 1976,
+    "drummers": [
+      "Bruce Carter"
+    ],
+    "producers": [
+      "Wayne Henderson"
+    ],
+    "labels": [
+      "Fantasy"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "let-s-get-small-trouble-funk",
+    "title": "Let's Get Small",
+    "artist": "Trouble Funk",
+    "release": "12\" D.E.T.T. RC 501 (1982)",
+    "year": 1982,
+    "drummers": [
+      "Emmett Nixon"
+    ],
+    "drummerText": "Emmett Nixon (probabile: batterista del gruppo nel 1982, accreditato sull'album Drop the Bomb)",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "D.E.T.T."
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "let-s-have-some-fun-bar-kays",
+    "title": "Let's Have Some Fun",
+    "artist": "Bar-Kays",
+    "release": "Flying High on Your Love (1977), apre il lato B",
+    "album": "Flying High on Your Love",
+    "year": 1977,
+    "drummers": [
+      "Michael Beard"
+    ],
+    "producers": [
+      "Allen Jones"
+    ],
+    "labels": [
+      "Mercury"
+    ],
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "life-could-rotary-connection",
+    "title": "Life Could",
+    "artist": "Rotary Connection",
+    "release": "Aladdin (1968)",
+    "album": "Aladdin",
+    "year": 1968,
+    "drummers": [
+      "Morris Jennings"
+    ],
+    "drummerText": "Morris Jennings (probabile)",
+    "producers": [
+      "Marshall Chess",
+      "Charles Stepney"
+    ],
+    "labels": [
+      "Cadet Concept (Chess)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "listen-to-me-baby-huey",
+    "title": "Listen to Me",
+    "artist": "Baby Huey",
+    "release": "The Baby Huey Story: The Living Legend (1971), apre il lato A",
+    "album": "The Baby Huey Story: The Living Legend",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Curtis Mayfield"
+    ],
+    "labels": [
+      "Curtom"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "living-together-is-keeping-us-apart-clarence-reid-blowfly",
+    "title": "Living Together Is Keeping Us Apart",
+    "artist": "Clarence Reid (Blowfly)",
+    "release": "Running Water (1973)",
+    "album": "Running Water",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Steve Alaimo",
+      "Willie Clarke"
+    ],
+    "labels": [
+      "Alston (TK)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "lonesome-cowboy-roy-ayers-ubiquity",
+    "title": "Lonesome Cowboy",
+    "artist": "Roy Ayers Ubiquity",
+    "release": "Everybody Loves the Sunshine (1976), chiude il lato B",
+    "album": "Everybody Loves the Sunshine",
+    "year": 1976,
+    "drummers": [
+      "Doug Rhodes"
+    ],
+    "producers": [
+      "Roy Ayers",
+      "Maurice Green"
+    ],
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "long-red-mountain",
+    "title": "Long Red",
+    "artist": "Mountain",
+    "release": "Mountain Live: The Road Goes Ever On (1972), registrata a Woodstock nel 1969",
+    "album": "Mountain Live: The Road Goes Ever On",
+    "year": 1972,
+    "drummers": [
+      "N. D. Smart"
+    ],
+    "producers": [
+      "Felix Pappalardi"
+    ],
+    "labels": [
+      "Windfall"
+    ],
+    "type": "famoso",
+    "ubb": "9"
+  },
+  {
+    "id": "looking-out-my-window-tom-jones",
+    "title": "Looking Out My Window",
+    "artist": "Tom Jones",
+    "release": "Lato B di \"A Minute of Your Time\" (1968)",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Peter Sullivan"
+    ],
+    "labels": [
+      "Decca",
+      "Parrot"
+    ],
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "love-and-affection-ike-white",
+    "title": "Love and Affection",
+    "artist": "Ike White",
+    "release": "Changin' Times (1976), traccia 6 (ultima), sul disco come Love & Affection",
+    "album": "Changin' Times",
+    "year": 1976,
+    "drummers": [
+      "Greg Errico"
+    ],
+    "drummerText": "Greg Errico (crediti dell'album)",
+    "producers": [
+      "Greg Errico",
+      "Jerry Goldstein"
+    ],
+    "labels": [
+      "LAX"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "love-s-theme-fausto-papetti",
+    "title": "Love's Theme",
+    "artist": "Fausto Papetti",
+    "release": "18ª Raccolta (1974)",
+    "album": "18ª Raccolta",
+    "year": 1974,
+    "where": "Intro, da 0:00",
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Durium"
+    ],
+    "type": "famoso",
+    "ubb": "11"
+  },
+  {
+    "id": "the-lovermaniacs-sex-boobie-knight-the-universal-lady",
+    "title": "The Lovermaniacs (Sex)",
+    "artist": "Boobie Knight & the Universal Lady",
+    "release": "Earth Creature (1974), lato B, traccia 4 (\"The Lovomaniacs\")",
+    "album": "Earth Creature",
+    "year": 1974,
+    "drummers": [
+      "Len Fletcher",
+      "J.W. Williams",
+      "Boobie Knight"
+    ],
+    "drummerText": "Len Fletcher, J.W. Williams o Boobie Knight: uno dei tre (crediti dell'album)",
+    "producers": [
+      "Alonzo Tucker"
+    ],
+    "labels": [
+      "Dakar (Brunswick)"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "mambo-no-5-samba-soul",
+    "title": "Mambo No. 5",
+    "artist": "Samba Soul",
+    "release": "Samba Soul (1977), lato B, traccia 1; anche 45 giri; registrato negli studi RCA in Brasile",
+    "album": "Samba Soul",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato (sull'album Warren Schatz è accreditato come produttore di un altro brano)",
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "mary-mary-the-monkees",
+    "title": "Mary, Mary",
+    "artist": "The Monkees",
+    "release": "More of the Monkees (1967)",
+    "album": "More of the Monkees",
+    "year": 1967,
+    "drummers": [
+      "Hal Blaine",
+      "Jim Gordon"
+    ],
+    "producers": [
+      "Michael Nesmith"
+    ],
+    "labels": [
+      "Colgems"
+    ],
+    "type": "famoso",
+    "ubb": "1"
+  },
+  {
+    "id": "the-mexican-babe-ruth",
+    "title": "The Mexican",
+    "artist": "Babe Ruth",
+    "release": "First Base (1972), traccia 5",
+    "album": "First Base",
+    "year": 1972,
+    "drummers": [
+      "Dick Powell"
+    ],
+    "producers": [
+      "Alan Shacklock",
+      "Nick Mobbs"
+    ],
+    "labels": [
+      "Harvest (EMI)",
+      "Capitol"
+    ],
+    "labelText": "Harvest (EMI), Capitol (USA)",
+    "type": "famoso",
+    "ubb": "13"
+  },
+  {
+    "id": "midnight-theme-manzel",
+    "title": "Midnight Theme",
+    "artist": "Manzel",
+    "release": "Lato B di \"Sugar Dreams\" (1979)",
+    "year": 1979,
+    "where": "Si apre con 4 battute di sola batteria",
+    "drummers": [
+      "Steve Garner"
+    ],
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Fraternity"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "misdemeanor-foster-sylvers",
+    "title": "Misdemeanor",
+    "artist": "Foster Sylvers",
+    "release": "45 giri (1973); anche nell'album Foster Sylvers (1973), apre il lato A",
+    "album": "Foster Sylvers",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato (Harvey Mason accreditato per l'arrangiamento delle percussioni)",
+    "producers": [
+      "Keg Johnson",
+      "Jerry Peters"
+    ],
+    "producerText": "Keg Johnson e Jerry Peters (crediti dell'album; il 45 giri accredita solo Keg Johnson)",
+    "labels": [
+      "Pride (MGM)"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "mister-magic-grover-washington-jr",
+    "title": "Mister Magic",
+    "artist": "Grover Washington Jr.",
+    "release": "Mister Magic (1975), apre il lato B",
+    "album": "Mister Magic",
+    "year": 1975,
+    "drummers": [
+      "Harvey Mason"
+    ],
+    "producers": [
+      "Creed Taylor"
+    ],
+    "labels": [
+      "Kudu (CTI)"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "mustard-greens-gentleman-june-gardner",
+    "title": "Mustard Greens",
+    "artist": "Gentleman June Gardner",
+    "release": "45 giri (1965); poi LP Bustin' Out (1966)",
+    "album": "Bustin' Out",
+    "year": 1965,
+    "where": "Intro di sola batteria",
+    "drummers": [
+      "June Gardner"
+    ],
+    "producers": [
+      "Wardell Quezergue"
+    ],
+    "labels": [
+      "Hot Line",
+      "Blue Rock (Mercury)",
+      "EmArcy"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "n-t-kool-the-gang",
+    "title": "N.T.",
+    "artist": "Kool & the Gang",
+    "release": "Live at P.J.'s (1971), apre il lato A",
+    "album": "Live at P.J.'s",
+    "year": 1971,
+    "drummers": [
+      "George \"Funky\" Brown"
+    ],
+    "producers": [
+      "Gene Redd"
+    ],
+    "labels": [
+      "De-Lite"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "nautilus-bob-james",
+    "title": "Nautilus",
+    "artist": "Bob James",
+    "release": "One (1974)",
+    "album": "One",
+    "year": 1974,
+    "drummers": [
+      "Idris Muhammad"
+    ],
+    "producers": [
+      "Creed Taylor"
+    ],
+    "labels": [
+      "CTI"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "nowhere-to-run-tower-of-power",
+    "title": "Nowhere to Run",
+    "artist": "Tower of Power",
+    "release": "Back on the Streets (1979), traccia 5, fine lato A",
+    "album": "Back on the Streets",
+    "year": 1979,
+    "where": "Break con bonghi, minuto da annotare",
+    "drummers": [
+      "David Garibaldi",
+      "Paulinho Da Costa",
+      "Eddie \"Bongo\" Brown"
+    ],
+    "drummerText": "David Garibaldi; bonghi Paulinho Da Costa e Eddie \"Bongo\" Brown",
+    "producers": [
+      "McKinley Jackson"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "oh-honey-delegation",
+    "title": "Oh Honey",
+    "artist": "Delegation",
+    "release": "The Promise of Love (1977), lato B, traccia 3; negli USA singolo su Shadybrook (1978)",
+    "album": "The Promise of Love",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Ken Gold"
+    ],
+    "labels": [
+      "State"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "one-man-band-plays-all-alone-monk-higgins",
+    "title": "One Man Band (Plays All Alone)",
+    "artist": "Monk Higgins",
+    "release": "Dance to the Disco Sax of Monk Higgins (1974), lato B, traccia 5",
+    "album": "Dance to the Disco Sax of Monk Higgins",
+    "year": 1974,
+    "drummers": [
+      "Paul Humphrey"
+    ],
+    "producers": [
+      "Larry Maxwell"
+    ],
+    "labels": [
+      "Buddah"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "outside-love-brethren",
+    "title": "Outside Love",
+    "artist": "Brethren",
+    "release": "Brethren (1970)",
+    "album": "Brethren",
+    "year": 1970,
+    "drummers": [
+      "Rick Marotta"
+    ],
+    "producers": [
+      "Jay Senter"
+    ],
+    "labels": [
+      "Tiffany"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "papa-was-too-joe-tex",
+    "title": "Papa Was Too",
+    "artist": "Joe Tex",
+    "release": "45 giri (1966)",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Buddy Killen"
+    ],
+    "labels": [
+      "Dial (Atlantic)"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "parade-strut-j-j-johnson",
+    "title": "Parade Strut",
+    "artist": "J.J. Johnson",
+    "release": "Willie Dynamite, colonna sonora (1974)",
+    "album": "Willie Dynamite",
+    "year": 1974,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "J.J. Johnson"
+    ],
+    "labels": [
+      "MCA"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "the-payback-james-brown",
+    "title": "The Payback",
+    "artist": "James Brown",
+    "release": "The Payback (1973), lato A, traccia 1; poi 45 giri in due parti (Polydor, 1974); su UBB in versione remixata",
+    "album": "The Payback",
+    "year": 1973,
+    "drummers": [
+      "Jabo Starks"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "phenomena-theme-in-search-of-orchestra",
+    "title": "Phenomena Theme",
+    "artist": "In Search Of... Orchestra",
+    "release": "In Search Of... (1977), lato A, traccia 3",
+    "album": "In Search Of...",
+    "year": 1977,
+    "drummers": [
+      "Laurin Rinder"
+    ],
+    "producers": [
+      "Laurin Rinder",
+      "W. Michael Lewis"
+    ],
+    "labels": [
+      "AVI"
+    ],
+    "type": "famoso",
+    "ubb": "13"
+  },
+  {
+    "id": "planetary-citizen-mahavishnu-orchestra",
+    "title": "Planetary Citizen",
+    "artist": "Mahavishnu Orchestra",
+    "release": "Inner Worlds (1976)",
+    "album": "Inner Worlds",
+    "year": 1976,
+    "drummers": [
+      "Narada Michael Walden"
+    ],
+    "producers": [
+      "John McLaughlin",
+      "Dennis MacKay"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "porta-capuana-in-festa-tullio-de-piscopo",
+    "title": "Porta Capuana in festa",
+    "artist": "Tullio De Piscopo",
+    "release": "Sotto e 'Ncoppa (1975), come Tullio De Piscopo Revolt Group",
+    "album": "Sotto e 'Ncoppa",
+    "year": 1975,
+    "where": "1–2 battute alla fine dell'assolo finale; identico in \"Circumvesuviana ore 7:45\"",
+    "drummers": [
+      "Tullio De Piscopo"
+    ],
+    "producers": [],
+    "producerText": "Non indicato",
+    "labels": [
+      "Carosello"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "pot-belly-lou-donaldson",
+    "title": "Pot Belly",
+    "artist": "Lou Donaldson",
+    "release": "Pretty Things (1970), traccia 5; registrato il 12 giugno 1970",
+    "album": "Pretty Things",
+    "year": 1970,
+    "drummers": [
+      "Idris Muhammad"
+    ],
+    "producers": [
+      "Francis Wolff"
+    ],
+    "labels": [
+      "Blue Note"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "precious-and-special-stacye-branche",
+    "title": "Precious and Special",
+    "artist": "Stacye Branché",
+    "release": "12\" (1983)",
+    "year": 1983,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [],
+    "labelText": "Non identificata",
+    "type": "famoso",
+    "ubb": "8"
+  },
+  {
+    "id": "pussy-footer-jackie-robinson",
+    "title": "Pussy Footer",
+    "artist": "Jackie Robinson",
+    "release": "45 giri (1977)",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [],
+    "labelText": "Non identificata",
+    "type": "famoso",
+    "ubb": "3"
+  },
+  {
+    "id": "put-the-music-where-your-mouth-is-the-olympic-runners",
+    "title": "Put the Music Where Your Mouth Is",
+    "artist": "The Olympic Runners",
+    "release": "Put the Music Where Your Mouth Is (1974); anche 45 giri (1974)",
+    "album": "Put the Music Where Your Mouth Is",
+    "year": 1974,
+    "drummers": [
+      "Glen LeFleur"
+    ],
+    "producers": [
+      "Mike Vernon"
+    ],
+    "labels": [
+      "London"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "reach-out-of-the-darkness-friend-lover",
+    "title": "Reach Out of the Darkness",
+    "artist": "Friend & Lover",
+    "release": "45 giri (1967); poi nell'album Reach Out of the Darkness (1968)",
+    "album": "Reach Out of the Darkness",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato (session a Nashville)",
+    "producers": [
+      "Bill Lowery",
+      "Joe South"
+    ],
+    "labels": [
+      "Verve Forecast (MGM)"
+    ],
+    "type": "famoso",
+    "ubb": "20"
+  },
+  {
+    "id": "ride-sally-ride-dennis-coffey",
+    "title": "Ride Sally Ride",
+    "artist": "Dennis Coffey",
+    "release": "Goin' for Myself (1972), lato A, traccia 4; anche lato B del 45 giri \"Getting It On\" (1972)",
+    "album": "Goin' for Myself",
+    "year": 1972,
+    "drummers": [
+      "Andrew Smith"
+    ],
+    "producers": [
+      "Mike Theodore"
+    ],
+    "labels": [
+      "Sussex"
+    ],
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "rock-creek-park-the-blackbyrds",
+    "title": "Rock Creek Park",
+    "artist": "The Blackbyrds",
+    "release": "City Life (1975), apre il lato A",
+    "album": "City Life",
+    "year": 1975,
+    "drummers": [
+      "Keith Killgo"
+    ],
+    "producers": [
+      "Donald Byrd"
+    ],
+    "labels": [
+      "Fantasy"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "rock-music-jefferson-starship",
+    "title": "Rock Music",
+    "artist": "Jefferson Starship",
+    "release": "Freedom at Point Zero (1979), lato B, traccia 3",
+    "album": "Freedom at Point Zero",
+    "year": 1979,
+    "drummers": [
+      "Aynsley Dunbar"
+    ],
+    "producers": [
+      "Ron Nevison"
+    ],
+    "labels": [
+      "Grunt (RCA)"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "roses-and-revolvers-janko-nilovic",
+    "title": "Roses and Revolvers",
+    "artist": "Janko Nilović",
+    "release": "Supra Pop Impressions (1973)",
+    "album": "Supra Pop Impressions",
+    "year": 1973,
+    "where": "Assolo a 0:55",
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Janko Nilović"
+    ],
+    "labels": [
+      "Montparnasse 2000"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "save-the-world-southside-movement",
+    "title": "Save the World",
+    "artist": "Southside Movement",
+    "release": "Movin' (1974), lato B, traccia 2",
+    "album": "Movin'",
+    "year": 1974,
+    "drummers": [
+      "Willie Hayes"
+    ],
+    "drummerText": "Willie Hayes (probabile: batterista del gruppo nel primo album del 1973)",
+    "producers": [
+      "James Vanleer"
+    ],
+    "labels": [
+      "20th Century"
+    ],
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "scratchin-the-magic-disco-machine",
+    "title": "Scratchin'",
+    "artist": "The Magic Disco Machine",
+    "release": "Disc-O-Tech (1975)",
+    "album": "Disc-O-Tech",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Clayton Ivey",
+      "Terry Woodford"
+    ],
+    "labels": [
+      "Motown"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "sesame-street-blowfly",
+    "title": "Sesame Street",
+    "artist": "Blowfly",
+    "release": "Blowfly on TV (1974)",
+    "album": "Blowfly on TV",
+    "year": 1974,
+    "drummers": [
+      "Robert Ferguson"
+    ],
+    "drummerText": "Robert Ferguson (probabile: suona nel primo album di Blowfly)",
+    "producers": [
+      "Clarence Reid (Blowfly)"
+    ],
+    "labels": [
+      "Weird World (TK)"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "seven-minutes-of-funk-the-whole-darn-family",
+    "title": "Seven Minutes of Funk",
+    "artist": "The Whole Darn Family",
+    "release": "Has Arrived (1976)",
+    "album": "Has Arrived",
+    "year": 1976,
+    "drummers": [
+      "Tyrone Thomas"
+    ],
+    "producers": [
+      "Tyrone Thomas",
+      "August Moon"
+    ],
+    "producerText": "Tyrone Thomas e August Moon (produttori esecutivi)",
+    "labels": [
+      "Soul International"
+    ],
+    "type": "famoso",
+    "ubb": "9"
+  },
+  {
+    "id": "sexy-coffee-pot-tony-alvon-the-belairs",
+    "title": "Sexy Coffee Pot",
+    "artist": "Tony Alvon & the Belairs",
+    "release": "45 giri Atlantic 2632 (maggio 1969), lato B di Boom-Boom-Boom",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Frank Virtue",
+      "John H. Stiles"
+    ],
+    "producerText": "Frank Virtue e John H. Stiles (sul disco Virtue-Stiles)",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "shack-up-banbarra",
+    "title": "Shack Up",
+    "artist": "Banbarra",
+    "release": "45 giri (1975), parte 2",
+    "year": 1975,
+    "drummers": [
+      "John Cannon"
+    ],
+    "producers": [
+      "Kemp Massengill",
+      "Bill Tate",
+      "Lance Quinn"
+    ],
+    "producerText": "Kemp Massengill, Bill Tate e Lance Quinn",
+    "labels": [
+      "United Artists"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "shaft-in-africa-addis-johnny-pate",
+    "title": "Shaft in Africa (Addis)",
+    "artist": "Johnny Pate",
+    "release": "Shaft in Africa, colonna sonora (1973), lato A, traccia 4",
+    "album": "Shaft in Africa",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato (session a Los Angeles)",
+    "producers": [
+      "Johnny Pate"
+    ],
+    "producerText": "Johnny Pate (crediti dell'album; Steve Barri, Dennis Lambert e Brian Potter per i brani dei Four Tops)",
+    "labels": [
+      "ABC"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "shaking-pop-janko-nilovic-e-dave-sucky",
+    "title": "Shaking Pop",
+    "artist": "Janko Nilović e Dave Sucky",
+    "release": "Psyc' Impressions (1969)",
+    "album": "Psyc' Impressions",
+    "year": 1969,
+    "where": "0:52",
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Janko Nilović"
+    ],
+    "labels": [
+      "Montparnasse 2000"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "shangri-la-la-pregunta",
+    "title": "Shangri La",
+    "artist": "La Pregunta",
+    "release": "12\" (1978)",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "GNP Crescendo"
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "shifting-gears-johnny-hammond",
+    "title": "Shifting Gears",
+    "artist": "Johnny Hammond",
+    "release": "Gears (1975)",
+    "album": "Gears",
+    "year": 1975,
+    "drummers": [
+      "Harvey Mason"
+    ],
+    "producers": [
+      "Larry e Fonce Mizell"
+    ],
+    "labels": [
+      "Milestone"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "sing-a-simple-song-please",
+    "title": "Sing a Simple Song",
+    "artist": "Please",
+    "release": "Please (1975)",
+    "album": "Please",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Telefunken"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "sing-a-simple-song-sly-the-family-stone",
+    "title": "Sing a Simple Song",
+    "artist": "Sly & the Family Stone",
+    "release": "Stand! (1969)",
+    "album": "Stand!",
+    "year": 1969,
+    "drummers": [
+      "Greg Errico"
+    ],
+    "producers": [
+      "Sly Stone"
+    ],
+    "labels": [
+      "Epic"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "sing-sing-gaz",
+    "title": "Sing Sing",
+    "artist": "Gaz",
+    "release": "Gaz (1978)",
+    "album": "Gaz",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Jürgen Korduletsch"
+    ],
+    "labels": [
+      "Salsoul"
+    ],
+    "type": "famoso",
+    "ubb": "4"
+  },
+  {
+    "id": "sing-sing-sing-incredible-bongo-band",
+    "title": "Sing, Sing, Sing",
+    "artist": "Incredible Bongo Band",
+    "release": "The Return of the Incredible Bongo Band (1974)",
+    "album": "The Return of the Incredible Bongo Band",
+    "year": 1974,
+    "drummers": [
+      "Jim Gordon",
+      "King Errisson"
+    ],
+    "drummerText": "Jim Gordon e King Errisson (crediti dell'album)",
+    "producers": [
+      "Michael Viner",
+      "Perry Botkin Jr."
+    ],
+    "labels": [
+      "Pride (MGM)"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "sister-sanctified-stanley-turrentine-e-milt-jackson",
+    "title": "Sister Sanctified",
+    "artist": "Stanley Turrentine e Milt Jackson",
+    "release": "Cherry (1972), traccia 4",
+    "album": "Cherry",
+    "year": 1972,
+    "drummers": [
+      "Billy Cobham"
+    ],
+    "producers": [
+      "Creed Taylor"
+    ],
+    "labels": [
+      "CTI"
+    ],
+    "type": "famoso",
+    "ubb": "14"
+  },
+  {
+    "id": "slow-dance-stanley-clarke",
+    "title": "Slow Dance",
+    "artist": "Stanley Clarke",
+    "release": "Modern Man (1978)",
+    "album": "Modern Man",
+    "year": 1978,
+    "drummers": [
+      "Jeff Porcaro"
+    ],
+    "producers": [
+      "Stanley Clarke"
+    ],
+    "labels": [
+      "Nemperor"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sneakin-in-the-back-tom-scott-the-l-a-express",
+    "title": "Sneakin' in the Back",
+    "artist": "Tom Scott & the L.A. Express",
+    "release": "Tom Scott & the L.A. Express (1974), lato A, traccia 2",
+    "album": "Tom Scott & the L.A. Express",
+    "year": 1974,
+    "drummers": [
+      "John Guerin"
+    ],
+    "drummerText": "John Guerin (crediti dell'album)",
+    "producers": [
+      "Tom Scott"
+    ],
+    "labels": [
+      "Ode (A&M)"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "somebody-got-soul-soul-soul-the-wild-magnolias",
+    "title": "(Somebody Got) Soul, Soul, Soul",
+    "artist": "The Wild Magnolias",
+    "release": "The Wild Magnolias (1974), traccia B2",
+    "album": "The Wild Magnolias",
+    "year": 1974,
+    "drummers": [
+      "Larry Panna"
+    ],
+    "producers": [
+      "Philippe Rault"
+    ],
+    "labels": [
+      "Polydor"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "something-calls-me-tower-of-power",
+    "title": "Something Calls Me",
+    "artist": "Tower of Power",
+    "release": "Back on the Streets (1979), traccia 6, inizio lato B",
+    "album": "Back on the Streets",
+    "year": 1979,
+    "where": "Break con voce sussurrata \"something calls me...\", minuto da annotare",
+    "drummers": [
+      "David Garibaldi"
+    ],
+    "producers": [],
+    "producerText": "Non indicato",
+    "labels": [
+      "Columbia"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "son-of-scorpio-dennis-coffey",
+    "title": "Son of Scorpio",
+    "artist": "Dennis Coffey",
+    "release": "Electric Coffey (1972)",
+    "album": "Electric Coffey",
+    "year": 1972,
+    "drummers": [
+      "Andrew Smith",
+      "Eddie \"Bongo\" Brown"
+    ],
+    "drummerText": "Andrew Smith e Eddie \"Bongo\" Brown alle percussioni",
+    "producers": [
+      "Dennis Coffey",
+      "Mike Theodore"
+    ],
+    "producerText": "Dennis Coffey e Mike Theodore (probabile)",
+    "labels": [
+      "Sussex"
+    ],
+    "type": "famoso",
+    "ubb": "6"
+  },
+  {
+    "id": "soul-pride-james-brown",
+    "title": "Soul Pride",
+    "artist": "James Brown",
+    "release": "45 giri in due parti (1969); poi nell'album The Popcorn (1969)",
+    "album": "The Popcorn",
+    "year": 1969,
+    "drummers": [
+      "Clyde Stubblefield"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "King"
+    ],
+    "type": "famoso",
+    "ubb": "21"
+  },
+  {
+    "id": "space-dust-the-galactic-force-band",
+    "title": "Space Dust",
+    "artist": "The Galactic Force Band",
+    "release": "Spaced Out Disco (1978), lato A, traccia 4",
+    "album": "Spaced Out Disco",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Springboard"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "speaking-with-my-drum-andy-surdy",
+    "title": "Speaking With My Drum",
+    "artist": "Andy Surdy",
+    "release": "Gunfire (1979); cassetta Polydor 3172 098",
+    "album": "Gunfire",
+    "year": 1979,
+    "where": "2:00 nella versione online, con campanaccio",
+    "drummers": [
+      "Andy Surdi"
+    ],
+    "drummerText": "Andy Surdi: disco suo, non accreditato sul brano",
+    "producers": [
+      "Renato Brioschi"
+    ],
+    "labels": [
+      "Polydor"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "sport-lightnin-rod",
+    "title": "Sport",
+    "artist": "Lightnin' Rod",
+    "release": "Hustlers Convention (1973), apre il lato A",
+    "album": "Hustlers Convention",
+    "year": 1973,
+    "drummers": [
+      "George \"Funky\" Brown"
+    ],
+    "drummerText": "George \"Funky\" Brown (probabile: la base è suonata da Kool & the Gang)",
+    "producers": [
+      "Alan Douglas"
+    ],
+    "labels": [
+      "United Artists"
+    ],
+    "type": "famoso",
+    "ubb": "19"
+  },
+  {
+    "id": "star-wars-david-matthews",
+    "title": "Star Wars",
+    "artist": "David Matthews",
+    "release": "Dune (1977), lato B, traccia 4 (\"Main Theme From Star Wars\")",
+    "album": "Dune",
+    "year": 1977,
+    "drummers": [
+      "Steve Gadd",
+      "Andy Newmark"
+    ],
+    "drummerText": "Steve Gadd o Andy Newmark: uno dei due (crediti dell'album)",
+    "producers": [
+      "Creed Taylor"
+    ],
+    "producerText": "Creed Taylor (probabile: produttore della CTI)",
+    "labels": [
+      "CTI"
+    ],
+    "type": "famoso",
+    "ubb": "15"
+  },
+  {
+    "id": "stiletto-billy-joel",
+    "title": "Stiletto",
+    "artist": "Billy Joel",
+    "release": "52nd Street (1978)",
+    "album": "52nd Street",
+    "year": 1978,
+    "where": "0:18",
+    "drummers": [
+      "Liberty DeVitto"
+    ],
+    "producers": [
+      "Phil Ramone"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "street-talk-madam-rapper-funky-constellation",
+    "title": "Street Talk (Madam Rapper)",
+    "artist": "Funky Constellation",
+    "release": "12\" (1979)",
+    "year": 1979,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Rota"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "synthetic-substitution-melvin-bliss",
+    "title": "Synthetic Substitution",
+    "artist": "Melvin Bliss",
+    "release": "45 giri (1973)",
+    "year": 1973,
+    "drummers": [
+      "Bernard Purdie"
+    ],
+    "producers": [
+      "Herb Rooney"
+    ],
+    "labels": [
+      "Sunburst"
+    ],
+    "type": "famoso",
+    "ubb": "5"
+  },
+  {
+    "id": "t-plays-it-cool-marvin-gaye",
+    "title": "\"T\" Plays It Cool",
+    "artist": "Marvin Gaye",
+    "release": "Trouble Man, colonna sonora (1972), lato A, traccia 2",
+    "album": "Trouble Man",
+    "year": 1972,
+    "drummers": [
+      "Marvin Gaye",
+      "Stix Hooper",
+      "Ndugu Chancler"
+    ],
+    "drummerText": "Marvin Gaye, Stix Hooper o Ndugu Chancler: uno dei tre (crediti dell'album)",
+    "producers": [
+      "Marvin Gaye"
+    ],
+    "labels": [
+      "Tamla (Motown)"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "take-me-to-the-mardi-gras-bob-james",
+    "title": "Take Me to the Mardi Gras",
+    "artist": "Bob James",
+    "release": "Two (1975)",
+    "album": "Two",
+    "year": 1975,
+    "drummers": [
+      "Andrew Smith",
+      "Ralph MacDonald"
+    ],
+    "drummerText": "Andrew Smith; campanaccio Ralph MacDonald",
+    "producers": [
+      "Creed Taylor"
+    ],
+    "labels": [
+      "CTI"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "take-off-your-make-up-lamont-dozier",
+    "title": "Take Off Your Make Up",
+    "artist": "Lamont Dozier",
+    "release": "Out Here on My Own (1973), lato B, traccia 3",
+    "album": "Out Here on My Own",
+    "year": 1973,
+    "drummers": [
+      "Ed Greene",
+      "Zachary Frazier",
+      "Zachary Slatter"
+    ],
+    "drummerText": "Ed Greene, Zachary Frazier o Zachary Slatter: uno dei tre (crediti dell'album)",
+    "producers": [
+      "McKinley Jackson"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "famoso",
+    "ubb": "25"
+  },
+  {
+    "id": "take-the-money-and-run-steve-miller-band",
+    "title": "Take the Money and Run",
+    "artist": "Steve Miller Band",
+    "release": "Fly Like an Eagle (1976)",
+    "album": "Fly Like an Eagle",
+    "year": 1976,
+    "where": "Intro, 0:00–0:04",
+    "drummers": [
+      "Gary Mallaber"
+    ],
+    "producers": [
+      "Steve Miller"
+    ],
+    "labels": [
+      "Capitol"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "tam-tam-per-amico-tullio-de-piscopo",
+    "title": "Tam Tam per amico",
+    "artist": "Tullio De Piscopo",
+    "release": "De Piscopo (1991), in due parti a fine lato A e B; cassetta Costa Est 66 7962344",
+    "album": "De Piscopo",
+    "year": 1991,
+    "where": "0:55 break breve; 1:32 loop con campanacci (versione YouTube da 2:00)",
+    "drummers": [
+      "Tullio De Piscopo"
+    ],
+    "producers": [
+      "Tullio De Piscopo",
+      "Willy David"
+    ],
+    "labels": [
+      "Costa Est (EMI)"
+    ],
+    "type": "scoperta"
+  },
+  {
+    "id": "theme-from-s-w-a-t-rhythm-heritage",
+    "title": "Theme From S.W.A.T.",
+    "artist": "Rhythm Heritage",
+    "release": "Disco-Fied (1976)",
+    "album": "Disco-Fied",
+    "year": 1976,
+    "drummers": [
+      "Ed Greene",
+      "Victor Feldman"
+    ],
+    "drummerText": "Ed Greene e Victor Feldman alle percussioni",
+    "producers": [
+      "Michael Omartian",
+      "Steve Barri"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "theme-from-the-planets-dexter-wansel",
+    "title": "Theme From the Planets",
+    "artist": "Dexter Wansel",
+    "release": "Life on Mars (1976)",
+    "album": "Life on Mars",
+    "year": 1976,
+    "where": "Intro",
+    "drummers": [
+      "Darryl Brown"
+    ],
+    "producers": [
+      "Dexter Wansel"
+    ],
+    "labels": [
+      "Philadelphia International"
+    ],
+    "type": "famoso",
+    "ubb": "10"
+  },
+  {
+    "id": "think-about-it-lyn-collins",
+    "title": "Think (About It)",
+    "artist": "Lyn Collins",
+    "release": "Think (About It) (1972)",
+    "album": "Think (About It)",
+    "year": 1972,
+    "drummers": [
+      "Jabo Starks"
+    ],
+    "producers": [
+      "James Brown"
+    ],
+    "labels": [
+      "People"
+    ],
+    "type": "famoso",
+    "ubb": "16"
+  },
+  {
+    "id": "touch-me-all-night-long-wish-e-fonda-rae",
+    "title": "Touch Me (All Night Long)",
+    "artist": "Wish e Fonda Rae",
+    "release": "12\" (1984)",
+    "year": 1984,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Patrick Adams",
+      "Greg Carmichael"
+    ],
+    "labels": [
+      "KN"
+    ],
+    "type": "famoso",
+    "ubb": "8"
+  },
+  {
+    "id": "tramp-lowell-fulson",
+    "title": "Tramp",
+    "artist": "Lowell Fulson",
+    "release": "45 giri Kent 456 (dicembre 1966), come Lowell Fulsom; poi nell'album Tramp (1967)",
+    "album": "Tramp",
+    "year": 1966,
+    "drummers": [
+      "Chuck Thomas"
+    ],
+    "drummerText": "Chuck Thomas (crediti dell'album)",
+    "producers": [
+      "Mike Akopoff"
+    ],
+    "producerText": "Mike Akopoff (crediti dell'album; arrangiamenti di Maxwell Davis)",
+    "labels": [
+      "Kent"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "two-pigs-and-a-hog-freddie-perren",
+    "title": "Two Pigs and a Hog",
+    "artist": "Freddie Perren",
+    "release": "Cooley High, colonna sonora (1975)",
+    "album": "Cooley High",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Freddie Perren"
+    ],
+    "labels": [
+      "Motown"
+    ],
+    "type": "famoso",
+    "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "ufo-esg",
+    "title": "UFO",
+    "artist": "ESG",
+    "release": "ESG, EP (1981)",
+    "album": "ESG",
+    "year": 1981,
+    "drummers": [
+      "Valerie Scroggins"
+    ],
+    "producers": [
+      "Martin Hannett"
+    ],
+    "labels": [
+      "99 Records"
+    ],
+    "type": "famoso",
+    "ubb": "9"
+  },
+  {
+    "id": "uphill-peace-of-mind-kid-dynamite",
+    "title": "Uphill Peace of Mind",
+    "artist": "Kid Dynamite",
+    "release": "Kid Dynamite (1976), lato A, traccia 3",
+    "album": "Kid Dynamite",
+    "year": 1976,
+    "drummers": [
+      "John King"
+    ],
+    "drummerText": "John King (batterista del gruppo)",
+    "producers": [
+      "Hal Winn",
+      "Dick Thompson"
+    ],
+    "labels": [
+      "Cream"
+    ],
+    "type": "famoso",
+    "ubb": "14"
+  },
+  {
+    "id": "walk-this-way-aerosmith",
+    "title": "Walk This Way",
+    "artist": "Aerosmith",
+    "release": "Toys in the Attic (1975), lato A, traccia 4",
+    "album": "Toys in the Attic",
+    "year": 1975,
+    "where": "Intro",
+    "drummers": [
+      "Joey Kramer"
+    ],
+    "producers": [
+      "Jack Douglas"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "famoso",
+    "ubb": "12"
+  },
+  {
+    "id": "the-way-of-life-the-puppets",
+    "title": "The Way of Life",
+    "artist": "The Puppets",
+    "release": "12\" (1983)",
+    "year": 1983,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Quality"
+    ],
+    "type": "famoso",
+    "ubb": "8"
+  },
+  {
+    "id": "when-the-levee-breaks-led-zeppelin",
+    "title": "When the Levee Breaks",
+    "artist": "Led Zeppelin",
+    "release": "Led Zeppelin IV (1971)",
+    "album": "Led Zeppelin IV",
+    "year": 1971,
+    "where": "Intro",
+    "drummers": [
+      "John Bonham"
+    ],
+    "producers": [
+      "Jimmy Page"
+    ],
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "famoso"
+  },
+  {
+    "id": "whiskey-and-wine-bram-tchaikovsky",
+    "title": "Whiskey and Wine",
+    "artist": "Bram Tchaikovsky",
+    "release": "Dal vivo (Hammersmith Odeon, 14 gennaio 1979): disco bonus del doppio 7\" \"Girl of My Dreams\" (1979), lato D",
+    "year": 1979,
+    "where": "La versione in studio dei Motors non ha il break",
+    "drummers": [
+      "Keith Boyce"
+    ],
+    "drummerText": "Keith Boyce (batterista del gruppo)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Radar"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "why-can-t-people-be-colors-too-the-whatnauts",
+    "title": "Why Can't People Be Colors Too?",
+    "artist": "The Whatnauts",
+    "release": "Whatnauts on the Rocks (1972)",
+    "album": "Whatnauts on the Rocks",
+    "year": 1972,
+    "drummers": [
+      "Donald McCoy"
+    ],
+    "drummerText": "Donald McCoy (probabile)",
+    "producers": [
+      "George Kerr",
+      "Michael Watson"
+    ],
+    "labels": [
+      "Stang (All Platinum)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "willie-chase-j-j-johnson",
+    "title": "Willie Chase",
+    "artist": "J.J. Johnson",
+    "release": "Willie Dynamite, colonna sonora (1974), traccia 2",
+    "album": "Willie Dynamite",
+    "year": 1974,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "J.J. Johnson"
+    ],
+    "labels": [
+      "MCA"
+    ],
+    "type": "famoso",
+    "ubb": "14"
+  },
+  {
+    "id": "woman-barrabas",
+    "title": "Woman",
+    "artist": "Barrabás",
+    "release": "Barrabás (1971), apre il lato B; fuori dalla Spagna anche come Wild Safari (1972)",
+    "album": "Barrabás",
+    "year": 1971,
+    "drummers": [
+      "Fernando Arbex"
+    ],
+    "drummerText": "Fernando Arbex (crediti dell'album; anche Tito Duarte vi è accreditato alla batteria, oltre a sax e flauto)",
+    "producers": [
+      "Fernando Arbex"
+    ],
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "famoso",
+    "ubb": "22"
+  },
+  {
+    "id": "yellow-sunshine-yellow-sunshine",
+    "title": "Yellow Sunshine",
+    "artist": "Yellow Sunshine",
+    "release": "Yellow Sunshine (1973), apre il lato A",
+    "album": "Yellow Sunshine",
+    "year": 1973,
+    "drummers": [
+      "Karl Chambers"
+    ],
+    "producers": [
+      "Roland Chambers",
+      "Karl Chambers"
+    ],
+    "producerText": "Roland Chambers e Karl Chambers (probabile: una sola fonte)",
+    "labels": [
+      "Gamble"
+    ],
+    "type": "famoso",
+    "ubb": "18"
+  },
+  {
+    "id": "yes-we-can-can-the-pointer-sisters",
+    "title": "Yes We Can Can",
+    "artist": "The Pointer Sisters",
+    "release": "The Pointer Sisters (1973), apre il lato A",
+    "album": "The Pointer Sisters",
+    "year": 1973,
+    "drummers": [
+      "Gaylord Birch"
+    ],
+    "producers": [
+      "David Rubinson"
+    ],
+    "labels": [
+      "Blue Thumb"
+    ],
+    "type": "famoso",
+    "ubb": "17"
+  },
+  {
+    "id": "you-and-love-are-the-same-the-grass-roots",
+    "title": "You and Love Are the Same",
+    "artist": "The Grass Roots",
+    "release": "Feelings (1968), lato B, traccia 4; poi lato B del 45 giri Lovin' Things (1969)",
+    "album": "Feelings",
+    "year": 1968,
+    "drummers": [
+      "Rick Coonce"
+    ],
+    "drummerText": "Rick Coonce (crediti dell'album)",
+    "producers": [
+      "Steve Barri"
+    ],
+    "labels": [
+      "Dunhill (ABC)"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "you-are-what-you-are-william-ray",
+    "title": "You Are What You Are",
+    "artist": "William Ray",
+    "release": "12\" (1977)",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Sammy Lee Pickens"
+    ],
+    "producerText": "Sammy Lee Pickens (probabile)",
+    "labels": [
+      "Magic Touch"
+    ],
+    "type": "famoso",
+    "ubb": "7"
+  },
+  {
+    "id": "you-can-t-love-me-if-you-don-t-respect-me-lyn-collins",
+    "title": "You Can't Love Me, If You Don't Respect Me",
+    "artist": "Lyn Collins",
+    "release": "45 giri People PE 650 (1975), lato A; non incluso nell'album Check Me Out If You Don't Know Me by Now",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "James Brown"
+    ],
+    "producerText": "James Brown (arrangiamenti di James Brown e Fred Wesley)",
+    "labels": [
+      "People"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  },
+  {
+    "id": "you-don-t-know-how-much-i-love-you-alphonse-mouzon",
+    "title": "You Don't Know How Much I Love You",
+    "artist": "Alphonse Mouzon",
+    "release": "Funky Snakefoot (1974), lato A, traccia 2, come Alphonze Mouzon; registrato nel dicembre 1973",
+    "album": "Funky Snakefoot",
+    "year": 1974,
+    "drummers": [
+      "Alphonse Mouzon"
+    ],
+    "producers": [
+      "Alphonse Mouzon"
+    ],
+    "labels": [
+      "Blue Note"
+    ],
+    "type": "famoso",
+    "ubb": "23"
+  },
+  {
+    "id": "you-go-to-my-head-bryan-ferry",
+    "title": "You Go to My Head",
+    "artist": "Bryan Ferry",
+    "release": "45 giri (1975), poi Let's Stick Together (1976)",
+    "album": "Let's Stick Together",
+    "year": 1975,
+    "drummers": [
+      "Paul Thompson"
+    ],
+    "producers": [
+      "Bryan Ferry",
+      "Chris Thomas"
+    ],
+    "labels": [
+      "Island"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "you-said-a-bad-word-joe-tex",
+    "title": "You Said a Bad Word",
+    "artist": "Joe Tex",
+    "release": "I Gotcha (1972), lato B, traccia 1; anche 45 giri Dial (1972)",
+    "album": "I Gotcha",
+    "year": 1972,
+    "drummers": [],
+    "drummerText": "Non trovato (l'album fu registrato all'American Sound Studio di Memphis e al Sound Shop di Nashville)",
+    "producers": [
+      "Buddy Killen"
+    ],
+    "labels": [
+      "Dial (Mercury)"
+    ],
+    "type": "famoso",
+    "ubb": "26"
+  },
+  {
+    "id": "you-ll-like-it-too-funkadelic",
+    "title": "You'll Like It Too",
+    "artist": "Funkadelic",
+    "release": "Connections & Disconnections (1981), formazione senza George Clinton",
+    "album": "Connections & Disconnections",
+    "year": 1981,
+    "drummers": [
+      "Ben Powers Jr."
+    ],
+    "producers": [
+      "Greg Errico"
+    ],
+    "producerText": "Greg Errico, con Haskins, Simon e Thomas",
+    "labels": [
+      "LAX"
+    ],
+    "type": "famoso",
+    "ubb": "2"
+  },
+  {
+    "id": "you-got-what-i-need-freddie-scott",
+    "title": "(You) Got What I Need",
+    "artist": "Freddie Scott",
+    "release": "45 giri Shout 233 (1968), lato A",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Kenneth Gamble",
+      "Leon Huff"
+    ],
+    "labels": [
+      "Shout (Bang)"
+    ],
+    "type": "famoso",
+    "ubb": "24"
+  }
+]

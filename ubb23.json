@@ -1,0 +1,250 @@
+{
+  "breaks": [
+    {
+      "title": "The Breakdown (Part 2)",
+      "artist": "Rufus Thomas",
+      "release": "45 giri Stax 0098 in due parti (1971), lato B; poi nell'album Did You Heard Me? (1972), lato B, traccia 1",
+      "album": "Did You Heard Me?",
+      "year": 1971,
+      "drummers": [
+        "Willie Hall"
+      ],
+      "producers": [
+        "Al Bell"
+      ],
+      "labels": [
+        "Stax"
+      ],
+      "type": "famoso",
+      "ubb": 23,
+      "producerText": "Al Bell (crediti per brano; l'album accredita anche Tom Nixon)"
+    },
+    {
+      "title": "Country Cooking",
+      "artist": "Jim Dandy",
+      "release": "Flash Fearless Versus the Zorg Women Parts 5 & 6 (1975), album collettivo, lato A, traccia 3 (sull'LP inglese come Country Cookin')",
+      "album": "Flash Fearless Versus the Zorg Women Parts 5 & 6",
+      "year": 1975,
+      "drummers": [
+        "Kenney Jones"
+      ],
+      "producers": [
+        "John Alcock"
+      ],
+      "labels": [
+        "Chrysalis"
+      ],
+      "type": "famoso",
+      "ubb": 23,
+      "drummerText": "Kenney Jones (accreditato come Kenny Jones)"
+    },
+    {
+      "title": "Joyous",
+      "artist": "Pleasure",
+      "release": "Joyous (1977), lato A, traccia 1; anche su 45 giri",
+      "album": "Joyous",
+      "year": 1977,
+      "drummers": [
+        "Bruce Carter"
+      ],
+      "producers": [
+        "Wayne Henderson"
+      ],
+      "labels": [
+        "Fantasy"
+      ],
+      "type": "famoso",
+      "ubb": 23,
+      "drummerText": "Bruce Carter (crediti dell'album)"
+    },
+    {
+      "title": "Get Out of My Life, Woman",
+      "artist": "Solomon Burke",
+      "release": "I Wish I Knew (1968), lato A, traccia 2; poi su 45 giri Atlantic 2566 (1968) in versione accorciata. Registrato a Memphis (American Sound Studio) nel marzo 1968",
+      "album": "I Wish I Knew",
+      "year": 1968,
+      "drummers": [
+        "Gene Chrisman"
+      ],
+      "producers": [
+        "Tom Dowd"
+      ],
+      "labels": [
+        "Atlantic"
+      ],
+      "type": "famoso",
+      "ubb": 23,
+      "drummerText": "Gene Chrisman (probabile: era il batterista fisso dello studio; la scheda della sessione non riporta i musicisti)",
+      "producerText": "Tom Dowd (crediti del 45 giri; arrangiamenti di Arif Mardin)"
+    },
+    {
+      "title": "You Don't Know How Much I Love You",
+      "artist": "Alphonse Mouzon",
+      "release": "Funky Snakefoot (1974), lato A, traccia 2, come Alphonze Mouzon; registrato nel dicembre 1973",
+      "album": "Funky Snakefoot",
+      "year": 1974,
+      "drummers": [
+        "Alphonse Mouzon"
+      ],
+      "producers": [
+        "Alphonse Mouzon"
+      ],
+      "labels": [
+        "Blue Note"
+      ],
+      "type": "famoso",
+      "ubb": 23
+    },
+    {
+      "title": "Oh Honey",
+      "artist": "Delegation",
+      "release": "The Promise of Love (1977), lato B, traccia 3; negli USA singolo su Shadybrook (1978)",
+      "album": "The Promise of Love",
+      "year": 1977,
+      "drummers": [],
+      "producers": [
+        "Ken Gold"
+      ],
+      "labels": [
+        "State"
+      ],
+      "type": "famoso",
+      "ubb": 23,
+      "drummerText": "Non trovato"
+    },
+    {
+      "title": "The Easiest Way to Fall",
+      "artist": "Freda Payne",
+      "release": "45 giri Invictus 9073 (1969), lato B di The Unhooked Generation; poi lato B di Band of Gold (1970) e nell'album Band of Gold (1970), lato B, traccia 6",
+      "album": "Band of Gold",
+      "year": 1969,
+      "drummers": [
+        "Uriel Jones"
+      ],
+      "producers": [
+        "Brian Holland",
+        "Lamont Dozier",
+        "Eddie Holland"
+      ],
+      "labels": [
+        "Invictus"
+      ],
+      "type": "famoso",
+      "ubb": 23,
+      "drummerText": "Uriel Jones (probabile: crediti dell'album)",
+      "producerText": "Brian Holland, Lamont Dozier e Eddie Holland (sul 45 giri come Holland-Dozier-Holland Prod.)"
+    }
+  ],
+  "drummers": {
+    "Kenney Jones": {
+      "role": "Ospite del progetto; batterista degli Small Faces e dei Faces",
+      "other": "Small Faces; Faces; The Who dal 1978"
+    },
+    "Gene Chrisman": {
+      "role": "Turnista (American Sound Studio, Memphis Boys)",
+      "other": "Elvis Presley Suspicious Minds e In the Ghetto (1969); Dusty Springfield Son of a Preacher Man"
+    },
+    "Alphonse Mouzon": {
+      "role": "Leader (batteria, tastiere e voce)",
+      "other": "Weather Report (1971); The Eleventh House di Larry Coryell; altri album Blue Note (The Essence of Mystery, Mind Transplant)"
+    },
+    "Uriel Jones": {
+      "role": "Turnista (Funk Brothers, Motown)",
+      "other": "Marvin Gaye I Heard It Through the Grapevine; Marvin Gaye & Tammi Terrell Ain't No Mountain High Enough; The Temptations Cloud Nine"
+    }
+  },
+  "sources": [
+    {
+      "title": "45worlds – Rufus Thomas, Did You Heard Me? (Stax STS 3004)",
+      "url": "https://www.45worlds.com/vinyl/album/sts3004"
+    },
+    {
+      "title": "Shazam – Rufus Thomas, The Breakdown (Pt. 2), crediti",
+      "url": "https://www.shazam.com/song/1482826429/the-breakdown-pt-2"
+    },
+    {
+      "title": "BnF – Carla & Rufus Thomas, Chronicle (crediti per brano)",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb475267510"
+    },
+    {
+      "title": "Mainly Norfolk – Flash Fearless Versus the Zorg Women Parts 5 & 6",
+      "url": "https://mainlynorfolk.info/records/flashfearless.html"
+    },
+    {
+      "title": "South African Rock Encyclopedia – Flash Fearless (produzione John Alcock)",
+      "url": "https://sarockmusic.com/vagabonds-world/flash-fearless-versus-the-zorg-women-parts-5-6-lp-1975/"
+    },
+    {
+      "title": "45worlds – Flash Fearless (Chrysalis CHR 1081)",
+      "url": "https://www.45worlds.com/vinyl/album/chr1081"
+    },
+    {
+      "title": "Wikipedia – Joyous (album dei Pleasure)",
+      "url": "https://en.wikipedia.org/wiki/Joyous"
+    },
+    {
+      "title": "Discogs (mirror) – Pleasure, Joyous (Fantasy F-9526)",
+      "url": "https://muzilla.ru/disco/release/632069"
+    },
+    {
+      "title": "Jazzdisco – Atlantic Records 1968 (sessione Solomon Burke, 15/3/1968)",
+      "url": "https://www.jazzdisco.org/atlantic-records/discography-1968/"
+    },
+    {
+      "title": "Classic45s – Solomon Burke, Get Out of My Life Woman (Atlantic 2566)",
+      "url": "https://www.classic45s.com/products/get-out-of-my-life-woman-whatd-i-say"
+    },
+    {
+      "title": "Jazz Music Archives – Solomon Burke, I Wish I Knew",
+      "url": "https://www.jazzmusicarchives.com/album/solomon-burke(united-states)/i-wish-i-knew"
+    },
+    {
+      "title": "Red Kelly (The B Side) – Solomon Burke, Save It (sessioni di Memphis 1968)",
+      "url": "https://redkelly.blogspot.com/2007/03/solomon-burke-save-it-atlantic-2527.html"
+    },
+    {
+      "title": "NAMM Oral History – Gene Chrisman",
+      "url": "https://namm.org/library/oral-history/gene-chrisman"
+    },
+    {
+      "title": "Wikipedia – Funky Snakefoot",
+      "url": "https://en.wikipedia.org/wiki/Funky_Snakefoot"
+    },
+    {
+      "title": "Qobuz – Alphonze Mouzon, Funky Snakefoot (crediti)",
+      "url": "https://www.qobuz.com/lu-fr/album/funky-snakefoot-alphonze-mouzon/0060253776746"
+    },
+    {
+      "title": "Wikipedia – Alphonse Mouzon",
+      "url": "https://en.wikipedia.org/wiki/Alphonse_Mouzon"
+    },
+    {
+      "title": "Wikipedia – Delegation (band)",
+      "url": "https://en.wikipedia.org/wiki/Delegation_(band)"
+    },
+    {
+      "title": "45worlds – Delegation, The Promise of Love (State ETAT 14)",
+      "url": "https://www.45worlds.com/vinyl/album/etat14"
+    },
+    {
+      "title": "Wikipedia – Band of Gold (album)",
+      "url": "https://en.wikipedia.org/wiki/Band_of_Gold_(album)"
+    },
+    {
+      "title": "45worlds – Freda Payne, Band of Gold (Invictus ST-7301), crediti nei commenti",
+      "url": "https://www.45worlds.com/vinyl/album/st7301"
+    },
+    {
+      "title": "Wikipedia – Invictus Records (discografia dei 45 giri)",
+      "url": "https://en.wikipedia.org/wiki/Invictus_Records"
+    },
+    {
+      "title": "Discogs – Freda Payne, Band of Gold / The Easiest Way to Fall (Invictus 9075)",
+      "url": "https://www.discogs.com/release/12622781-Freda-Payne-Band-Of-Gold-The-Easiest-Way-To-Fall"
+    },
+    {
+      "title": "Wikipedia – Uriel Jones",
+      "url": "https://en.wikipedia.org/wiki/Uriel_Jones"
+    }
+  ]
+}
