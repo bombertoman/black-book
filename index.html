@@ -11,7 +11,6 @@
   <div class="top">
     <h1>BLACK BOOK <span>drum breaks</span></h1>
     <input id="q" type="search" placeholder="Cerca brano, artista, batterista, etichetta, anno…" autocomplete="off" autofocus>
-    <button id="add" class="primary" hidden>+ Aggiungi</button>
   </div>
   <nav id="tabs"></nav>
   <div id="filters">
@@ -48,39 +47,6 @@
   <b>Tipo</b> — Famoso: noto a tutti i producer (UBB n = volume di Ultimate Breaks and Beats). Documentato: campionato almeno una volta, poco noto. Scoperta: trovato da noi, nessun campionamento noto.
   <b>Calore</b> — il numero accanto a un nome o a un album dice in quanti break compare: <span class="heat h2">2</span> <span class="heat h3">3+</span>
 </footer>
-
-<dialog id="dlg">
-  <form id="form" method="dialog">
-    <h2>Nuovo break</h2>
-    <label>Titolo <input name="title" required></label>
-    <label>Artista <input name="artist" required list="dl-artists"></label>
-    <label>Disco <input name="release" placeholder='Album (1973), lato B'></label>
-    <label>Album <input name="album" placeholder="vuoto se solo 45 giri" list="dl-albums"></label>
-    <label>Dove <input name="where" placeholder="0:12, 4 battute"></label>
-    <label>Batteristi <input name="drummers" placeholder="separati da ;" list="dl-drummers"></label>
-    <label>Produttori <input name="producers" placeholder="separati da ;" list="dl-producers"></label>
-    <label>Etichette <input name="labels" placeholder="separate da ;" list="dl-labels"></label>
-    <div class="two">
-      <label>Tipo <select name="type">
-        <option value="scoperta">Scoperta</option>
-        <option value="documentato">Documentato</option>
-        <option value="famoso">Famoso</option>
-      </select></label>
-      <label>UBB <input name="ubb" placeholder="volume"></label>
-    </div>
-    <p id="err"></p>
-    <div class="actions">
-      <button type="button" id="cancel">Annulla</button>
-      <button type="submit" class="primary">Salva</button>
-    </div>
-    <datalist id="dl-artists"></datalist>
-    <datalist id="dl-albums"></datalist>
-    <datalist id="dl-drummers"></datalist>
-    <datalist id="dl-producers"></datalist>
-    <datalist id="dl-labels"></datalist>
-  </form>
-</dialog>
-<div id="toast" hidden></div>
 <script src="app.js"></script>
 </body>
 </html>

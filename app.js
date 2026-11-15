@@ -75,10 +75,6 @@ async function load() {
   const ubbs = [...new Set(breaks.map((b) => b._ubb).filter(Boolean))].sort((a, b) => a - b);
   $('#ubb').innerHTML = '<option value="">UBB: tutti</option><option value="any">UBB: solo presenti</option><option value="none">UBB: assenti</option>'
     + ubbs.map((u) => `<option value="${u}">UBB ${u}</option>`).join('');
-  for (const kind in KINDS) {
-    const dl = $('#dl-' + kind);
-    if (dl) dl.innerHTML = [...variants[kind].values()].flatMap((s) => [...s]).sort(cmp).map((n) => `<option value="${esc(n)}">`).join('');
-  }
 }
 
 // ---------- rendering helpers ----------
@@ -232,26 +228,9 @@ document.addEventListener('keydown', (e) => {
 });
 addEventListener('hashchange', () => { readHash(); render(); });
 
-// ---------- add form (only when the local server API is there) ----------
-function toast(msg) { const t = $('#toast'); t.textContent = msg; t.hidden = false; setTimeout(() => { t.hidden = true; }, 2500); }
-$('#add').addEventListener('click', () => { $('#form').reset(); $('#err').textContent = ''; $('#dlg').showModal(); });
-$('#cancel').addEventListener('click', () => $('#dlg').close());
-$('#form').addEventListener('submit', async (e) => {
-  e.preventDefault();
-  const data = Object.fromEntries([...new FormData(e.target)].filter(([, v]) => v.trim()));
-  try {
-    const r = await fetch('api/breaks', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
-    const res = await r.json();
-    if (!r.ok) throw new Error(res.error);
-    $('#dlg').close();
-    await load(); render();
-    toast(`Aggiunto: ${res.added[0].title} – ${res.added[0].artist}`);
-  } catch (err) { $('#err').textContent = err.message; }
-});
-
+// Read-only: breaks are added only from the command line (bb.js).
 (async () => {
   readHash();
   await load();
   render();
-  fetch('api/ping').then((r) => r.ok && r.json()).then((j) => { if (j && j.ok) $('#add').hidden = false; }).catch(() => {});
 })();

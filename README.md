@@ -8,7 +8,7 @@ Database di drum break con batteristi, produttori ed etichette. Webapp statica, 
 node server.js
 ```
 
-Apri http://localhost:4173. In locale compare il pulsante **+ Aggiungi**; la copia pubblicata è in sola lettura.
+Apri http://localhost:4173. La webapp è in sola lettura, sia in locale sia pubblicata: i break si aggiungono solo da riga di comando.
 
 ## Dati
 
@@ -30,12 +30,6 @@ echo '{"title":"X - Y","year":1974,"drummer":"A;B"}' | node bb.js import -
 node bb.js help           # tutti i comandi
 ```
 
-HTTP (server locale acceso):
-
-```bash
-curl -X POST localhost:4173/api/breaks -H "Content-Type: application/json" -d '{"title":"X","artist":"Y","year":1974}'
-```
-
 Campi: `title`, `artist`, `release`, `album`, `year`, `where`, `drummers`, `producers`, `labels` (array oppure nomi separati da `;`),
 `drummerText` / `producerText` / `labelText` (testo libero con note), `type` (`famoso`, `documentato`, `scoperta`), `ubb`.
 Valgono anche i nomi italiani (`brano`, `artista`, `disco`, `anno`, `dove`, `batterista`, `produttore`, `etichetta`, `tipo`).
@@ -44,7 +38,7 @@ Senza `type`: `famoso` se c'è `ubb`, altrimenti `scoperta`. L'anno si ricava da
 
 ### Batch completo
 
-`import` e `POST /api/breaks` accettano anche un oggetto con break, schede batterista e fonti insieme:
+`import` accetta anche un oggetto con break, schede batterista e fonti insieme:
 
 ```json
 {
