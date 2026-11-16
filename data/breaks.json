@@ -286,6 +286,38 @@
     "type": "documentato"
   },
   {
+    "id": "beau-jive-symphony-2-in-c-minor-op-1-the-beau-jives",
+    "title": "Beau Jive Symphony #2 in C# Minor (Op. 1)",
+    "artist": "The Beau-Jives",
+    "release": "45 giri Lord Bingo 108 (1963), lato B di Here We Go",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Lord Bingo"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "behind-the-times-bill-hjerpe",
+    "title": "Behind the Times",
+    "artist": "Bill Hjerpe",
+    "release": "45 giri Epic 5-10026 (giugno 1966), lato B di Mrs. Frost",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bob Morgan",
+      "Ted Cooper"
+    ],
+    "labels": [
+      "Epic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "the-big-beat-billy-squier",
     "title": "The Big Beat",
     "artist": "Billy Squier",
@@ -305,6 +337,23 @@
     ],
     "type": "famoso",
     "ubb": "9"
+  },
+  {
+    "id": "billy-s-bag-billy-preston",
+    "title": "Billy's Bag",
+    "artist": "Billy Preston",
+    "release": "The Most Exciting Organ Ever (gennaio 1965); anche 45 giri Vee-Jay; nel Regno Unito 45 giri Sue WI-4012 (1966)",
+    "album": "The Most Exciting Organ Ever",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Steve Douglas"
+    ],
+    "labels": [
+      "Vee-Jay"
+    ],
+    "type": "documentato"
   },
   {
     "id": "black-grass-bad-bascomb",
@@ -592,6 +641,25 @@
     "producerText": "Tutti Camarata (sul disco Camarata)",
     "labels": [
       "Buena Vista"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "call-to-worship-bethlehem-progressive-ensemble",
+    "title": "Call to Worship",
+    "artist": "Bethlehem Progressive Ensemble",
+    "release": "Mod Lit (1966), lato A, traccia 2 (Call to Worship – Make Straight the Way of the Lord)",
+    "album": "Mod Lit",
+    "year": 1966,
+    "drummers": [
+      "David Pearson"
+    ],
+    "drummerText": "David Pearson (crediti dell'album)",
+    "producers": [
+      "J. A. Jorgenson"
+    ],
+    "labels": [
+      "Fortress"
     ],
     "type": "documentato"
   },
@@ -1432,6 +1500,22 @@
     "type": "documentato"
   },
   {
+    "id": "escape-biggie-ratt",
+    "title": "Escape",
+    "artist": "Biggie Ratt",
+    "release": "45 giri Apt 26001 (1969), lato B di We Don't Need No Music",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bill McCloud"
+    ],
+    "labels": [
+      "Apt (ABC)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ever-ready-johnnie-taylor",
     "title": "Ever Ready",
     "artist": "Johnnie Taylor",
@@ -1448,6 +1532,22 @@
     ],
     "type": "famoso",
     "ubb": "26"
+  },
+  {
+    "id": "every-day-i-have-the-blues-billy-stewart",
+    "title": "Every Day I Have the Blues",
+    "artist": "Billy Stewart",
+    "release": "45 giri Chess 1991 (1967), lato B di Ol' Man River",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Billy Davis"
+    ],
+    "labels": [
+      "Chess"
+    ],
+    "type": "documentato"
   },
   {
     "id": "expansions-lonnie-liston-smith-the-cosmic-echoes",
@@ -1963,6 +2063,7 @@
     "producers": [
       "Phil Wainman"
     ],
+    "producerText": "Phil Wainman, con il gruppo",
     "labels": [
       "Vertigo"
     ],
@@ -2255,6 +2356,25 @@
     ],
     "type": "famoso",
     "ubb": "13"
+  },
+  {
+    "id": "happiness-is-benny-golson",
+    "title": "Happiness Is",
+    "artist": "Benny Golson",
+    "release": "Tune In, Turn On to the Hippest Commercials of the Sixties (1967), lato B, traccia 6",
+    "album": "Tune In, Turn On",
+    "year": 1967,
+    "drummers": [
+      "Bernard Purdie"
+    ],
+    "drummerText": "Bernard Purdie (crediti dell'album)",
+    "producers": [
+      "Tom Wilson"
+    ],
+    "labels": [
+      "Verve"
+    ],
+    "type": "documentato"
   },
   {
     "id": "happy-feet-al-hudson-the-partners",
@@ -2668,6 +2788,22 @@
     ],
     "type": "famoso",
     "ubb": "7"
+  },
+  {
+    "id": "i-feel-fine-billy-strange",
+    "title": "I Feel Fine",
+    "artist": "Billy Strange",
+    "release": "Goldfinger (1965), lato A, traccia 5",
+    "album": "Goldfinger",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "GNP Crescendo"
+    ],
+    "type": "documentato"
   },
   {
     "id": "i-get-lifted-kc-the-sunshine-band",
@@ -3536,6 +3672,38 @@
     "type": "documentato"
   },
   {
+    "id": "a-little-help-from-my-friends-betty-lavette",
+    "title": "A Little Help from My Friends",
+    "artist": "Betty Lavette",
+    "release": "45 giri Karen 45-1545 (1969), lato A; sul retro Hey Love",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Ollie McLaughlin"
+    ],
+    "labels": [
+      "Karen"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "little-indian-girl-billy-and-the-moonlighters",
+    "title": "Little Indian Girl",
+    "artist": "Billy and the Moonlighters",
+    "release": "45 giri Crystal Ball 45-101 (1977), lato B di You Made Me Cry",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Ed Engel"
+    ],
+    "labels": [
+      "Crystal Ball"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "living-together-is-keeping-us-apart-clarence-reid-blowfly",
     "title": "Living Together Is Keeping Us Apart",
     "artist": "Clarence Reid (Blowfly)",
@@ -3859,6 +4027,21 @@
     "ubb": "19"
   },
   {
+    "id": "mississippi-delta-billy-lee-riley",
+    "title": "Mississippi Delta",
+    "artist": "Billy Lee Riley",
+    "release": "45 giri Mojo 45-8001 (1967)",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Mojo"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "mister-magic-grover-washington-jr",
     "title": "Mister Magic",
     "artist": "Grover Washington Jr.",
@@ -3897,6 +4080,23 @@
     "type": "documentato"
   },
   {
+    "id": "music-i-like-it-benny-sharp-the-sharpies",
+    "title": "Music (I Like It)",
+    "artist": "Benny Sharp & the Sharpies",
+    "release": "45 giri Midas 303 (1969), parte 1",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Oliver Sain"
+    ],
+    "producerText": "Oliver Sain (sul disco O. Sain)",
+    "labels": [
+      "Midas"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "music-to-think-by-the-american-breed",
     "title": "Music to Think By",
     "artist": "The American Breed",
@@ -3906,7 +4106,7 @@
     "drummers": [
       "Lee Graziano"
     ],
-    "drummerText": "Lee Graziano (probabile: batterista del gruppo, non nei crediti dell'album)",
+    "drummerText": "Lee Graziano (crediti dell'album)",
     "producers": [
       "Bill Traut"
     ],
@@ -4445,6 +4645,25 @@
     "ubb": "20"
   },
   {
+    "id": "rebate-barry-miles",
+    "title": "Rebate",
+    "artist": "Barry Miles",
+    "release": "45 giri London 5N-221 (1975), come Barry Miles and Silverlight",
+    "year": 1975,
+    "drummers": [
+      "Terry Silverlight"
+    ],
+    "drummerText": "Terry Silverlight (probabile: batterista del gruppo, musicisti non accreditati sul 45 giri)",
+    "producers": [
+      "Barry Miles",
+      "Tony Camillo"
+    ],
+    "labels": [
+      "London"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ride-sally-ride-dennis-coffey",
     "title": "Ride Sally Ride",
     "artist": "Dennis Coffey",
@@ -4566,6 +4785,21 @@
     "producerText": "Non accreditato",
     "labels": [
       "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sapphire-bill-doggett",
+    "title": "Sapphire",
+    "artist": "Bill Doggett",
+    "release": "45 giri Roulette R-4732 (1967), con Ko-Ko sull'altro lato",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Roulette"
     ],
     "type": "documentato"
   },
@@ -4872,6 +5106,21 @@
     "ubb": "4"
   },
   {
+    "id": "sing-sing-sing-the-bernie-lowe-orchestra",
+    "title": "Sing Sing Sing",
+    "artist": "The Bernie Lowe Orchestra",
+    "release": "45 giri Cameo 153 (1958), lato B di Intermission Riff",
+    "year": 1958,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Cameo"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "sing-sing-sing-incredible-bongo-band",
     "title": "Sing, Sing, Sing",
     "artist": "Incredible Bongo Band",
@@ -4913,6 +5162,22 @@
     "ubb": "14"
   },
   {
+    "id": "slap-it-to-me-billy-john-the-continentals",
+    "title": "Slap It to Me",
+    "artist": "Billy John & the Continentals",
+    "release": "45 giri Jin 45-214 (1966)",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "3-B Productions"
+    ],
+    "labels": [
+      "Jin"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "slow-dance-stanley-clarke",
     "title": "Slow Dance",
     "artist": "Stanley Clarke",
@@ -4937,8 +5202,10 @@
     "release": "Harbor (1977), lato A, traccia 2",
     "album": "Harbor",
     "year": 1977,
-    "drummers": [],
-    "drummerText": "Non trovato",
+    "drummers": [
+      "Willie Leacox"
+    ],
+    "drummerText": "Willie Leacox (crediti dell'album)",
     "producers": [
       "George Martin"
     ],
@@ -5280,6 +5547,24 @@
     "type": "documentato"
   },
   {
+    "id": "stratus-billy-cobham",
+    "title": "Stratus",
+    "artist": "Billy Cobham",
+    "release": "Spectrum (ottobre 1973); anche 45 giri Atlantic (1973), parte 1; nel Regno Unito Atlantic K 10387",
+    "album": "Spectrum",
+    "year": 1973,
+    "drummers": [
+      "Billy Cobham"
+    ],
+    "producers": [
+      "Billy Cobham"
+    ],
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "street-talk-madam-rapper-funky-constellation",
     "title": "Street Talk (Madam Rapper)",
     "artist": "Funky Constellation",
@@ -5557,6 +5842,45 @@
     "ubb": "10"
   },
   {
+    "id": "there-s-a-break-in-the-road-betty-harris",
+    "title": "There's a Break in the Road",
+    "artist": "Betty Harris",
+    "release": "45 giri SSS International SSS-766 (1969), lato A",
+    "year": 1969,
+    "drummers": [
+      "Zigaboo Modeliste"
+    ],
+    "drummerText": "Zigaboo Modeliste (probabile: accompagnamento dei Meters, musicisti non accreditati)",
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "labels": [
+      "SSS International"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "they-ll-make-you-cry-the-beau-brummels",
+    "title": "They'll Make You Cry",
+    "artist": "The Beau Brummels",
+    "release": "45 giri Autumn (aprile 1965), lato B di Just a Little; anche su Introducing the Beau Brummels (aprile 1965), lato B, traccia 2",
+    "album": "Introducing the Beau Brummels",
+    "year": 1965,
+    "drummers": [
+      "John Petersen"
+    ],
+    "drummerText": "John Petersen (crediti dell'album)",
+    "producers": [
+      "Sly Stone"
+    ],
+    "producerText": "Sly Stone (come Sylvester Stewart)",
+    "labels": [
+      "Autumn"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "think-about-it-lyn-collins",
     "title": "Think (About It)",
     "artist": "Lyn Collins",
@@ -5701,6 +6025,23 @@
     ],
     "labels": [
       "Kama Sutra"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "twenty-five-miles-big-al-t-orchestra",
+    "title": "Twenty Five Miles",
+    "artist": "Big Al \"T\" Orchestra",
+    "release": "45 giri Virtue V-2507 (1969), lato A",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Frank Virtue"
+    ],
+    "producerText": "Frank Virtue (sul disco Virtue-Stiles)",
+    "labels": [
+      "Virtue"
     ],
     "type": "documentato"
   },
