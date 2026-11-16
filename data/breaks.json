@@ -1471,6 +1471,23 @@
     "ubb": "24"
   },
   {
+    "id": "fall-is-here-sentiments-barry-crees-and-the-hawks",
+    "title": "Fall Is Here (Sentiments)",
+    "artist": "Barry Crees and the Hawks",
+    "release": "45 giri August 100 (1967), lato B di Fall Is Here",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "John Sandre",
+      "David Stuart Sandler"
+    ],
+    "labels": [
+      "August"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "fatbackin-the-fatback-band",
     "title": "Fatbackin'",
     "artist": "The Fatback Band",
@@ -3727,6 +3744,22 @@
     "type": "documentato"
   },
   {
+    "id": "marvins-groove-b-w-souls",
+    "title": "Marvins Groove",
+    "artist": "B.W. Souls",
+    "release": "45 giri Round 45-1038 (1970), lato A",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "G/R Enterprises"
+    ],
+    "labels": [
+      "Round"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "mary-mary-the-monkees",
     "title": "Mary, Mary",
     "artist": "The Monkees",
@@ -5296,6 +5329,38 @@
     "type": "documentato"
   },
   {
+    "id": "the-superbird-the-aviary-connection",
+    "title": "The Superbird",
+    "artist": "The Aviary Connection",
+    "release": "45 giri Mesa 221221 (1971), lato A",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Mark Green"
+    ],
+    "labels": [
+      "Mesa"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "susie-q-the-bantams",
+    "title": "Susie Q",
+    "artist": "The Bantams",
+    "release": "Beware (1966), lato A, traccia 1",
+    "album": "Beware",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "sweet-sticky-thing-ajl-band",
     "title": "Sweet Sticky Thing",
     "artist": "AJL Band",
@@ -6027,6 +6092,21 @@
     ],
     "labels": [
       "Bell"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "you-can-t-buy-my-love-barbara-lynn",
+    "title": "You Can't Buy My Love",
+    "artist": "Barbara Lynn",
+    "release": "45 giri Jamie 1301 (1965), lato A; nel Regno Unito Immediate IM 011 (ottobre 1965)",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Jamie"
     ],
     "type": "documentato"
   },
