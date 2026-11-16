@@ -254,6 +254,21 @@
     "type": "documentato"
   },
   {
+    "id": "baby-girl-of-mine-anthony-hall",
+    "title": "Baby Girl of Mine",
+    "artist": "Anthony Hall",
+    "release": "45 giri Virtue 8500/8501 AH (1961), lato B di My Yiddishe Momme",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Virtue"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "bawana-jinde-al-duncan",
     "title": "Bawana Jinde",
     "artist": "Al Duncan",
@@ -1272,6 +1287,21 @@
     "type": "documentato"
   },
   {
+    "id": "doing-what-you-need-to-do-anthony-burns",
+    "title": "Doing What You Need to Do",
+    "artist": "Anthony Burns",
+    "release": "45 giri Castleway R-2933 (1971), parti I e II",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Castleway"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "don-t-change-your-love-five-stairsteps-cubie",
     "title": "Don't Change Your Love",
     "artist": "Five Stairsteps & Cubie",
@@ -1519,6 +1549,25 @@
     ],
     "labels": [
       "Reprise"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "first-anniversary-cut-the-artie-kornfeld-tree",
+    "title": "First Anniversary Cut",
+    "artist": "The Artie Kornfeld Tree",
+    "release": "A Time to Remember! (1970), lato A, traccia 2",
+    "album": "A Time to Remember!",
+    "year": 1970,
+    "drummers": [
+      "Donald McDonald"
+    ],
+    "drummerText": "Donald McDonald (crediti dell'album)",
+    "producers": [
+      "Hugh McCracken"
+    ],
+    "labels": [
+      "Dunhill (ABC)"
     ],
     "type": "documentato"
   },
@@ -1959,6 +2008,25 @@
     ],
     "type": "famoso",
     "ubb": "7"
+  },
+  {
+    "id": "go-the-apples-in-stereo",
+    "title": "Go",
+    "artist": "The Apples in Stereo",
+    "release": "The Discovery of a World Inside the Moone (2000), traccia 1",
+    "album": "The Discovery of a World Inside the Moone",
+    "year": 2000,
+    "drummers": [
+      "Hilarie Sidney"
+    ],
+    "drummerText": "Hilarie Sidney (crediti dell'album)",
+    "producers": [
+      "Robert Schneider"
+    ],
+    "labels": [
+      "spinART"
+    ],
+    "type": "documentato"
   },
   {
     "id": "god-make-me-funky-the-headhunters",
@@ -3098,6 +3166,23 @@
     "ubb": "23"
   },
   {
+    "id": "katty-s-thing-anthony-butler-the-invaders",
+    "title": "Katty's Thing",
+    "artist": "Anthony Butler & the Invaders",
+    "release": "45 giri Big Deal 1001 (New Orleans, 1969), lato B di The Chokin' Kind",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Marty Lewis"
+    ],
+    "producerText": "Marty Lewis (sul disco M. Lewis)",
+    "labels": [
+      "Big Deal"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "keep-it-up-longer-andrea-true-connection",
     "title": "Keep It Up Longer",
     "artist": "Andrea True Connection",
@@ -4000,6 +4085,21 @@
     "type": "documentato"
   },
   {
+    "id": "p-t-103-atlantis-ii",
+    "title": "P.T. #103",
+    "artist": "Atlantis II",
+    "release": "45 giri CMS (1976), lato A",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "CMS"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "papa-was-too-joe-tex",
     "title": "Papa Was Too",
     "artist": "Joe Tex",
@@ -4417,6 +4517,22 @@
     "producerText": "Non accreditato (leader: P.S.K. Ampadu)",
     "labels": [
       "Happy Bird"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sambo-mambo-billy-may-s-rico-mambo-orchestra",
+    "title": "Sambo Mambo",
+    "artist": "Billy May's Rico Mambo Orchestra",
+    "release": "Arthur Murray Favorites: Mambos (cofanetto di 45 giri Capitol CDF-261), ultimo lato; anche nell'LP Arthur Murray Favorites: Mambos / Rhumbas (1953), lato B, traccia 4",
+    "album": "Arthur Murray Favorites: Mambos",
+    "year": 1950,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Capitol"
     ],
     "type": "documentato"
   },
@@ -5165,6 +5281,21 @@
     "type": "documentato"
   },
   {
+    "id": "su-samsunun-evleri-arif-sag",
+    "title": "Şu Samsunun Evleri",
+    "artist": "Arif Sağ",
+    "release": "45 giri Topkapı 136 (Turchia, 1973), lato A",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Topkapı"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "sweet-sticky-thing-ajl-band",
     "title": "Sweet Sticky Thing",
     "artist": "AJL Band",
@@ -5220,6 +5351,21 @@
     ],
     "type": "famoso",
     "ubb": "16"
+  },
+  {
+    "id": "take-17-the-astronauts",
+    "title": "Take 17",
+    "artist": "The Astronauts",
+    "release": "45 giri Jan Ell 459 (1962), lato B; sul lato A Geneva Twist dei Five Superiors. Orchestra di Lee Hester",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato (\"Produced by A.S.R.\"; arrangiamento e direzione di Ernest Smith)",
+    "labels": [
+      "Jan Ell"
+    ],
+    "type": "documentato"
   },
   {
     "id": "take-me-to-the-mardi-gras-bob-james",
@@ -5605,6 +5751,21 @@
     ],
     "type": "famoso",
     "ubb": "12"
+  },
+  {
+    "id": "watermelon-man-avant-house-band",
+    "title": "Watermelon Man",
+    "artist": "Avant House Band",
+    "release": "45 giri Avant 2070 (1973), lato B di Little Rock Getaway; artista non indicato sul disco",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Avant"
+    ],
+    "type": "documentato"
   },
   {
     "id": "the-way-of-life-the-puppets",
