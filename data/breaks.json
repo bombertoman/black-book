@@ -277,7 +277,7 @@
     "drummers": [
       "Al Duncan"
     ],
-    "drummerText": "Al Duncan (probabile: disco a suo nome, musicisti non accreditati)",
+    "drummerText": "Al Duncan (probabile: batterista, disco a suo nome; musicisti non accreditati)",
     "producers": [],
     "producerText": "Non accreditato",
     "labels": [
@@ -491,6 +491,21 @@
     ],
     "type": "famoso",
     "ubb": "15"
+  },
+  {
+    "id": "bowlegged-woman-knock-kneed-man-bobby-rush",
+    "title": "Bowlegged Woman, Knock-Kneed Man",
+    "artist": "Bobby Rush",
+    "release": "45 giri On Top OT 2001 (1972), parte 2 sul lato B; anche su Jewel 834 (1972)",
+    "year": 1972,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "On Top"
+    ],
+    "type": "documentato"
   },
   {
     "id": "bra-cymande",
@@ -810,6 +825,22 @@
     "ubb": "19"
   },
   {
+    "id": "chili-beans-boots-brown-and-his-blockbusters",
+    "title": "Chili Beans",
+    "artist": "Boots Brown and His Blockbusters",
+    "release": "45 giri RCA Victor 47-7533 (maggio 1959), lato A; sul retro (Let's Go to) Strollsville",
+    "year": 1959,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Dick Peirce"
+    ],
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "chinese-chicken-duke-williams-and-the-extremes",
     "title": "Chinese Chicken",
     "artist": "Duke Williams and the Extremes",
@@ -924,6 +955,26 @@
     "ubb": "18"
   },
   {
+    "id": "constructive-critique-bob-smith",
+    "title": "Constructive Critique",
+    "artist": "Bob Smith",
+    "release": "The Visit (1970), doppio LP, lato A, traccia 3",
+    "album": "The Visit",
+    "year": 1970,
+    "drummers": [
+      "Skip Schneider"
+    ],
+    "drummerText": "Skip Schneider (crediti dell'album)",
+    "producers": [
+      "Bob Smith",
+      "Mark Taylor"
+    ],
+    "labels": [
+      "Kent"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "cookies-brother-soul",
     "title": "Cookies",
     "artist": "Brother Soul",
@@ -991,7 +1042,7 @@
     "drummers": [
       "Al Duncan"
     ],
-    "drummerText": "Al Duncan (probabile: disco a suo nome, musicisti non accreditati)",
+    "drummerText": "Al Duncan (probabile: batterista, disco a suo nome; musicisti non accreditati)",
     "producers": [],
     "producerText": "Non accreditato",
     "labels": [
@@ -1550,6 +1601,21 @@
     "type": "documentato"
   },
   {
+    "id": "exotic-bob-vaught-the-renegaids",
+    "title": "Exotic",
+    "artist": "Bob Vaught & the Renegaids",
+    "release": "45 giri GNP Crescendo GNP 193x (1963), lato A; sul retro Surfin' Tragedy",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "GNP Crescendo"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "expansions-lonnie-liston-smith-the-cosmic-echoes",
     "title": "Expansions",
     "artist": "Lonnie Liston Smith & the Cosmic Echoes",
@@ -1627,6 +1693,22 @@
     ],
     "type": "famoso",
     "ubb": "17"
+  },
+  {
+    "id": "feeling-good-bryony-james",
+    "title": "Feeling Good",
+    "artist": "Bryony James",
+    "release": "Feeling Good (Regno Unito, 1969)",
+    "album": "Feeling Good",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
   },
   {
     "id": "films-gary-numan",
@@ -2181,7 +2263,7 @@
       "Bones Howe"
     ],
     "labels": [
-      "Soul City (Liberty)"
+      "Soul City"
     ],
     "type": "documentato"
   },
@@ -3319,6 +3401,45 @@
     "ubb": "23"
   },
   {
+    "id": "judgement-day-birtha",
+    "title": "Judgement Day",
+    "artist": "Birtha",
+    "release": "Birtha (1972), lato B, traccia 3",
+    "album": "Birtha",
+    "year": 1972,
+    "drummers": [
+      "Liver"
+    ],
+    "drummerText": "Liver (crediti dell'album; nome d'arte)",
+    "producers": [
+      "Gabriel Mekler"
+    ],
+    "labels": [
+      "Dunhill (ABC)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "just-because-it-s-so-bru-hau-and-the-sawmill-creek-band",
+    "title": "Just Because It's So",
+    "artist": "Bru Hau and the Sawmill Creek Band",
+    "release": "Barely Gettin' By (1981), lato B, traccia 2; registrato a Nashville (Columbia Studio B) nell'ottobre 1980",
+    "album": "Barely Gettin' By",
+    "year": 1981,
+    "drummers": [
+      "Andy Rowell"
+    ],
+    "drummerText": "Andy Rowell (crediti dell'album)",
+    "producers": [
+      "Bruce Hauser",
+      "Jim Christensen"
+    ],
+    "labels": [
+      "Cowboy"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "katty-s-thing-anthony-butler-the-invaders",
     "title": "Katty's Thing",
     "artist": "Anthony Butler & the Invaders",
@@ -3509,6 +3630,53 @@
     "type": "documentato"
   },
   {
+    "id": "la-complainte-de-mackie-mac-the-knife-boulou",
+    "title": "La Complainte de Mackie (Mac the Knife)",
+    "artist": "Boulou",
+    "release": "EP 45 giri Barclay 70.657 (Francia, giugno 1964), lato A",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Barclay"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "la-kookoo-watusi-bobby-jay-and-the-hawks",
+    "title": "La Kookoo Watusi",
+    "artist": "Bobby Jay and the Hawks",
+    "release": "The Watusi (1964), lato B, traccia 2",
+    "album": "The Watusi",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "lana-bobby-jay-and-the-hawks",
+    "title": "Lana",
+    "artist": "Bobby Jay and the Hawks",
+    "release": "The Watusi (1964), lato B, traccia 3",
+    "album": "The Watusi",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "last-night-changed-it-all-i-really-had-a-ball-esther-williams",
     "title": "Last Night Changed It All (I Really Had a Ball)",
     "artist": "Esther Williams",
@@ -3542,6 +3710,24 @@
     ],
     "type": "famoso",
     "ubb": "17"
+  },
+  {
+    "id": "let-my-people-go-brother-jack-mcduff",
+    "title": "Let My People Go",
+    "artist": "Brother Jack McDuff",
+    "release": "45 giri Cadet 5614 (1968)",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Richard Evans",
+      "Lew Futterman"
+    ],
+    "producerText": "Richard Evans e Lew Futterman (sul disco Lou Futterman)",
+    "labels": [
+      "Cadet (Chess)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "let-the-drums-speak-the-fatback-band",
@@ -3617,6 +3803,25 @@
     ],
     "type": "famoso",
     "ubb": "18"
+  },
+  {
+    "id": "let-s-stomp-bobby-gregg-and-his-friends",
+    "title": "Let's Stomp",
+    "artist": "Bobby Gregg and His Friends",
+    "release": "Let's Stomp and Wild Weekend (1963), lato A, traccia 1",
+    "album": "Let's Stomp and Wild Weekend",
+    "year": 1963,
+    "drummers": [
+      "Bobby Gregg"
+    ],
+    "drummerText": "Bobby Gregg (batterista e leader del gruppo)",
+    "producers": [
+      "Al Kasha"
+    ],
+    "labels": [
+      "Epic"
+    ],
+    "type": "documentato"
   },
   {
     "id": "life-could-rotary-connection",
@@ -3879,6 +4084,25 @@
     "ubb": "17"
   },
   {
+    "id": "lowdown-boz-scaggs",
+    "title": "Lowdown",
+    "artist": "Boz Scaggs",
+    "release": "Silk Degrees (1976), traccia 6; anche 45 giri Columbia 3-10367 (giugno 1976), lato A, con Harbor Lights sul retro",
+    "album": "Silk Degrees",
+    "year": 1976,
+    "drummers": [
+      "Jeff Porcaro"
+    ],
+    "drummerText": "Jeff Porcaro (crediti dell'album)",
+    "producers": [
+      "Joe Wissert"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "mambo-no-5-samba-soul",
     "title": "Mambo No. 5",
     "artist": "Samba Soul",
@@ -4076,6 +4300,22 @@
     ],
     "labels": [
       "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "multiplication-bobby-darin",
+    "title": "Multiplication",
+    "artist": "Bobby Darin",
+    "release": "45 giri Atco (dicembre 1961), lato A; sul retro Irresistible You. Anche su Twist with Bobby Darin (1961), lato A, traccia 6",
+    "album": "Twist with Bobby Darin",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Atco"
     ],
     "type": "documentato"
   },
@@ -4552,6 +4792,21 @@
     "ubb": "19"
   },
   {
+    "id": "put-your-boots-back-on-the-shelf-boots-walker",
+    "title": "Put Your Boots Back on the Shelf",
+    "artist": "Boots Walker",
+    "release": "45 giri Rust 5105 (1966), lato A; sul retro Crazy Things Like That. In Germania Ariola 18 874 AT",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Rust"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "put-your-hand-in-the-hand-allison-durbin",
     "title": "Put Your Hand in the Hand",
     "artist": "Allison Durbin",
@@ -4683,6 +4938,25 @@
     "ubb": "18"
   },
   {
+    "id": "ring-that-bell-brian-short",
+    "title": "Ring That Bell",
+    "artist": "Brian Short",
+    "release": "Anything for a Laugh (1971), lato A, traccia 1",
+    "album": "Anything for a Laugh",
+    "year": 1971,
+    "drummers": [
+      "Alan White"
+    ],
+    "drummerText": "Alan White (crediti dell'album)",
+    "producers": [
+      "Mike Finesilver"
+    ],
+    "labels": [
+      "Transatlantic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "rock-creek-park-the-blackbyrds",
     "title": "Rock Creek Park",
     "artist": "The Blackbyrds",
@@ -4800,6 +5074,23 @@
     "producerText": "Non accreditato",
     "labels": [
       "Roulette"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "satisfied-mind-bruce-channel",
+    "title": "Satisfied Mind",
+    "artist": "Bruce Channel",
+    "release": "45 giri Mel-o-dy 112 (marzo 1964), lato A; sul retro That's What's Happenin'",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Al Klein"
+    ],
+    "producerText": "Al Klein e Stevenson (così sul disco)",
+    "labels": [
+      "Mel-o-dy (Motown)"
     ],
     "type": "documentato"
   },
@@ -5646,6 +5937,21 @@
     "type": "documentato"
   },
   {
+    "id": "sweet-meat-bobby-ellis",
+    "title": "Sweet Meat",
+    "artist": "Bobby Ellis",
+    "release": "45 giri Jaguar J 124 (Giamaica, 1975), lato B di Baggy Beef dei Moonlights",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Jaguar"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "sweet-sticky-thing-ajl-band",
     "title": "Sweet Sticky Thing",
     "artist": "AJL Band",
@@ -5842,15 +6148,32 @@
     "ubb": "10"
   },
   {
+    "id": "theme-from-virginia-wolfe-bob-kuban-and-the-in-men",
+    "title": "Theme from Virginia Wolfe",
+    "artist": "Bob Kuban and the In-Men",
+    "release": "Look Out for the Cheater (aprile 1966), lato B, traccia 3",
+    "album": "Look Out for the Cheater",
+    "year": 1966,
+    "drummers": [
+      "Bob Kuban"
+    ],
+    "drummerText": "Bob Kuban (batterista e leader del gruppo)",
+    "producers": [
+      "Mel Friedman"
+    ],
+    "labels": [
+      "Musicland USA"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "there-s-a-break-in-the-road-betty-harris",
     "title": "There's a Break in the Road",
     "artist": "Betty Harris",
     "release": "45 giri SSS International SSS-766 (1969), lato A",
     "year": 1969,
-    "drummers": [
-      "Zigaboo Modeliste"
-    ],
-    "drummerText": "Zigaboo Modeliste (probabile: accompagnamento dei Meters, musicisti non accreditati)",
+    "drummers": [],
+    "drummerText": "Non accreditato",
     "producers": [
       "Allen Toussaint",
       "Marshall Sehorn"
@@ -6562,5 +6885,21 @@
     ],
     "type": "famoso",
     "ubb": "24"
+  },
+  {
+    "id": "your-good-good-loving-bobby-powell",
+    "title": "Your Good, Good Loving",
+    "artist": "Bobby Powell",
+    "release": "45 giri Excello EX 2339 (1973)",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Lionel Whitfield"
+    ],
+    "labels": [
+      "Excello"
+    ],
+    "type": "documentato"
   }
 ]

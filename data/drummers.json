@@ -1,13 +1,16 @@
 {
   "Al Duncan": {
-    "role": "Leader, turnista a Chicago"
+    "role": "Leader, batterista"
   },
   "Al Jackson Jr.": {
     "role": "Membro (Booker T. & the M.G.'s), turnista Stax",
     "other": "Booker T. & the M.G.'s Green Onions (1962); Al Green Let's Stay Together (1971)"
   },
   "Al Rogers": {
-    "role": "Turnista"
+    "role": "Batteria su The Landlord (crediti dell'album)"
+  },
+  "Alan White": {
+    "role": "Batteria su Anything for a Laugh (crediti dell'album)"
   },
   "Allan Schwartzberg": {
     "role": "Turnista",
@@ -26,6 +29,9 @@
   "Andy Newmark": {
     "role": "Turnista",
     "other": "Sly & the Family Stone Fresh (1973); Roxy Music"
+  },
+  "Andy Rowell": {
+    "role": "Batteria e voce su Barely Gettin' By (crediti dell'album)"
   },
   "Andy Surdi": {
     "fullName": "Andy (Andrea) Surdi",
@@ -70,12 +76,18 @@
     "role": "Turnista, poi solista; ex Mahavishnu Orchestra",
     "other": "Mahavishnu Orchestra; Spectrum (1973); molti dischi CTI"
   },
+  "Bob Kuban": {
+    "role": "Leader (Bob Kuban and the In-Men)"
+  },
   "Bobby Carlin": {
     "role": "Membro (Coalkitchen)"
   },
   "Bobby Chouinard": {
     "role": "Membro (band di Billy Squier)",
     "other": "Billy Squier Don't Say No (1981)"
+  },
+  "Bobby Gregg": {
+    "role": "Leader, turnista"
   },
   "Bobby Manigault": {
     "role": "Membro (Jimmy Castor Bunch)",
@@ -149,7 +161,7 @@
     "other": "If 1974–75; Geoff Whitehorn (1974)"
   },
   "Clive Thacker": {
-    "role": "Turnista"
+    "role": "Batteria su O Lucky Man! (crediti dell'album)"
   },
   "Clyde Stubblefield": {
     "role": "Membro (band di James Brown)",
@@ -190,7 +202,7 @@
     "role": "Membro (Amen Corner)"
   },
   "Dennis Conway": {
-    "role": "Turnista"
+    "role": "Batteria su Flush the Fashion (crediti dell'album)"
   },
   "Dick Powell": {
     "role": "Membro (Babe Ruth)"
@@ -206,7 +218,7 @@
     "other": "Machine (All Platinum, 1972)"
   },
   "Donald McDonald": {
-    "role": "Turnista"
+    "role": "Batteria su A Time to Remember! (crediti dell'album)"
   },
   "Doug Rhodes": {
     "role": "Membro (Roy Ayers Ubiquity, 1976)"
@@ -254,8 +266,7 @@
     "role": "Membro (American Blues), poi ZZ Top"
   },
   "Frank Ravioli": {
-    "role": "Turnista (Alessi)",
-    "fullName": "Frank \"Ravioli\" Aversa"
+    "role": "Batteria su Alessi (crediti dell'album)"
   },
   "Fred Proudy": {
     "role": "Turnista (Quinvy Studios, Muscle Shoals)"
@@ -386,7 +397,7 @@
     "other": "Altri album dei Funk, Inc. su Prestige"
   },
   "Joe Lambert": {
-    "role": "Turnista a New Orleans"
+    "role": "Batteria su Life, Love and Faith (crediti dell'album)"
   },
   "Joe Pollard": {
     "role": "Turnista"
@@ -481,6 +492,9 @@
     "role": "Membro (band di Billy Joel)",
     "other": "Meat Loaf Dead Ringer (1981); Rick Wakeman The Burning (1981)"
   },
+  "Liver": {
+    "role": "Membro (Birtha), batteria, percussioni e voce"
+  },
   "Lou Mullenix": {
     "role": "Turnista (Quinvy Studios, Muscle Shoals)"
   },
@@ -496,7 +510,7 @@
     "role": "Membro (Graham Central Station)"
   },
   "Martin Harrison": {
-    "role": "Turnista a Monaco"
+    "role": "Batteria su I Am a Photograph (crediti dell'album)"
   },
   "Marvin Gaye": {
     "role": "Cantante e produttore, suona anche la batteria",
@@ -521,8 +535,8 @@
     "other": "Bread: Manna (1971), Baby I'm-a Want You (1972)"
   },
   "Michael Omartian": {
-    "role": "Turnista (tastierista, arrangiatore e produttore)",
-    "other": "Rhythm Heritage Theme from S.W.A.T. (1975); Christopher Cross Christopher Cross (1979), come produttore"
+    "role": "Tastierista, arrangiatore e produttore",
+    "other": "Christopher Cross Christopher Cross (1979), come produttore"
   },
   "Michael Thatcher": {
     "role": "Membro (The Abstracts)"
@@ -548,7 +562,7 @@
     "other": "Michael Jackson Billie Jean; Weather Report Tale Spinnin'; George Duke; Santana"
   },
   "Ola Brunkert": {
-    "role": "Turnista (ABBA)"
+    "role": "Batteria su ABBA (crediti dell'album)"
   },
   "Paul Humphrey": {
     "role": "Turnista (Los Angeles)",
@@ -614,7 +628,7 @@
     "other": "Sunshine Band The Sound of Sunshine (1975)"
   },
   "Roger Palm": {
-    "role": "Turnista (ABBA)"
+    "role": "Batteria su ABBA (crediti dell'album)"
   },
   "Rudi Staeger": {
     "role": "Membro (Acid)"
@@ -631,6 +645,9 @@
   },
   "Sean Kinney": {
     "role": "Membro (Alice in Chains)"
+  },
+  "Skip Schneider": {
+    "role": "Batteria su The Visit (crediti dell'album)"
   },
   "Stefan Kaufmann": {
     "role": "Membro (Accept)"
@@ -662,7 +679,7 @@
     "other": "Funkadelic Maggot Brain (1971); Parliament Osmium (1970)"
   },
   "Tom Staley": {
-    "role": "Turnista (album di Al Anderson)"
+    "role": "Membro (NRBQ)"
   },
   "Trevor Gale": {
     "role": "Membro (Orange Krush)"
@@ -712,7 +729,7 @@
     "other": "The Southside Movement (1973)"
   },
   "Willie Leacox": {
-    "role": "Turnista (America)"
+    "role": "Batteria su Harbor (crediti dell'album)"
   },
   "Zac Slater": {
     "role": "Membro (The Politicians, band della Hot Wax/Invictus)",
