@@ -57,6 +57,24 @@
     "ubb": "10"
   },
   {
+    "id": "air-cushion-alessi",
+    "title": "Air Cushion",
+    "artist": "Alessi",
+    "release": "All for a Reason (1977), lato A, traccia 5",
+    "album": "All for a Reason",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "David Lucas"
+    ],
+    "producerText": "David Lucas, con Billy e Bobby Alessi produttori associati",
+    "labels": [
+      "A&M"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "all-night-long-mary-jane-girls",
     "title": "All Night Long",
     "artist": "Mary Jane Girls",
@@ -92,6 +110,26 @@
     ],
     "type": "famoso",
     "ubb": "1"
+  },
+  {
+    "id": "angry-chair-alice-in-chains",
+    "title": "Angry Chair",
+    "artist": "Alice in Chains",
+    "release": "Dirt (1992); anche 45 giri Columbia 659365 7 (Regno Unito, 1993), lato A",
+    "album": "Dirt",
+    "year": 1992,
+    "drummers": [
+      "Sean Kinney"
+    ],
+    "drummerText": "Sean Kinney (batterista del gruppo)",
+    "producers": [
+      "Dave Jerden",
+      "Alice in Chains"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "documentato"
   },
   {
     "id": "another-brick-in-the-wall-fausto-papetti",
@@ -177,6 +215,42 @@
     "ubb": "16"
   },
   {
+    "id": "axis-a-certain-ratio",
+    "title": "Axis",
+    "artist": "A Certain Ratio",
+    "release": "I'd Like to See You Again (1982), lato B, traccia 3",
+    "album": "I'd Like to See You Again",
+    "year": 1982,
+    "drummers": [
+      "Donald Johnson"
+    ],
+    "drummerText": "Donald Johnson (probabile: batterista del gruppo, musicisti non accreditati sul disco)",
+    "producers": [
+      "A Certain Ratio"
+    ],
+    "labels": [
+      "Factory"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "bawana-jinde-al-duncan",
+    "title": "Bawana Jinde",
+    "artist": "Al Duncan",
+    "release": "45 giri Stacy 933 (1962), lato B di Cossak Walk",
+    "year": 1962,
+    "drummers": [
+      "Al Duncan"
+    ],
+    "drummerText": "Al Duncan (probabile: disco a suo nome, musicisti non accreditati)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Stacy"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "the-big-beat-billy-squier",
     "title": "The Big Beat",
     "artist": "Billy Squier",
@@ -212,6 +286,26 @@
     ],
     "type": "famoso",
     "ubb": "1"
+  },
+  {
+    "id": "black-hearted-woman-the-allman-brothers-band",
+    "title": "Black Hearted Woman",
+    "artist": "The Allman Brothers Band",
+    "release": "The Allman Brothers Band (1969), lato A, traccia 3",
+    "album": "The Allman Brothers Band",
+    "year": 1969,
+    "drummers": [
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "drummerText": "Butch Trucks e Jaimoe (crediti dell'album)",
+    "producers": [
+      "Adrian Barber"
+    ],
+    "labels": [
+      "Capricorn (Atco)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "blind-alley-the-emotions",
@@ -449,6 +543,22 @@
     "ubb": "8 (2ª stampa)"
   },
   {
+    "id": "cat-woman-abaco-dream",
+    "title": "Cat Woman",
+    "artist": "Abaco Dream",
+    "release": "45 giri A&M 1081 (1969), lato B di Life and Death in G & A",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Ted Cooper"
+    ],
+    "labels": [
+      "A&M"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "catch-a-groove-juice",
     "title": "Catch a Groove",
     "artist": "Juice",
@@ -581,6 +691,39 @@
     "ubb": "20"
   },
   {
+    "id": "clap-your-hands-the-ambertones",
+    "title": "Clap Your Hands",
+    "artist": "The Ambertones",
+    "release": "45 giri Newman 601 (1965), lato A",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Newman"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "cold-feet-albert-king",
+    "title": "Cold Feet",
+    "artist": "Albert King",
+    "release": "45 giri Stax 45-241 (dicembre 1967), lato A; nel Regno Unito Stax 601029 (1968)",
+    "year": 1967,
+    "drummers": [
+      "Al Jackson Jr."
+    ],
+    "drummerText": "Al Jackson Jr. (probabile: coautore e produttore, musicisti non accreditati)",
+    "producers": [
+      "Al Jackson Jr."
+    ],
+    "labels": [
+      "Stax"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "cold-sweat-james-brown",
     "title": "Cold Sweat",
     "artist": "James Brown",
@@ -598,6 +741,26 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "comin-back-home-american-blues",
+    "title": "Comin' Back Home",
+    "artist": "American Blues",
+    "release": "Do Their Thing (1968), lato A, traccia 5; registrato a Dallas (Pams) tra agosto e ottobre 1968",
+    "album": "Do Their Thing",
+    "year": 1968,
+    "drummers": [
+      "Frank Beard"
+    ],
+    "drummerText": "Frank Beard (crediti dell'album)",
+    "producers": [
+      "Sam Coplin"
+    ],
+    "producerText": "Sam Coplin (produttore esecutivo; \"A Karma Production\")",
+    "labels": [
+      "Uni (MCA)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "conga-lafayette-afro-rock-band",
@@ -678,6 +841,23 @@
     ],
     "type": "famoso",
     "ubb": "22"
+  },
+  {
+    "id": "cossak-walk-al-duncan",
+    "title": "Cossak Walk",
+    "artist": "Al Duncan",
+    "release": "45 giri Stacy 933 (1962), lato A",
+    "year": 1962,
+    "drummers": [
+      "Al Duncan"
+    ],
+    "drummerText": "Al Duncan (probabile: disco a suo nome, musicisti non accreditati)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Stacy"
+    ],
+    "type": "documentato"
   },
   {
     "id": "country-cooking-jim-dandy",
@@ -769,6 +949,41 @@
     "ubb": "3"
   },
   {
+    "id": "the-dapp-african-music-machine",
+    "title": "The Dapp",
+    "artist": "African Music Machine",
+    "release": "45 giri Soul Power SP-115 (1973), lato B di Never Name a Baby (Before It's Born); anche sull'LP Black Water Gold",
+    "album": "Black Water Gold",
+    "year": 1973,
+    "drummers": [
+      "Louis Acorn"
+    ],
+    "drummerText": "Louis Acorn (crediti dell'album)",
+    "producers": [
+      "Louis Villery"
+    ],
+    "labels": [
+      "Soul Power (Jewel)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "dazzling-acoustic",
+    "title": "Dazzling",
+    "artist": "Acoustic",
+    "release": "45 giri Ariola 10 083 AT (Germania, 1971), lato B di Wladimir Wostock",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Andreas Budde"
+    ],
+    "labels": [
+      "Ariola"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "devil-with-the-bust-sound-experience",
     "title": "Devil with the Bust",
     "artist": "Sound Experience",
@@ -785,6 +1000,28 @@
     ],
     "type": "famoso",
     "ubb": "21"
+  },
+  {
+    "id": "the-devil-s-lost-again-2nd-chapter-of-acts",
+    "title": "The Devil's Lost Again",
+    "artist": "2nd Chapter of Acts",
+    "release": "With Footnotes (1974), traccia 4",
+    "album": "With Footnotes",
+    "year": 1974,
+    "drummers": [
+      "David Kemper",
+      "Jim Gordon",
+      "John Guerin",
+      "Michael Omartian"
+    ],
+    "drummerText": "David Kemper, Jim Gordon, John Guerin o Michael Omartian: uno dei quattro (crediti dell'album)",
+    "producers": [
+      "Buck Herring"
+    ],
+    "labels": [
+      "Myrrh (Word)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "different-strokes-syl-johnson",
@@ -864,6 +1101,21 @@
     "type": "documentato"
   },
   {
+    "id": "do-it-one-more-time-alvin-cash-the-registers",
+    "title": "Do It One More Time",
+    "artist": "Alvin Cash & the Registers",
+    "release": "45 giri Mar-V-Lus 6012 (1966), lato B di The Philly Freeze",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Mar-V-Lus"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "do-the-funky-penguin-rufus-thomas",
     "title": "Do the Funky Penguin",
     "artist": "Rufus Thomas",
@@ -904,6 +1156,25 @@
     ],
     "type": "famoso",
     "ubb": "22"
+  },
+  {
+    "id": "do-you-feel-it-alessi",
+    "title": "Do You Feel It?",
+    "artist": "Alessi",
+    "release": "Alessi (1976), lato A, traccia 1; come The Alessi Brothers",
+    "album": "Alessi",
+    "year": 1976,
+    "drummers": [
+      "Frank Ravioli"
+    ],
+    "drummerText": "Frank Ravioli (crediti dell'album; Hal Blaine e Bones Howe a congas e percussioni)",
+    "producers": [
+      "Bones Howe"
+    ],
+    "labels": [
+      "A&M"
+    ],
+    "type": "documentato"
   },
   {
     "id": "do-your-dance-rose-royce",
@@ -960,6 +1231,22 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "drumsville-the-aire-dales",
+    "title": "Drumsville",
+    "artist": "The Aire-Dales",
+    "release": "45 giri Roulette R-4505 (1963), lato A",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Doug Fowlkes"
+    ],
+    "labels": [
+      "Roulette"
+    ],
+    "type": "documentato"
   },
   {
     "id": "dynamite-the-bomb-shotgun",
@@ -1140,6 +1427,26 @@
     "ubb": "22"
   },
   {
+    "id": "fingers-and-toes-allen-toussaint",
+    "title": "Fingers and Toes",
+    "artist": "Allen Toussaint",
+    "release": "Life, Love and Faith (1972), lato B, traccia 2",
+    "album": "Life, Love and Faith",
+    "year": 1972,
+    "drummers": [
+      "Joe Lambert",
+      "Zigaboo Modeliste"
+    ],
+    "drummerText": "Joe Lambert o Zigaboo Modeliste: uno dei due (crediti dell'album)",
+    "producers": [
+      "Allen Toussaint"
+    ],
+    "labels": [
+      "Reprise"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "flip-jesse-green",
     "title": "Flip",
     "artist": "Jesse Green",
@@ -1175,6 +1482,38 @@
     "labels": [
       "Metromedia",
       "Brain"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "focus-on-the-middle-east-ali-ishfahan-george-farid",
+    "title": "Focus on the Middle East",
+    "artist": "Ali Ishfahan & George Farid",
+    "release": "All the Arabias (1978), lato A, traccia 2; disco di sonorizzazione",
+    "album": "All the Arabias",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "JW Theme Music"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "football-acres-of-grass",
+    "title": "Football",
+    "artist": "Acres of Grass",
+    "release": "45 giri Ovide 248 (1970), doppio lato A con Sondra",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "L.J.F. Production"
+    ],
+    "labels": [
+      "Ovide"
     ],
     "type": "documentato"
   },
@@ -1312,6 +1651,24 @@
     "ubb": "10"
   },
   {
+    "id": "funky-snakefoot-alphonse-mouzon",
+    "title": "Funky Snakefoot",
+    "artist": "Alphonse Mouzon",
+    "release": "Funky Snakefoot (1974), come Alphonze Mouzon; anche 45 giri Blue Note BN-XW500-X (1974), lato A",
+    "album": "Funky Snakefoot",
+    "year": 1974,
+    "drummers": [
+      "Alphonse Mouzon"
+    ],
+    "producers": [
+      "Alphonse Mouzon"
+    ],
+    "labels": [
+      "Blue Note"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "gangster-boogie-chicago-gangsters",
     "title": "Gangster Boogie",
     "artist": "Chicago Gangsters",
@@ -1349,6 +1706,25 @@
     ],
     "type": "famoso",
     "ubb": "2"
+  },
+  {
+    "id": "get-out-of-my-life-woman-allen-toussaint",
+    "title": "Get Out of My Life, Woman",
+    "artist": "Allen Toussaint",
+    "release": "45 giri Bell 732 (1968), lato A",
+    "year": 1968,
+    "drummers": [
+      "Zigaboo Modeliste"
+    ],
+    "drummerText": "Zigaboo Modeliste (probabile: accompagnamento dei Meters, musicisti non accreditati)",
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "labels": [
+      "Bell"
+    ],
+    "type": "documentato"
   },
   {
     "id": "get-out-of-my-life-woman-lee-dorsey",
@@ -1392,6 +1768,25 @@
     "ubb": "23"
   },
   {
+    "id": "get-ready-accept",
+    "title": "Get Ready",
+    "artist": "Accept",
+    "release": "Restless and Wild (1982), lato B, traccia 1",
+    "album": "Restless and Wild",
+    "year": 1982,
+    "drummers": [
+      "Stefan Kaufmann"
+    ],
+    "drummerText": "Stefan Kaufmann (batterista del gruppo)",
+    "producers": [
+      "Accept"
+    ],
+    "labels": [
+      "Brain (Metronome)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "get-up-and-dance-freedom",
     "title": "Get Up and Dance",
     "artist": "Freedom",
@@ -1411,6 +1806,25 @@
     ],
     "type": "famoso",
     "ubb": "5"
+  },
+  {
+    "id": "giddy-up-a-ding-dong-the-sensational-alex-harvey-band",
+    "title": "Giddy Up a Ding Dong",
+    "artist": "The Sensational Alex Harvey Band",
+    "release": "Next (1973); anche 45 giri Vertigo 6059 091 (Germania, 1973), lato A",
+    "album": "Next",
+    "year": 1973,
+    "drummers": [
+      "Ted McKenna"
+    ],
+    "drummerText": "Ted McKenna (batterista del gruppo)",
+    "producers": [
+      "Phil Wainman"
+    ],
+    "labels": [
+      "Vertigo"
+    ],
+    "type": "documentato"
   },
   {
     "id": "gimme-what-you-got-le-pamplemousse",
@@ -1489,6 +1903,25 @@
     ],
     "type": "famoso",
     "ubb": "11"
+  },
+  {
+    "id": "good-news-the-5th-dimension",
+    "title": "Good News",
+    "artist": "The 5th Dimension",
+    "release": "Stoned Soul Picnic (1968), lato B, traccia 4; anche 45 giri Liberty LBF 15143 (UK, 1968), lato A",
+    "album": "Stoned Soul Picnic",
+    "year": 1968,
+    "drummers": [
+      "Hal Blaine"
+    ],
+    "drummerText": "Hal Blaine (crediti dell'album)",
+    "producers": [
+      "Bones Howe"
+    ],
+    "labels": [
+      "Soul City (Liberty)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "good-old-music-funkadelic",
@@ -1630,6 +2063,23 @@
     "ubb": "13"
   },
   {
+    "id": "happy-feet-al-hudson-the-partners",
+    "title": "Happy Feet",
+    "artist": "Al Hudson & the Partners",
+    "release": "Happy Feet (1979), lato A, traccia 1; in Germania su MCA",
+    "album": "Happy Feet",
+    "year": 1979,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Cecil Womack"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "hard-to-handle-otis-redding",
     "title": "Hard to Handle",
     "artist": "Otis Redding",
@@ -1708,6 +2158,61 @@
     "ubb": "21"
   },
   {
+    "id": "hello-susie-amen-corner",
+    "title": "Hello Susie",
+    "artist": "Amen Corner",
+    "release": "45 giri Immediate IM 081 (1969), lato A",
+    "year": 1969,
+    "drummers": [
+      "Dennis Bryon"
+    ],
+    "drummerText": "Dennis Bryon (probabile: batterista del gruppo, musicisti non accreditati)",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Immediate"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "hey-hey-helen-abba",
+    "title": "Hey, Hey Helen",
+    "artist": "ABBA",
+    "release": "ABBA (1975), lato A, traccia 2",
+    "album": "ABBA",
+    "year": 1975,
+    "drummers": [
+      "Ola Brunkert",
+      "Roger Palm"
+    ],
+    "drummerText": "Ola Brunkert o Roger Palm: uno dei due (crediti dell'album)",
+    "producers": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ],
+    "labels": [
+      "Polar"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "hi-jack-ajl-band",
+    "title": "Hi-Jack",
+    "artist": "AJL Band",
+    "release": "Sweet Sticky Thing (1976), lato B, traccia 3",
+    "album": "Sweet Sticky Thing",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "AJL Band"
+    ],
+    "labels": [
+      "Best of Everything (Pye)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "hihache-lafayette-afro-rock-band",
     "title": "Hihache",
     "artist": "Lafayette Afro Rock Band",
@@ -1724,6 +2229,23 @@
       "Musidisc"
     ],
     "type": "famoso"
+  },
+  {
+    "id": "hipguard-acid",
+    "title": "Hipguard",
+    "artist": "Acid",
+    "release": "45 giri Atom 238 011 (Austria, 1972), lato A",
+    "year": 1972,
+    "drummers": [
+      "Rudi Staeger"
+    ],
+    "drummerText": "Rudi Staeger (probabile: batterista del gruppo, musicisti non accreditati sul disco)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Atom (Amadeo)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "hit-or-miss-bo-diddley",
@@ -1860,6 +2382,24 @@
     "type": "famoso"
   },
   {
+    "id": "hunky-funky-the-american-breed",
+    "title": "Hunky Funky",
+    "artist": "The American Breed",
+    "release": "45 giri Acta 45-833 (marzo 1969), lato A",
+    "year": 1969,
+    "drummers": [
+      "Lee Graziano"
+    ],
+    "drummerText": "Lee Graziano (probabile: batterista del gruppo, musicisti non accreditati)",
+    "producers": [
+      "Bill Traut"
+    ],
+    "labels": [
+      "Acta (Dot)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "hydra-grover-washington-jr",
     "title": "Hydra",
     "artist": "Grover Washington Jr.",
@@ -1874,6 +2414,25 @@
     ],
     "labels": [
       "Kudu (CTI)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "i-am-a-photograph-amanda-lear",
+    "title": "I Am a Photograph",
+    "artist": "Amanda Lear",
+    "release": "I Am a Photograph (1977), lato B, traccia 4 nell'edizione USA Chrysalis",
+    "album": "I Am a Photograph",
+    "year": 1977,
+    "drummers": [
+      "Martin Harrison"
+    ],
+    "drummerText": "Martin Harrison (crediti dell'album)",
+    "producers": [
+      "Anthony Monn"
+    ],
+    "labels": [
+      "Chrysalis"
     ],
     "type": "documentato"
   },
@@ -1937,6 +2496,25 @@
     ],
     "type": "famoso",
     "ubb": "19"
+  },
+  {
+    "id": "i-haven-t-got-the-strength-to-carry-on-al-anderson",
+    "title": "I Haven't Got the Strength to Carry On",
+    "artist": "Al Anderson",
+    "release": "Al Anderson (1973), lato B, traccia 5",
+    "album": "Al Anderson",
+    "year": 1973,
+    "drummers": [
+      "Tom Staley"
+    ],
+    "drummerText": "Tom Staley (crediti dell'album)",
+    "producers": [
+      "Maynard Solomon"
+    ],
+    "labels": [
+      "Vanguard"
+    ],
+    "type": "documentato"
   },
   {
     "id": "i-know-you-got-soul-bobby-byrd",
@@ -2146,6 +2724,26 @@
     "ubb": "11"
   },
   {
+    "id": "in-memory-of-elizabeth-reed-the-allman-brothers-band",
+    "title": "In Memory of Elizabeth Reed",
+    "artist": "The Allman Brothers Band",
+    "release": "At Fillmore East (1971), lato C, traccia 2; dal vivo",
+    "album": "At Fillmore East",
+    "year": 1971,
+    "drummers": [
+      "Butch Trucks",
+      "Jaimoe"
+    ],
+    "drummerText": "Butch Trucks e Jaimoe (crediti dell'album)",
+    "producers": [
+      "Tom Dowd"
+    ],
+    "labels": [
+      "Capricorn (Atco)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "indiscreet-d-c-larue",
     "title": "Indiscreet",
     "artist": "D.C. LaRue",
@@ -2289,6 +2887,25 @@
     "ubb": "15"
   },
   {
+    "id": "a-jackass-gets-his-oats-the-amazing-rhythm-aces",
+    "title": "A Jackass Gets His Oats",
+    "artist": "The Amazing Rhythm Aces",
+    "release": "Burning the Ballroom Down (1978), lato A, traccia 2",
+    "album": "Burning the Ballroom Down",
+    "year": 1978,
+    "drummers": [
+      "Butch McDade"
+    ],
+    "drummerText": "Butch McDade (crediti dell'album)",
+    "producers": [
+      "Barry Burton"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "the-jam-graham-central-station",
     "title": "The Jam",
     "artist": "Graham Central Station",
@@ -2411,6 +3028,22 @@
     "labelText": "Capitol, EMI (UK)",
     "type": "famoso",
     "ubb": "13"
+  },
+  {
+    "id": "kissing-my-love-al-jarreau",
+    "title": "Kissing My Love",
+    "artist": "Al Jarreau",
+    "release": "Lonely Town, Lonely Street (1979), lato B, traccia 1",
+    "album": "Lonely Town, Lonely Street",
+    "year": 1979,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Koala"
+    ],
+    "type": "documentato"
   },
   {
     "id": "kissing-my-love-bill-withers",
@@ -2715,6 +3348,26 @@
     "ubb": "9"
   },
   {
+    "id": "long-stroke-adc-band",
+    "title": "Long Stroke",
+    "artist": "ADC Band",
+    "release": "Long Stroke (1978), lato A, traccia 1; anche 45 giri Cotillion 44243 (1978), lato A",
+    "album": "Long Stroke",
+    "year": 1978,
+    "drummers": [
+      "Artwell Matthews Jr."
+    ],
+    "drummerText": "Artwell Matthews Jr. (probabile: batterista del gruppo, strumenti non specificati nei crediti dell'album)",
+    "producers": [
+      "Johnnie Mae Matthews"
+    ],
+    "producerText": "Johnnie Mae Matthews, con Woody Wilson coproduttore",
+    "labels": [
+      "Cotillion (Atlantic)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "looking-out-my-window-tom-jones",
     "title": "Looking Out My Window",
     "artist": "Tom Jones",
@@ -2752,6 +3405,25 @@
     ],
     "type": "famoso",
     "ubb": "25"
+  },
+  {
+    "id": "love-stop-airwaves",
+    "title": "Love Stop",
+    "artist": "Airwaves",
+    "release": "New Day (1978), lato A, traccia 1",
+    "album": "New Day",
+    "year": 1978,
+    "drummers": [
+      "Dave Charles"
+    ],
+    "drummerText": "Dave Charles (crediti dell'album)",
+    "producers": [
+      "Pat Moran"
+    ],
+    "labels": [
+      "A&M"
+    ],
+    "type": "documentato"
   },
   {
     "id": "love-s-theme-fausto-papetti",
@@ -2809,6 +3481,22 @@
     ],
     "type": "famoso",
     "ubb": "25"
+  },
+  {
+    "id": "manana-alberto-cortez",
+    "title": "Manana",
+    "artist": "Alberto Cortez",
+    "release": "Welcome to Le Discotheque (1964), lato B, traccia 1; come Alberto Cortez and His Latin Twisters",
+    "album": "Welcome to Le Discotheque",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Tollie (Vee-Jay)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "mary-mary-the-monkees",
@@ -2910,6 +3598,44 @@
     "ubb": "15"
   },
   {
+    "id": "model-citizen-alice-cooper",
+    "title": "Model Citizen",
+    "artist": "Alice Cooper",
+    "release": "Flush the Fashion (1980), lato B, traccia 3; anche 45 giri Warner Bros. WBS 49204 (1980), lato B di Clones (We're All)",
+    "album": "Flush the Fashion",
+    "year": 1980,
+    "drummers": [
+      "Dennis Conway"
+    ],
+    "drummerText": "Dennis Conway (crediti dell'album)",
+    "producers": [
+      "Roy Thomas Baker"
+    ],
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "music-to-think-by-the-american-breed",
+    "title": "Music to Think By",
+    "artist": "The American Breed",
+    "release": "Pumpkin, Powder, Scarlet & Green (1968), lato B, traccia 4",
+    "album": "Pumpkin, Powder, Scarlet & Green",
+    "year": 1968,
+    "drummers": [
+      "Lee Graziano"
+    ],
+    "drummerText": "Lee Graziano (probabile: batterista del gruppo, non nei crediti dell'album)",
+    "producers": [
+      "Bill Traut"
+    ],
+    "labels": [
+      "Acta (Dot)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "mustard-greens-gentleman-june-gardner",
     "title": "Mustard Greens",
     "artist": "Gentleman June Gardner",
@@ -2968,6 +3694,22 @@
     "type": "famoso"
   },
   {
+    "id": "new-york-s-movin-ahzz",
+    "title": "New York's Movin'",
+    "artist": "Ahzz",
+    "release": "12\" Land of Hits 903 (1981), lato A vocale, lato B strumentale",
+    "year": 1981,
+    "drummers": [],
+    "drummerText": "Non accreditato (progetto di studio di Osborne Hunter e Steve Boston)",
+    "producers": [
+      "Osborne Hunter"
+    ],
+    "labels": [
+      "Land of Hits"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "nowhere-to-run-tower-of-power",
     "title": "Nowhere to Run",
     "artist": "Tower of Power",
@@ -3006,6 +3748,38 @@
     ],
     "type": "famoso",
     "ubb": "23"
+  },
+  {
+    "id": "oh-militia-alan-parker-alan-hawkshaw",
+    "title": "Oh! Militia",
+    "artist": "Alan Parker & Alan Hawkshaw",
+    "release": "Black Pearl (1973), lato A, traccia 6; disco di sonorizzazione",
+    "album": "Black Pearl",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Music De Wolfe"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "on-top-of-it-all-dyrections",
+    "title": "On Top of It",
+    "artist": "All Dyrections",
+    "release": "45 giri Buddah BDA 362 (1973), lato B di Soul Makossa",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Thunder Productions"
+    ],
+    "labels": [
+      "Buddah"
+    ],
+    "type": "documentato"
   },
   {
     "id": "one-man-band-plays-all-alone-monk-higgins",
@@ -3225,6 +3999,41 @@
     "ubb": "19"
   },
   {
+    "id": "put-your-hand-in-the-hand-allison-durbin",
+    "title": "Put Your Hand in the Hand",
+    "artist": "Allison Durbin",
+    "release": "45 giri Columbia DO-9425 (Australia, 1971), lato A",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Howard Gable"
+    ],
+    "labels": [
+      "Columbia (EMI)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "the-rainmaker-the-5th-dimension",
+    "title": "The Rainmaker",
+    "artist": "The 5th Dimension",
+    "release": "Love's Lines, Angles and Rhymes (1971), lato B",
+    "album": "Love's Lines, Angles and Rhymes",
+    "year": 1971,
+    "drummers": [
+      "Hal Blaine"
+    ],
+    "drummerText": "Hal Blaine (crediti dell'album)",
+    "producers": [
+      "Bones Howe"
+    ],
+    "labels": [
+      "Bell"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "reach-out-of-the-darkness-friend-lover",
     "title": "Reach Out of the Darkness",
     "artist": "Friend & Lover",
@@ -3319,6 +4128,40 @@
     "type": "documentato"
   },
   {
+    "id": "rule-of-mind-the-9th-creation",
+    "title": "Rule of Mind",
+    "artist": "The 9th Creation",
+    "release": "Bubble Gum (1975), lato B, traccia 2; ristampato da Pye come Falling in Love (1975)",
+    "album": "Bubble Gum",
+    "year": 1975,
+    "drummers": [
+      "Don Ray Allen"
+    ],
+    "drummerText": "Don Ray Allen (crediti dell'album)",
+    "producers": [
+      "The 9th Creation"
+    ],
+    "labels": [
+      "Ritetrack"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sakatumbe-african-brothers-band",
+    "title": "Sakatumbe",
+    "artist": "African Brothers Band",
+    "release": "45 giri Happy Bird AN 102 (Ghana, 1971), parti 1 e 2",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato (leader: P.S.K. Ampadu)",
+    "labels": [
+      "Happy Bird"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "save-the-world-southside-movement",
     "title": "Save the World",
     "artist": "Southside Movement",
@@ -3356,6 +4199,45 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "see-the-birdies-the-abstracts",
+    "title": "See the Birdies",
+    "artist": "The Abstracts",
+    "release": "The Abstracts (1968), lato B, traccia 1",
+    "album": "The Abstracts",
+    "year": 1968,
+    "drummers": [
+      "Michael Thatcher"
+    ],
+    "drummerText": "Michael Thatcher (crediti dell'album)",
+    "producers": [
+      "Darrell Glenn",
+      "David Anderson"
+    ],
+    "labels": [
+      "Pompeii (Atlantic)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sell-sell-alan-price",
+    "title": "Sell Sell",
+    "artist": "Alan Price",
+    "release": "O Lucky Man! (colonna sonora, 1973), lato A, traccia 3",
+    "album": "O Lucky Man!",
+    "year": 1973,
+    "drummers": [
+      "Clive Thacker"
+    ],
+    "drummerText": "Clive Thacker (crediti dell'album)",
+    "producers": [
+      "Alan Price"
+    ],
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
   },
   {
     "id": "sesame-street-blowfly",
@@ -3416,6 +4298,24 @@
     ],
     "type": "famoso",
     "ubb": "26"
+  },
+  {
+    "id": "shack-up-a-certain-ratio",
+    "title": "Shack Up",
+    "artist": "A Certain Ratio",
+    "release": "45 giri Factory Benelux FAC BN 1-004 (1980), lato A",
+    "year": 1980,
+    "drummers": [
+      "Donald Johnson"
+    ],
+    "drummerText": "Donald Johnson (probabile: batterista del gruppo, musicisti non accreditati sul disco)",
+    "producers": [
+      "A Certain Ratio"
+    ],
+    "labels": [
+      "Factory Benelux"
+    ],
+    "type": "documentato"
   },
   {
     "id": "shack-up-banbarra",
@@ -3623,6 +4523,23 @@
     "type": "documentato"
   },
   {
+    "id": "slow-down-america",
+    "title": "Slow Down",
+    "artist": "America",
+    "release": "Harbor (1977), lato A, traccia 2",
+    "album": "Harbor",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "George Martin"
+    ],
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "sneakin-in-the-back-tom-scott-the-l-a-express",
     "title": "Sneakin' in the Back",
     "artist": "Tom Scott & the L.A. Express",
@@ -3701,6 +4618,57 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "a-song-for-you-al-wilson",
+    "title": "A Song for You",
+    "artist": "Al Wilson",
+    "release": "Show and Tell (1973), lato B, traccia 5",
+    "album": "Show and Tell",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Jerry Fuller"
+    ],
+    "labels": [
+      "Rocky Road"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "soul-hoedown-al-kooper",
+    "title": "Soul Hoedown",
+    "artist": "Al Kooper",
+    "release": "The Landlord (colonna sonora, 1970), lato B, traccia 2; eseguito dai Landlords",
+    "album": "The Landlord",
+    "year": 1970,
+    "drummers": [
+      "Al Rogers"
+    ],
+    "drummerText": "Al Rogers (crediti dell'album)",
+    "producers": [],
+    "producerText": "Non accreditato (musiche di Al Kooper, arrangiamento di Charles Calello)",
+    "labels": [
+      "United Artists"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "soul-makossa-all-dyrections",
+    "title": "Soul Makossa",
+    "artist": "All Dyrections",
+    "release": "45 giri Buddah BDA 362 (1973), lato A",
+    "year": 1973,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Thunder Productions"
+    ],
+    "labels": [
+      "Buddah"
+    ],
+    "type": "documentato"
   },
   {
     "id": "soul-pride-james-brown",
@@ -3801,6 +4769,24 @@
     "ubb": "15"
   },
   {
+    "id": "steam-adamkosky",
+    "title": "Steam",
+    "artist": "Adamkosky",
+    "release": "In Your Eye (1973), lato A, traccia 4",
+    "album": "In Your Eye",
+    "year": 1973,
+    "drummers": [
+      "Michael Adamkosky"
+    ],
+    "drummerText": "Michael Adamkosky (crediti dell'album)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Coronet"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "stiletto-billy-joel",
     "title": "Stiletto",
     "artist": "Billy Joel",
@@ -3834,6 +4820,41 @@
     ],
     "type": "famoso",
     "ubb": "7"
+  },
+  {
+    "id": "stump-alphonso-johnson",
+    "title": "Stump",
+    "artist": "Alphonso Johnson",
+    "release": "Moonshadows (1976), lato A, traccia 1",
+    "album": "Moonshadows",
+    "year": 1976,
+    "drummers": [
+      "Narada Michael Walden"
+    ],
+    "producers": [
+      "Skip Drinkwater"
+    ],
+    "labels": [
+      "Epic"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sweet-sticky-thing-ajl-band",
+    "title": "Sweet Sticky Thing",
+    "artist": "AJL Band",
+    "release": "Sweet Sticky Thing (1976), lato A, traccia 1; anche 45 giri Baal BDN 38033 (1976), lato B di Classical Salsa",
+    "album": "Sweet Sticky Thing",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "AJL Band"
+    ],
+    "labels": [
+      "Best of Everything (Pye)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "synthetic-substitution-melvin-bliss",
@@ -4019,6 +5040,40 @@
     "ubb": "16"
   },
   {
+    "id": "time-flies-the-action",
+    "title": "Time Flies",
+    "artist": "The Action",
+    "release": "45 giri Studio City SC 1058 (1966), lato B di It's Not the Way (That Love Should Be)",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Studio City"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "tom-hark-the-alan-tew-orchestra",
+    "title": "Tom Hark",
+    "artist": "The Alan Tew Orchestra",
+    "release": "Don't Look at Me, Listen to the Music (1973), lato A, traccia 2",
+    "album": "Don't Look at Me, Listen to the Music",
+    "year": 1973,
+    "drummers": [
+      "Clem Cattini"
+    ],
+    "drummerText": "Clem Cattini (crediti dell'album, come C. Cattini)",
+    "producers": [
+      "Terry Brown"
+    ],
+    "labels": [
+      "Pye"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "touch-me-all-night-long-wish-e-fonda-rae",
     "title": "Touch Me (All Night Long)",
     "artist": "Wish e Fonda Rae",
@@ -4035,6 +5090,25 @@
     ],
     "type": "famoso",
     "ubb": "8"
+  },
+  {
+    "id": "trackin-shoes-a-b-skhy",
+    "title": "Trackin' Shoes",
+    "artist": "A.B. Skhy",
+    "release": "Ramblin' On (1970), lato B, traccia 3",
+    "album": "Ramblin' On",
+    "year": 1970,
+    "drummers": [
+      "Rick Jaeger"
+    ],
+    "drummerText": "Rick Jaeger (crediti dell'album, come percussioni)",
+    "producers": [
+      "Kim Fowley"
+    ],
+    "labels": [
+      "MGM"
+    ],
+    "type": "documentato"
   },
   {
     "id": "tramp-lowell-fulson",
@@ -4056,6 +5130,43 @@
     ],
     "type": "famoso",
     "ubb": "24"
+  },
+  {
+    "id": "tropical-african-music-machine",
+    "title": "Tropical",
+    "artist": "African Music Machine",
+    "release": "45 giri Soul Power SP-111 (1972), lato A; poi sull'LP Black Water Gold",
+    "album": "Black Water Gold",
+    "year": 1972,
+    "drummers": [
+      "Louis Acorn"
+    ],
+    "drummerText": "Louis Acorn (crediti dell'album)",
+    "producers": [
+      "Louis Villery"
+    ],
+    "labels": [
+      "Soul Power (Jewel)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "tulsa-turnaround-alexander-harvey",
+    "title": "Tulsa Turnaround",
+    "artist": "Alexander Harvey",
+    "release": "Preshus Child (1976), lato B, traccia 2",
+    "album": "Preshus Child",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Alexander Harvey",
+      "Ben Tallent"
+    ],
+    "labels": [
+      "Kama Sutra"
+    ],
+    "type": "documentato"
   },
   {
     "id": "two-pigs-and-a-hog-freddie-perren",
@@ -4114,6 +5225,22 @@
     ],
     "type": "famoso",
     "ubb": "14"
+  },
+  {
+    "id": "voodoo-drums-akim",
+    "title": "Voodoo Drums",
+    "artist": "Akim",
+    "release": "45 giri Pan World PW-520 (1960), lato B di Fall in Love with Me; come Akim with the Hank Levine Orchestra, accompagnato dai Ravels",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Aki"
+    ],
+    "labels": [
+      "Pan World"
+    ],
+    "type": "documentato"
   },
   {
     "id": "walk-this-way-aerosmith",
@@ -4248,6 +5375,41 @@
     "ubb": "22"
   },
   {
+    "id": "woman-of-the-world-aerosmith",
+    "title": "Woman of the World",
+    "artist": "Aerosmith",
+    "release": "Get Your Wings (1974), lato A, traccia 4",
+    "album": "Get Your Wings",
+    "year": 1974,
+    "drummers": [
+      "Joey Kramer"
+    ],
+    "producers": [
+      "Jack Douglas",
+      "Ray Colcord"
+    ],
+    "labels": [
+      "Columbia"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "the-world-today-95th-congress",
+    "title": "The World Today",
+    "artist": "95th Congress",
+    "release": "45 giri Sussex SUX 222 (1971), lato B di Fiddle De De",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "Van McCoy"
+    ],
+    "labels": [
+      "Sussex"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "yellow-sunshine-yellow-sunshine",
     "title": "Yellow Sunshine",
     "artist": "Yellow Sunshine",
@@ -4324,6 +5486,25 @@
     ],
     "type": "famoso",
     "ubb": "7"
+  },
+  {
+    "id": "you-can-give-but-you-can-t-take-aaron-neville",
+    "title": "You Can Give, But You Can't Take",
+    "artist": "Aaron Neville",
+    "release": "45 giri Bell 746 (1968), lato B di Where Is My Baby",
+    "year": 1968,
+    "drummers": [
+      "Zigaboo Modeliste"
+    ],
+    "drummerText": "Zigaboo Modeliste (probabile: accompagnamento dei Meters, musicisti non accreditati)",
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "labels": [
+      "Bell"
+    ],
+    "type": "documentato"
   },
   {
     "id": "you-can-t-love-me-if-you-don-t-respect-me-lyn-collins",
