@@ -315,6 +315,25 @@
     "ubb": "15"
   },
   {
+    "id": "bra-cymande",
+    "title": "Bra",
+    "artist": "Cymande",
+    "release": "Cymande (Janus JLS 3044, 1972), traccia 7; poi 45 giri Janus J 215 (1973), con Ras Tafarian Folk Song sul lato B",
+    "album": "Cymande",
+    "year": 1972,
+    "drummers": [
+      "Sam Kelly"
+    ],
+    "drummerText": "Sam Kelly (crediti dell'album)",
+    "producers": [
+      "John Schroeder"
+    ],
+    "labels": [
+      "Janus (GRT)"
+    ],
+    "type": "famoso"
+  },
+  {
     "id": "the-breakdown-part-2-rufus-thomas",
     "title": "The Breakdown (Part 2)",
     "artist": "Rufus Thomas",
@@ -1746,6 +1765,25 @@
     ],
     "type": "famoso",
     "ubb": "20"
+  },
+  {
+    "id": "hot-pants-bonus-beats-bobby-byrd",
+    "title": "Hot Pants (Bonus Beats)",
+    "artist": "Bobby Byrd",
+    "release": "12\" Urban URBX 8 (UK, 1987), lato B2 di I Know You Got Soul; è la batteria di Hot Pants... I'm Coming, Coming, I'm Coming, 45 giri Brownstone 4203 (1971)",
+    "year": 1987,
+    "drummers": [
+      "Jabo Starks"
+    ],
+    "drummerText": "Jabo Starks (secondo Questlove e The Stranger; nessun credito per brano)",
+    "producers": [
+      "James Brown"
+    ],
+    "producerText": "James Brown (produzione originale del 1971; chi ha montato i Bonus Beats: non trovato)",
+    "labels": [
+      "Urban (Polydor)"
+    ],
+    "type": "famoso"
   },
   {
     "id": "hot-pants-too-the-hank-carbo-offramp-featuring-hank-kranen",
