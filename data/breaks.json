@@ -1290,6 +1290,22 @@
     "ubb": "21"
   },
   {
+    "id": "do-it-billy-sha-rae",
+    "title": "Do It",
+    "artist": "Billy Sha-Rae",
+    "release": "45 giri Spectrum SPEC 114 (1970), con Crying Clown sull'altro lato; arrangiamento di Jack Ashford",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Lorraine Chandler"
+    ],
+    "labels": [
+      "Spectrum"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "do-it-again-steely-dan",
     "title": "Do It Again",
     "artist": "Steely Dan",
@@ -2493,6 +2509,21 @@
     ],
     "type": "famoso",
     "ubb": "24"
+  },
+  {
+    "id": "harem-girl-butch-vaden-and-the-nite-sounds",
+    "title": "Harem Girl",
+    "artist": "Butch Vaden and the Nite Sounds",
+    "release": "45 giri Fortune 552 (1963), lato A; sul retro The Roll",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Fortune"
+    ],
+    "type": "documentato"
   },
   {
     "id": "heart-of-glass-blondie",
@@ -3745,6 +3776,26 @@
     "producerText": "The Fatback Band (autoprodotto)",
     "labels": [
       "Event"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "let-your-lovelight-shine-buddy-miles-express",
+    "title": "Let Your Lovelight Shine",
+    "artist": "Buddy Miles Express",
+    "release": "Expressway to Your Skull (dicembre 1968), lato A, traccia 2",
+    "album": "Expressway to Your Skull",
+    "year": 1968,
+    "drummers": [
+      "Buddy Miles",
+      "Ron Woods"
+    ],
+    "drummerText": "Buddy Miles o Ron Woods: uno dei due (crediti dell'album)",
+    "producers": [
+      "Lou Reizner"
+    ],
+    "labels": [
+      "Mercury"
     ],
     "type": "documentato"
   },
@@ -5469,6 +5520,21 @@
     "type": "documentato"
   },
   {
+    "id": "slide-s-mambo-buddy-johnson-and-his-orchestra",
+    "title": "Slide's Mambo",
+    "artist": "Buddy Johnson and His Orchestra",
+    "release": "45 giri Mercury 71159 (1957), lato B di I've Surrendered",
+    "year": 1957,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "slow-dance-stanley-clarke",
     "title": "Slow Dance",
     "artist": "Stanley Clarke",
@@ -5562,6 +5628,21 @@
     ],
     "type": "famoso",
     "ubb": "5"
+  },
+  {
+    "id": "somebody-touched-me-buddy-knox",
+    "title": "Somebody Touched Me",
+    "artist": "Buddy Knox",
+    "release": "45 giri Roulette R-4082 (1958), lato A, come Buddy Knox with the Rhythm Orchids; sul retro C'mon Baby",
+    "year": 1958,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Roulette"
+    ],
+    "type": "documentato"
   },
   {
     "id": "something-calls-me-tower-of-power",
@@ -5777,6 +5858,26 @@
     ],
     "type": "famoso",
     "ubb": "19"
+  },
+  {
+    "id": "spot-on-the-wall-buddy-miles-express",
+    "title": "Spot on the Wall",
+    "artist": "Buddy Miles Express",
+    "release": "Expressway to Your Skull (dicembre 1968), lato B, traccia 3",
+    "album": "Expressway to Your Skull",
+    "year": 1968,
+    "drummers": [
+      "Buddy Miles",
+      "Ron Woods"
+    ],
+    "drummerText": "Buddy Miles o Ron Woods: uno dei due (crediti dell'album)",
+    "producers": [
+      "Lou Reizner"
+    ],
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
   },
   {
     "id": "star-wars-david-matthews",
@@ -6294,6 +6395,26 @@
     "type": "documentato"
   },
   {
+    "id": "train-buddy-miles-express",
+    "title": "Train",
+    "artist": "Buddy Miles Express",
+    "release": "Expressway to Your Skull (dicembre 1968), lato A, traccia 1; registrato al Sunset Sound di Hollywood nell'ottobre 1968",
+    "album": "Expressway to Your Skull",
+    "year": 1968,
+    "drummers": [
+      "Buddy Miles",
+      "Ron Woods"
+    ],
+    "drummerText": "Buddy Miles o Ron Woods: uno dei due (crediti dell'album)",
+    "producers": [
+      "Lou Reizner"
+    ],
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "tramp-lowell-fulson",
     "title": "Tramp",
     "artist": "Lowell Fulson",
@@ -6511,6 +6632,21 @@
     ],
     "type": "famoso",
     "ubb": "8"
+  },
+  {
+    "id": "whatcha-gonna-do-tomorrow-buddy-killen",
+    "title": "Whatcha Gonna Do Tomorrow?",
+    "artist": "Buddy Killen",
+    "release": "45 giri University 209 (1959), lato A; sul retro I'm Comin' After You",
+    "year": 1959,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "University"
+    ],
+    "type": "documentato"
   },
   {
     "id": "when-the-levee-breaks-led-zeppelin",
