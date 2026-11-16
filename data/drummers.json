@@ -46,6 +46,10 @@
     "role": "Membro (Jefferson Starship), prima Journey",
     "other": "Frank Zappa; Journey 1974–78; Lou Reed Berlin; David Bowie Pin Ups"
   },
+  "Barry Brandt": {
+    "role": "Membro (Angel)",
+    "other": "Angel: Angel (1975), Helluva Band (1976), Sinful (1979)"
+  },
   "Ben Powers Jr.": {
     "role": "Non noto"
   },
@@ -158,9 +162,15 @@
   "Collins Moore": {
     "role": "Membro (20th Century Steel Band)"
   },
+  "Danne Gansmoe": {
+    "role": "Turnista"
+  },
   "Darryl Brown": {
     "role": "Membro (The Planets, band di Dexter Wansel)",
     "other": "Dexter Wansel What the World Is Coming To (1977)"
+  },
+  "Dave Brassington": {
+    "role": "Membro (Apple)"
   },
   "Dave Charles": {
     "role": "Membro (Airwaves)"
@@ -244,6 +254,9 @@
   "Fred Proudy": {
     "role": "Turnista (Quinvy Studios, Muscle Shoals)"
   },
+  "Fred Zeufeldt": {
+    "role": "Membro (American Eagle), batteria e voce"
+  },
   "Freddie Scott": {
     "role": "Membro (Miami, band della TK)",
     "other": "Miami Notorious Miami (1976) e Miami (1978)",
@@ -286,6 +299,10 @@
   "Greg Errico": {
     "role": "Membro (Sly & the Family Stone)",
     "other": "Sly & the Family Stone fino al 1971"
+  },
+  "Gregg Diamond": {
+    "role": "Produttore, autore e batterista",
+    "other": "Bionic Boogie, Gregg Diamond's Star Cruiser"
   },
   "Gregory C. Coleman": {
     "role": "Membro (Winstons)"
@@ -361,6 +378,9 @@
   },
   "Joe Lambert": {
     "role": "Turnista a New Orleans"
+  },
+  "Joe Pollard": {
+    "role": "Turnista"
   },
   "Joey Kramer": {
     "role": "Membro (Aerosmith)",
@@ -470,6 +490,9 @@
     "role": "Cantante e produttore, suona anche la batteria",
     "other": "Batteria anche sul brano Trouble Man e su What's Going On"
   },
+  "Mel Lee": {
+    "role": "Turnista (gruppo di Andrew White)"
+  },
   "Michael Adamkosky": {
     "role": "Leader (batteria, chitarra e mandolino)"
   },
@@ -480,6 +503,10 @@
   "Michael Beard": {
     "role": "Membro (Bar-Kays)",
     "other": "Bar-Kays Shake Your Rump to the Funk (1976)"
+  },
+  "Michael Botts": {
+    "role": "Turnista, poi membro dei Bread",
+    "other": "Bread: Manna (1971), Baby I'm-a Want You (1972)"
   },
   "Michael Omartian": {
     "role": "Turnista (tastierista, arrangiatore e produttore)",
@@ -515,12 +542,19 @@
     "role": "Turnista (Los Angeles)",
     "other": "Wes Montgomery, Charles Mingus, Gene Ammons; dischi suoi con i Cool Aid Chemists"
   },
+  "Paul Kimbarow": {
+    "role": "Turnista"
+  },
   "Paul Thompson": {
     "role": "Membro (Roxy Music)",
     "other": "Roxy Music dal 1972"
   },
   "Paulinho Da Costa": {
     "role": "Percussionista, turnista"
+  },
+  "Peter Leopold": {
+    "role": "Membro (Amon Düül II)",
+    "other": "Amon Düül II: Phallus Dei (1969), Tanz der Lemminge (1971)"
   },
   "Phil Wright": {
     "role": "Membro (100% Proof), batteria e voce"

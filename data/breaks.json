@@ -173,6 +173,26 @@
     "ubb": "3"
   },
   {
+    "id": "archangel-s-thunderbird-amon-duul-ii",
+    "title": "Archangel's Thunderbird",
+    "artist": "Amon Düül II",
+    "release": "Yeti (Liberty LSP 101/102, UK, novembre 1970), lato B, traccia 1; prima 45 giri Liberty LBF 15355 (UK, settembre 1970), lato A",
+    "album": "Yeti",
+    "year": 1970,
+    "drummers": [
+      "Peter Leopold"
+    ],
+    "drummerText": "Peter Leopold (crediti dell'album)",
+    "producers": [
+      "Olaf Kübler",
+      "Amon Düül II"
+    ],
+    "labels": [
+      "Liberty"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ashley-s-roachclip-the-soul-searchers",
     "title": "Ashley's Roachclip",
     "artist": "The Soul Searchers",
@@ -541,6 +561,43 @@
     ],
     "type": "famoso",
     "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "california-sun-annette",
+    "title": "California Sun",
+    "artist": "Annette",
+    "release": "Annette's Beach Party (Buena Vista BV 3316, 1963), lato B, traccia 1; Annette è Annette Funicello",
+    "album": "Annette's Beach Party",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Tutti Camarata"
+    ],
+    "producerText": "Tutti Camarata (sul disco Camarata)",
+    "labels": [
+      "Buena Vista"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "can-you-feel-it-angel",
+    "title": "Can You Feel It",
+    "artist": "Angel",
+    "release": "On Earth As It Is in Heaven (Casablanca NBLP 7043, febbraio 1977), lato A, traccia 1",
+    "album": "On Earth As It Is in Heaven",
+    "year": 1977,
+    "drummers": [
+      "Barry Brandt"
+    ],
+    "drummerText": "Barry Brandt (crediti dell'album)",
+    "producers": [
+      "Eddie Kramer"
+    ],
+    "labels": [
+      "Casablanca"
+    ],
+    "type": "documentato"
   },
   {
     "id": "cat-woman-abaco-dream",
@@ -980,6 +1037,25 @@
     ],
     "labels": [
       "Ariola"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "degdag-anders-caringer",
+    "title": "Degdag",
+    "artist": "Anders Caringer",
+    "release": "Cellstoff (AT-Production ATL 773-309, Svezia, 1977), lato A, traccia 4; coproduzione con Wisa Grammofon",
+    "album": "Cellstoff",
+    "year": 1977,
+    "drummers": [
+      "Danne Gansmoe"
+    ],
+    "drummerText": "Danne Gansmoe (crediti per brano)",
+    "producers": [
+      "Backa Hans Eriksson"
+    ],
+    "labels": [
+      "AT-Production"
     ],
     "type": "documentato"
   },
@@ -1963,6 +2039,23 @@
     "ubb": "3"
   },
   {
+    "id": "got-to-get-me-a-job-ann-alford",
+    "title": "Got to Get Me a Job",
+    "artist": "Ann Alford",
+    "release": "45 giri Hy Sign 2111 (Shreveport, 1971), lato A",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Dee Marais",
+      "Jimmy Johnson"
+    ],
+    "labels": [
+      "Hy Sign"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "gotta-get-out-of-here-lucy-hawkins",
     "title": "Gotta Get Out of Here",
     "artist": "Lucy Hawkins",
@@ -1998,6 +2091,22 @@
     ],
     "type": "famoso",
     "ubb": "12"
+  },
+  {
+    "id": "the-grass-is-greener-andrea-henry",
+    "title": "The Grass Is Greener",
+    "artist": "Andrea Henry",
+    "release": "45 giri MGM K13893 (febbraio 1968), lato A",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Herman Griffin"
+    ],
+    "labels": [
+      "MGM"
+    ],
+    "type": "documentato"
   },
   {
     "id": "groove-to-get-down-t-connection",
@@ -2989,6 +3098,25 @@
     "ubb": "23"
   },
   {
+    "id": "keep-it-up-longer-andrea-true-connection",
+    "title": "Keep It Up Longer",
+    "artist": "Andrea True Connection",
+    "release": "More, More, More (Buddah BDS 5670, 1976), lato A, traccia 2",
+    "album": "More, More, More",
+    "year": 1976,
+    "drummers": [
+      "Gregg Diamond"
+    ],
+    "drummerText": "Gregg Diamond (crediti per brano)",
+    "producers": [
+      "Gregg Diamond"
+    ],
+    "labels": [
+      "Buddah"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "keep-on-pushin-coalkitchen",
     "title": "Keep On Pushin'",
     "artist": "Coalkitchen",
@@ -3291,6 +3419,21 @@
     "ubb": "17"
   },
   {
+    "id": "little-annie-anna-belle-caesar-with-lionel-hampton-and-his-orchestra",
+    "title": "Little Annie",
+    "artist": "Anna Belle Caesar with Lionel Hampton and His Orchestra",
+    "release": "45 giri Glad-Hamp GH 2003 (1962), lato A; registrato il 30 giugno 1962",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Glad-Hamp"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "living-together-is-keeping-us-apart-clarence-reid-blowfly",
     "title": "Living Together Is Keeping Us Apart",
     "artist": "Clarence Reid (Blowfly)",
@@ -3517,6 +3660,25 @@
     ],
     "type": "famoso",
     "ubb": "1"
+  },
+  {
+    "id": "the-mayville-line-apple",
+    "title": "The Mayville Line",
+    "artist": "Apple",
+    "release": "An Apple a Day (Page One POLS 016, UK, febbraio 1969), lato A, traccia 5",
+    "album": "An Apple a Day",
+    "year": 1969,
+    "drummers": [
+      "Dave Brassington"
+    ],
+    "drummerText": "Dave Brassington (crediti dell'album)",
+    "producers": [
+      "Caleb Quaye"
+    ],
+    "labels": [
+      "Page One (Fontana)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "the-mexican-babe-ruth",
@@ -3766,6 +3928,25 @@
     "type": "documentato"
   },
   {
+    "id": "on-the-rocks-angel",
+    "title": "On the Rocks",
+    "artist": "Angel",
+    "release": "On Earth As It Is in Heaven (Casablanca NBLP 7043, febbraio 1977), lato B, traccia 1",
+    "album": "On Earth As It Is in Heaven",
+    "year": 1977,
+    "drummers": [
+      "Barry Brandt"
+    ],
+    "drummerText": "Barry Brandt (crediti dell'album)",
+    "producers": [
+      "Eddie Kramer"
+    ],
+    "labels": [
+      "Casablanca"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "on-top-of-it-all-dyrections",
     "title": "On Top of It",
     "artist": "All Dyrections",
@@ -3873,6 +4054,26 @@
     "ubb": "25"
   },
   {
+    "id": "people-make-the-world-go-round-angela-bofill",
+    "title": "People Make the World Go Round",
+    "artist": "Angela Bofill",
+    "release": "Angel of the Night (GRP 5501, 1979), lato A, traccia 2",
+    "album": "Angel of the Night",
+    "year": 1979,
+    "drummers": [
+      "Paul Kimbarow"
+    ],
+    "drummerText": "Paul Kimbarow (crediti per brano)",
+    "producers": [
+      "Dave Grusin",
+      "Larry Rosen"
+    ],
+    "labels": [
+      "GRP (Arista)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "phenomena-theme-in-search-of-orchestra",
     "title": "Phenomena Theme",
     "artist": "In Search Of... Orchestra",
@@ -3891,6 +4092,25 @@
     ],
     "type": "famoso",
     "ubb": "13"
+  },
+  {
+    "id": "photograph-apple",
+    "title": "Photograph",
+    "artist": "Apple",
+    "release": "An Apple a Day (Page One POLS 016, UK, febbraio 1969), lato B, traccia 3",
+    "album": "An Apple a Day",
+    "year": 1969,
+    "drummers": [
+      "Dave Brassington"
+    ],
+    "drummerText": "Dave Brassington (crediti dell'album)",
+    "producers": [
+      "Caleb Quaye"
+    ],
+    "labels": [
+      "Page One (Fontana)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "planetary-citizen-mahavishnu-orchestra",
@@ -4011,6 +4231,45 @@
     ],
     "labels": [
       "Columbia (EMI)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "put-your-hand-in-the-hand-anne-murray",
+    "title": "Put Your Hand in the Hand",
+    "artist": "Anne Murray",
+    "release": "Honey, Wheat and Laughter (Capitol, Canada, 1970), traccia 7; poi in raccolte come Greatest Hits (Capitol, Australia, 1980)",
+    "album": "Honey, Wheat and Laughter",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato (percussioni: Ron Rully, Bruce Philp e Tommy Graham)",
+    "producers": [
+      "Brian Ahern"
+    ],
+    "labels": [
+      "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "raghupati-ananda-shankar",
+    "title": "Raghupati",
+    "artist": "Ananda Shankar",
+    "release": "Ananda Shankar (Reprise RS 6398, aprile 1970), lato B, traccia 3",
+    "album": "Ananda Shankar",
+    "year": 1970,
+    "drummers": [
+      "Joe Pollard",
+      "Michael Botts"
+    ],
+    "drummerText": "Joe Pollard o Michael Botts: uno dei due (crediti dell'album)",
+    "producers": [
+      "Alex Hassilev",
+      "James Lowe"
+    ],
+    "producerText": "Alex Hassilev, con James Lowe coproduttore",
+    "labels": [
+      "Reprise"
     ],
     "type": "documentato"
   },
@@ -4560,6 +4819,25 @@
     "ubb": "24"
   },
   {
+    "id": "so-satisfied-american-eagle",
+    "title": "So Satisfied",
+    "artist": "American Eagle",
+    "release": "American Eagle (Decca DL 75258, 1970), lato B, traccia 5",
+    "album": "American Eagle",
+    "year": 1970,
+    "drummers": [
+      "Fred Zeufeldt"
+    ],
+    "drummerText": "Fred Zeufeldt (crediti dell'album)",
+    "producers": [
+      "Gary Le Mel"
+    ],
+    "labels": [
+      "Decca"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "somebody-got-soul-soul-soul-the-wild-magnolias",
     "title": "(Somebody Got) Soul, Soul, Soul",
     "artist": "The Wild Magnolias",
@@ -4633,6 +4911,21 @@
     ],
     "labels": [
       "Rocky Road"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "soul-groove-andre-williams",
+    "title": "Soul Groove",
+    "artist": "Andre Williams",
+    "release": "45 giri Sport 105 (luglio 1967), lato B di Pearl Time",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Sport"
     ],
     "type": "documentato"
   },
@@ -4725,6 +5018,38 @@
       "Polydor"
     ],
     "type": "scoperta"
+  },
+  {
+    "id": "speedy-nr-1-andre-brasseur",
+    "title": "Speedy Nr. 1",
+    "artist": "André Brasseur",
+    "release": "45 giri RCA Victor 74-16163 (Germania, 1972), lato A; poi nell'LP The Fantastic Organ (RCA International, UK, 1973), lato A, traccia 5, come Speedy No. 1",
+    "album": "The Fantastic Organ",
+    "year": 1972,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "spinning-wheel-andy-angel",
+    "title": "Spinning Wheel",
+    "artist": "Andy Angel",
+    "release": "Get More With 4 (Trio-Tex CS7307, 1970), lato A, traccia 1",
+    "album": "Get More With 4",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Trio-Tex"
+    ],
+    "type": "documentato"
   },
   {
     "id": "sport-lightnin-rod",
@@ -5206,6 +5531,25 @@
     "ubb": "9"
   },
   {
+    "id": "under-suspicion-angel",
+    "title": "Under Suspicion",
+    "artist": "Angel",
+    "release": "White Hot (Casablanca NBLP 7085, 1977), lato A, traccia 5",
+    "album": "White Hot",
+    "year": 1977,
+    "drummers": [
+      "Barry Brandt"
+    ],
+    "drummerText": "Barry Brandt (crediti dell'album)",
+    "producers": [
+      "Eddie Leonetti"
+    ],
+    "labels": [
+      "Casablanca"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "uphill-peace-of-mind-kid-dynamite",
     "title": "Uphill Peace of Mind",
     "artist": "Kid Dynamite",
@@ -5315,6 +5659,25 @@
     ],
     "type": "famoso",
     "ubb": "17"
+  },
+  {
+    "id": "who-got-de-funk-andrew-white",
+    "title": "Who Got De Funk?",
+    "artist": "Andrew White",
+    "release": "45 giri Andrew's Music AM-45-4-1 (1973), parte 2 sul lato A e parte 3 sul lato B; dall'album Who Got De Funk? (Andrew's Music AM-4, 1973), lato A, traccia 1",
+    "album": "Who Got De Funk?",
+    "year": 1973,
+    "drummers": [
+      "Mel Lee"
+    ],
+    "drummerText": "Mel Lee (crediti dell'album)",
+    "producers": [
+      "Andrew White"
+    ],
+    "labels": [
+      "Andrew's Music"
+    ],
+    "type": "documentato"
   },
   {
     "id": "why-can-t-people-be-colors-too-the-whatnauts",
