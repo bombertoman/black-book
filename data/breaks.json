@@ -1220,6 +1220,24 @@
     "ubb": "21"
   },
   {
+    "id": "freedom-100-proof",
+    "title": "Freedom",
+    "artist": "100% Proof",
+    "release": "100% Proof (1981), traccia 5",
+    "album": "100% Proof",
+    "year": 1981,
+    "drummers": [
+      "Phil Wright"
+    ],
+    "producers": [
+      "Norman Barratt"
+    ],
+    "labels": [
+      "Myrrh (Word)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "frisco-disco-eastside-connection",
     "title": "Frisco Disco",
     "artist": "Eastside Connection",
