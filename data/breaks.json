@@ -5046,6 +5046,27 @@
     "ubb": "15"
   },
   {
+    "id": "rooftop-the-sons-of-champlin",
+    "title": "Rooftop",
+    "artist": "The Sons of Champlin",
+    "release": "Loosen Up Naturally (Capitol SWBB 200, doppio LP, aprile 1969), lato A, traccia 4",
+    "album": "Loosen Up Naturally",
+    "year": 1969,
+    "drummers": [
+      "Bill Bowen"
+    ],
+    "drummerText": "Bill Bowen (crediti dell'album)",
+    "producers": [
+      "Bruce Walford",
+      "David Schallock"
+    ],
+    "producerText": "Bruce Walford e David Schallock (crediti dell'album; alcune fonti scrivono Shallock)",
+    "labels": [
+      "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "roses-and-revolvers-janko-nilovic",
     "title": "Roses and Revolvers",
     "artist": "Janko Nilović",
@@ -6779,6 +6800,26 @@
     ],
     "labels": [
       "Columbia"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "world-of-dreams-the-cake",
+    "title": "World of Dreams",
+    "artist": "The Cake",
+    "release": "The Cake (1967), lato A, traccia 2; registrato ai Gold Star Studios",
+    "album": "The Cake",
+    "year": 1967,
+    "drummers": [
+      "John Boudreax Jr.",
+      "Leslie Milton",
+      "Richie Frost"
+    ],
+    "drummerText": "John Boudreax Jr., Leslie Milton o Richie Frost: uno dei tre (crediti dell'album; grafie come sul disco)",
+    "producers": [],
+    "producerText": "Non trovato (prodotto per York-Pala Records; arrangiamento di Harold Battiste)",
+    "labels": [
+      "Decca"
     ],
     "type": "documentato"
   },
