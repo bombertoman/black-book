@@ -269,6 +269,22 @@
     "type": "documentato"
   },
   {
+    "id": "bail-out-the-catalinas",
+    "title": "Bail Out",
+    "artist": "The Catalinas",
+    "release": "45 giri Sims 45-134 (1963), lato A; sul retro Bulletin",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Tom Hartman"
+    ],
+    "labels": [
+      "Sims"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "bawana-jinde-al-duncan",
     "title": "Bawana Jinde",
     "artist": "Al Duncan",
@@ -3488,6 +3504,25 @@
     "type": "documentato"
   },
   {
+    "id": "k-39-the-challengers",
+    "title": "K-39",
+    "artist": "The Challengers",
+    "release": "45 giri Vault V-913 (maggio 1964), lato A; sul retro Hot Rod Show. Anche sull'LP K-39 (1964), lato A, traccia 1",
+    "album": "K-39",
+    "year": 1964,
+    "drummers": [
+      "Richard Delvy"
+    ],
+    "drummerText": "Richard Delvy (crediti dell'LP)",
+    "producers": [
+      "Richard Delvy"
+    ],
+    "labels": [
+      "Vault"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "katty-s-thing-anthony-butler-the-invaders",
     "title": "Katty's Thing",
     "artist": "Anthony Butler & the Invaders",
@@ -4171,6 +4206,21 @@
     "type": "documentato"
   },
   {
+    "id": "malaguena-caterina-valente",
+    "title": "Malaguena",
+    "artist": "Caterina Valente",
+    "release": "Decca 29394 (1955), lato A; sul retro Mambo from Chile. Con l'orchestra RIAS di Werner Müller",
+    "year": 1955,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Decca"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "mambo-no-5-samba-soul",
     "title": "Mambo No. 5",
     "artist": "Samba Soul",
@@ -4480,6 +4530,24 @@
       "CTI"
     ],
     "type": "famoso"
+  },
+  {
+    "id": "new-orleans-carl-holmes-the-commanders",
+    "title": "New Orleans",
+    "artist": "Carl Holmes & the Commanders",
+    "release": "Twist Party at the Roundtable (aprile 1962), lato A, traccia 4",
+    "album": "Twist Party at the Roundtable",
+    "year": 1962,
+    "drummers": [
+      "John Holmes"
+    ],
+    "drummerText": "John Holmes (crediti dell'album)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
   },
   {
     "id": "new-york-s-movin-ahzz",
@@ -5098,6 +5166,24 @@
     ],
     "labels": [
       "Montparnasse 2000"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "roundtable-twist-carl-holmes-the-commanders",
+    "title": "Roundtable Twist",
+    "artist": "Carl Holmes & the Commanders",
+    "release": "Twist Party at the Roundtable (aprile 1962), lato B, traccia 4",
+    "album": "Twist Party at the Roundtable",
+    "year": 1962,
+    "drummers": [
+      "John Holmes"
+    ],
+    "drummerText": "John Holmes (crediti dell'album)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Atlantic"
     ],
     "type": "documentato"
   },
@@ -6217,6 +6303,23 @@
     "type": "documentato"
   },
   {
+    "id": "take-a-chance-on-me-baby-the-capitols",
+    "title": "Take a Chance on Me Baby",
+    "artist": "The Capitols",
+    "release": "45 giri Karen 45-1534 (1967), lato B di Patty Cake",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bob Gallo",
+      "Ollie McLaughlin"
+    ],
+    "labels": [
+      "Karen"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "take-me-to-the-mardi-gras-bob-james",
     "title": "Take Me to the Mardi Gras",
     "artist": "Bob James",
@@ -6416,6 +6519,25 @@
     "ubb": "16"
   },
   {
+    "id": "thousand-days-of-yesterdays-time-since-come-and-gone-captain-beyond",
+    "title": "Thousand Days of Yesterdays (Time Since Come and Gone)",
+    "artist": "Captain Beyond",
+    "release": "Captain Beyond (2 giugno 1972), lato B, traccia 3; preceduto dall'intro sul lato B, traccia 1",
+    "album": "Captain Beyond",
+    "year": 1972,
+    "drummers": [
+      "Bobby Caldwell"
+    ],
+    "drummerText": "Bobby Caldwell (crediti dell'album)",
+    "producers": [
+      "Captain Beyond"
+    ],
+    "labels": [
+      "Capricorn"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "time-flies-the-action",
     "title": "Time Flies",
     "artist": "The Action",
@@ -6446,6 +6568,22 @@
     ],
     "labels": [
       "Pye"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "tom-tom-the-rocking-rebels",
+    "title": "Tom-Tom",
+    "artist": "The Rocking Rebels",
+    "release": "45 giri Trio 849 (1960)",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Jimmy Dawson"
+    ],
+    "labels": [
+      "Trio"
     ],
     "type": "documentato"
   },
@@ -6989,6 +7127,21 @@
     "ubb": "7"
   },
   {
+    "id": "you-can-get-him-frankenstein-the-castle-kings",
+    "title": "You Can Get Him - Frankenstein",
+    "artist": "The Castle Kings",
+    "release": "45 giri Atlantic 45-2107 (giugno 1961), lato A; sul retro Loch Lomond",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "you-can-give-but-you-can-t-take-aaron-neville",
     "title": "You Can Give, But You Can't Take",
     "artist": "Aaron Neville",
@@ -7115,6 +7268,25 @@
     ],
     "type": "famoso",
     "ubb": "2"
+  },
+  {
+    "id": "you-ve-been-around-too-long-carole-king",
+    "title": "You've Been Around Too Long",
+    "artist": "Carole King",
+    "release": "Fantasy (giugno 1973), lato A, traccia 2",
+    "album": "Fantasy",
+    "year": 1973,
+    "drummers": [
+      "Harvey Mason"
+    ],
+    "drummerText": "Harvey Mason (crediti dell'album)",
+    "producers": [
+      "Lou Adler"
+    ],
+    "labels": [
+      "Ode (A&M)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "you-got-what-i-need-freddie-scott",
