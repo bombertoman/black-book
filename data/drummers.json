@@ -63,6 +63,10 @@
     "role": "Membro (T-Connection)",
     "other": "T-Connection Magic (1977)"
   },
+  "Bernard Davis": {
+    "role": "Turnista",
+    "fullName": "Bernard Davis"
+  },
   "Bernard Purdie": {
     "fullName": "Bernard \"Pretty\" Purdie",
     "role": "Turnista",
@@ -233,6 +237,9 @@
   },
   "Doug Rhodes": {
     "role": "Membro (Roy Ayers Ubiquity, 1976)"
+  },
+  "Dwight Richards": {
+    "role": "Membro (Chocolate Milk), batteria e voce"
   },
   "Earl Young": {
     "role": "Turnista (MFSB)",
@@ -653,6 +660,11 @@
     "role": "Membro (KC and the Sunshine Band), turnista TK",
     "other": "Sunshine Band The Sound of Sunshine (1975)"
   },
+  "Robin Russell": {
+    "role": "Membro (The New Birth, The Nite-Liters)",
+    "other": "The Nite-Liters A-Nal-Y-Sis (1973); The New Birth It's Been a Long Time (1973); Drum Beats (2004, solista)",
+    "fullName": "Robin Russell"
+  },
   "Roger Palm": {
     "role": "Batteria su ABBA (crediti dell'album)"
   },
@@ -759,6 +771,11 @@
   },
   "Willie Leacox": {
     "role": "Batteria su Harbor (crediti dell'album)"
+  },
+  "Yogi Horton": {
+    "role": "Turnista (New York); batterista di Luther Vandross e Ashford & Simpson",
+    "other": "Aretha Franklin Jump to It (1982); Ben E. King Street Tough (1981); David Byrne The Catherine Wheel (1981)",
+    "fullName": "Lawrence \"Yogi\" Horton"
   },
   "Zac Slater": {
     "role": "Membro (The Politicians, band della Hot Wax/Invictus)",

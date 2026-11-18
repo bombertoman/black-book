@@ -37,6 +37,26 @@
     "ubb": "11"
   },
   {
+    "id": "action-speaks-louder-than-words-chocolate-milk",
+    "title": "Action Speaks Louder Than Words",
+    "artist": "Chocolate Milk",
+    "release": "45 giri RCA Victor PB-10290 (1975), lato A; sul retro Ain't Nothin' But a Thing. Anche su Action Speaks Louder Than Words (1975), lato A, traccia 1",
+    "album": "Action Speaks Louder Than Words",
+    "year": 1975,
+    "drummers": [
+      "Dwight Richards"
+    ],
+    "drummerText": "Dwight Richards (crediti dell'album)",
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ain-t-we-funkin-now-the-brothers-johnson",
     "title": "Ain't We Funkin' Now",
     "artist": "The Brothers Johnson",
@@ -819,6 +839,21 @@
     "ubb": "15"
   },
   {
+    "id": "checkmate-twist-the-checkmates",
+    "title": "Checkmate Twist",
+    "artist": "The Checkmates",
+    "release": "45 giri London International INT 45-10520 (1962), lato B di Begin the Beguine (Stomp); nel Regno Unito Pye 7N.15442",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "London International (London)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "chella-lla-orchestra-internationale",
     "title": "Chella Llà",
     "artist": "Orchestra Internationale",
@@ -1171,6 +1206,21 @@
     ],
     "type": "famoso",
     "ubb": "3"
+  },
+  {
+    "id": "dancin-party-chubby-checker",
+    "title": "Dancin' Party",
+    "artist": "Chubby Checker",
+    "release": "45 giri Parkway P-842 (giugno 1962), lato A; sul retro Gotta Get Myself Together",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Parkway"
+    ],
+    "type": "documentato"
   },
   {
     "id": "the-dapp-african-music-machine",
@@ -2356,6 +2406,26 @@
     "ubb": "3"
   },
   {
+    "id": "got-to-get-a-knutt-the-new-birth",
+    "title": "Got to Get a Knutt",
+    "artist": "The New Birth",
+    "release": "Birth Day (RCA Victor LSP-4797, 12 dicembre 1972), lato A, traccia 3 (7:01)",
+    "album": "Birth Day",
+    "year": 1972,
+    "drummers": [
+      "Robin Russell"
+    ],
+    "drummerText": "Robin Russell (lo racconta lui a Red Bull Music Academy; sul disco è accreditata solo la band d'accompagnamento, The Nite-Liters)",
+    "producers": [
+      "Harvey Fuqua"
+    ],
+    "producerText": "Harvey Fuqua (crediti dell'album; con l'assistente non accreditato Vernon Bullock)",
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "got-to-get-me-a-job-ann-alford",
     "title": "Got to Get Me a Job",
     "artist": "Ann Alford",
@@ -2725,6 +2795,21 @@
     ],
     "type": "famoso",
     "ubb": "5"
+  },
+  {
+    "id": "hokey-pokey-the-champs",
+    "title": "Hokey Pokey",
+    "artist": "The Champs",
+    "release": "45 giri Challenge 59103 (1961), lato A; sul retro Jumping Bean",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Challenge"
+    ],
+    "type": "documentato"
   },
   {
     "id": "honky-tonk-women-the-rolling-stones",
@@ -3183,6 +3268,27 @@
     "ubb": "25"
   },
   {
+    "id": "imagination-the-b-b-q-band",
+    "title": "Imagination",
+    "artist": "The B. B. & Q. Band",
+    "release": "All Night Long (Capitol ST-12212, 1982), lato A, traccia 2 (6:00); anche su 45 giri Capitol B-5118 e su 12\" (1982)",
+    "album": "All Night Long",
+    "year": 1982,
+    "drummers": [
+      "Bernard Davis",
+      "Yogi Horton"
+    ],
+    "drummerText": "Bernard Davis o Yogi Horton: uno dei due (crediti dell'album)",
+    "producers": [
+      "Jacques Fred Petrus"
+    ],
+    "producerText": "Jacques Fred Petrus (crediti dell'album; arrangiamenti, direzione e tastiere di Mauro Malavasi)",
+    "labels": [
+      "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "impeach-the-president-the-honey-drippers",
     "title": "Impeach the President",
     "artist": "The Honey Drippers",
@@ -3480,6 +3586,22 @@
     ],
     "labels": [
       "Dunhill (ABC)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "judy-in-disguise-charles-chalmers",
+    "title": "Judy in Disguise",
+    "artist": "Charles Chalmers",
+    "release": "45 giri Chess 2040 (1968), lato B di Poppin'",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Rick Hall"
+    ],
+    "labels": [
+      "Chess"
     ],
     "type": "documentato"
   },
@@ -3848,6 +3970,22 @@
     ],
     "labels": [
       "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "let-s-dance-chris-montez",
+    "title": "Let's Dance",
+    "artist": "Chris Montez",
+    "release": "45 giri Monogram MR-505 (giugno 1962), lato A; sul retro You're the One",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Jim Lee"
+    ],
+    "labels": [
+      "Monogram"
     ],
     "type": "documentato"
   },
@@ -4422,6 +4560,21 @@
     "type": "documentato"
   },
   {
+    "id": "move-it-the-chantays",
+    "title": "Move It",
+    "artist": "The Chantays",
+    "release": "45 giri Downey D-104 (dicembre 1962), lato B di Pipeline; ristampato da Dot 45-16440 (gennaio 1963)",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato (\"Produced by Downey Records\")",
+    "labels": [
+      "Downey"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "multiplication-bobby-darin",
     "title": "Multiplication",
     "artist": "Bobby Darin",
@@ -4470,6 +4623,22 @@
     ],
     "labels": [
       "Acta (Dot)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "mustang-the-chessmen",
+    "title": "Mustang",
+    "artist": "The Chessmen",
+    "release": "45 giri London M. 17334 (Canada, novembre 1964), lato B di Meadowlands",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Red Robinson"
+    ],
+    "labels": [
+      "London"
     ],
     "type": "documentato"
   },
@@ -5517,6 +5686,21 @@
     "ubb": "10"
   },
   {
+    "id": "she-wants-t-swim-chubby-checker",
+    "title": "She Wants T' Swim",
+    "artist": "Chubby Checker",
+    "release": "45 giri Parkway P-922 (1964), lato A; sul retro You Better Believe It Baby",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Parkway"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "shifting-gears-johnny-hammond",
     "title": "Shifting Gears",
     "artist": "Johnny Hammond",
@@ -6180,6 +6364,21 @@
     "producerText": "Non accreditato",
     "labels": [
       "Topkapı"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "super-punk-charlie-drake",
+    "title": "Super Punk",
+    "artist": "Charlie Drake",
+    "release": "45 giri Sol-Doon SDR 024 (Regno Unito, gennaio 1977), lato A; sul retro Someone",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Sol-Doon"
     ],
     "type": "documentato"
   },
