@@ -474,6 +474,23 @@
     "ubb": "2"
   },
   {
+    "id": "boop-boop-a-hustle-camp-galore",
+    "title": "Boop Boop a Hustle",
+    "artist": "Camp Galore",
+    "release": "12\" D & M Sound 124502 (1976), lato A; sul retro Three Little Words",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Dave Miller",
+      "Marty Wilson"
+    ],
+    "labels": [
+      "D & M Sound"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "bouncy-lady-pleasure",
     "title": "Bouncy Lady",
     "artist": "Pleasure",
@@ -5363,6 +5380,23 @@
     "ubb": "21"
   },
   {
+    "id": "shake-a-lady-cannonball-adderley",
+    "title": "Shake a Lady",
+    "artist": "Cannonball Adderley",
+    "release": "45 giri Capitol 5457 (luglio 1965), lato B di Cyclops; anche su Domination (1965), lato A, traccia 4",
+    "album": "Domination",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non trovato",
+    "producers": [
+      "David Axelrod"
+    ],
+    "labels": [
+      "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "shaking-pop-janko-nilovic-e-dave-sucky",
     "title": "Shaking Pop",
     "artist": "Janko Nilović e Dave Sucky",
@@ -5632,6 +5666,24 @@
     "type": "documentato"
   },
   {
+    "id": "solar-heat-cal-tjader",
+    "title": "Solar Heat",
+    "artist": "Cal Tjader",
+    "release": "Solar Heat (Skye SK-1, 1968), lato B, traccia 5; registrato agli A&R Studios di New York il 15 gennaio 1968",
+    "album": "Solar Heat",
+    "year": 1968,
+    "drummers": [
+      "Grady Tate"
+    ],
+    "drummerText": "Grady Tate (crediti dell'album, nelle note interne)",
+    "producers": [],
+    "producerText": "Non accreditato (arrangiamento di Gary McFarland)",
+    "labels": [
+      "Skye"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "somebody-got-soul-soul-soul-the-wild-magnolias",
     "title": "(Somebody Got) Soul, Soul, Soul",
     "artist": "The Wild Magnolias",
@@ -5790,6 +5842,25 @@
     ],
     "type": "famoso",
     "ubb": "21"
+  },
+  {
+    "id": "soul-sauce-guacha-guaro-cal-tjader",
+    "title": "Soul Sauce (Guacha Guaro)",
+    "artist": "Cal Tjader",
+    "release": "Soul Sauce (Verve V-8614, 1965), lato A, traccia 1",
+    "album": "Soul Sauce",
+    "year": 1965,
+    "drummers": [
+      "Grady Tate"
+    ],
+    "drummerText": "Grady Tate (crediti dell'album; alle percussioni Alberto Valdes, Armando Peraza e Willie Bobo)",
+    "producers": [
+      "Creed Taylor"
+    ],
+    "labels": [
+      "Verve"
+    ],
+    "type": "documentato"
   },
   {
     "id": "space-dust-the-galactic-force-band",
@@ -7076,6 +7147,21 @@
     ],
     "labels": [
       "Excello"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "zulu-king-cannibal-the-headhunters",
+    "title": "Zulu King",
+    "artist": "Cannibal & the Headhunters",
+    "release": "45 giri Date 2-1516 (1966), lato A; sul retro La Bamba",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Date"
     ],
     "type": "documentato"
   }
