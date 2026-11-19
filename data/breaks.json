@@ -132,6 +132,25 @@
     "ubb": "1"
   },
   {
+    "id": "angel-of-love-mike-longo",
+    "title": "Angel of Love",
+    "artist": "Mike Longo",
+    "release": "Talk with the Spirits (1976), lato B, traccia 1",
+    "album": "Talk with the Spirits",
+    "year": 1976,
+    "where": "0:00, inizio del brano",
+    "drummers": [
+      "Mickey Roker"
+    ],
+    "producers": [
+      "Dizzy Gillespie"
+    ],
+    "labels": [
+      "Pablo"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "angry-chair-alice-in-chains",
     "title": "Angry Chair",
     "artist": "Alice in Chains",
@@ -1630,6 +1649,25 @@
     ],
     "type": "famoso",
     "ubb": "9"
+  },
+  {
+    "id": "ebony-jam-tower-of-power",
+    "title": "Ebony Jam",
+    "artist": "Tower of Power",
+    "release": "In the Slot (1975), lato B, traccia 1",
+    "album": "In the Slot",
+    "year": 1975,
+    "drummers": [
+      "David Garibaldi"
+    ],
+    "producers": [
+      "Emilio Castillo",
+      "Tower of Power"
+    ],
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
   },
   {
     "id": "electric-frog-kool-the-gang",
@@ -6238,6 +6276,24 @@
     ],
     "labels": [
       "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "squib-cakes-tower-of-power",
+    "title": "Squib Cakes",
+    "artist": "Tower of Power",
+    "release": "Back to Oakland (1974), lato A, traccia 5",
+    "album": "Back to Oakland",
+    "year": 1974,
+    "drummers": [
+      "David Garibaldi"
+    ],
+    "producers": [
+      "Tower of Power"
+    ],
+    "labels": [
+      "Warner Bros."
     ],
     "type": "documentato"
   },
