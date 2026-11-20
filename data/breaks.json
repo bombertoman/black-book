@@ -3083,6 +3083,25 @@
     "type": "documentato"
   },
   {
+    "id": "holy-thursday-david-axelrod",
+    "title": "Holy Thursday",
+    "artist": "David Axelrod",
+    "release": "Song of Innocence (Capitol ST 2982, ottobre 1968), lato A, traccia 2 (5:30)",
+    "album": "Song of Innocence",
+    "year": 1968,
+    "drummers": [
+      "Earl Palmer"
+    ],
+    "drummerText": "Earl Palmer (crediti dell'album)",
+    "producers": [
+      "David Axelrod"
+    ],
+    "labels": [
+      "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "honky-tonk-women-the-rolling-stones",
     "title": "Honky Tonk Women",
     "artist": "The Rolling Stones",
