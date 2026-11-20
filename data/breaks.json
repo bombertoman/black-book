@@ -5245,6 +5245,25 @@
     "type": "documentato"
   },
   {
+    "id": "on-broadway-david-barretto",
+    "title": "On Broadway",
+    "artist": "David Barretto",
+    "release": "Para mis hermanos (Mercury SRM-1-1005, 1974), lato A, traccia 1 (5:17); in Europa l'album si intitola David Barretto. Anche 45 giri Mercury 73639 (1974), lato A, stessa durata",
+    "album": "Para mis hermanos",
+    "year": 1974,
+    "drummers": [
+      "Allan Schwartzberg"
+    ],
+    "drummerText": "Allan Schwartzberg (crediti dell'album; ai timbales Tito Puente, ai bongos Candido)",
+    "producers": [
+      "Shadow Morton"
+    ],
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "on-the-rocks-angel",
     "title": "On the Rocks",
     "artist": "Angel",
