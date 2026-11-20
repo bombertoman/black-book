@@ -57,6 +57,24 @@
     "type": "documentato"
   },
   {
+    "id": "afro-caravan-cozy-cole",
+    "title": "Afro-Caravan",
+    "artist": "Cozy Cole",
+    "release": "Cozy Cole Hits! (Love LP 500, 1959), lato A, traccia 4 (4:53)",
+    "album": "Cozy Cole Hits!",
+    "year": 1959,
+    "drummers": [
+      "Cozy Cole"
+    ],
+    "drummerText": "Cozy Cole (probabile: batterista, disco a suo nome; musicisti non accreditati)",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Love"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ain-t-we-funkin-now-the-brothers-johnson",
     "title": "Ain't We Funkin' Now",
     "artist": "The Brothers Johnson",
@@ -114,6 +132,22 @@
     "type": "documentato"
   },
   {
+    "id": "altermagic-d-mcallister-j-alter",
+    "title": "Altermagic",
+    "artist": "D. McAllister & J. Alter",
+    "release": "Fireball / The Barbershop (Omnimusic OM 105, 1978), lato A, traccia 4 (2:33); disco di sonorizzazione",
+    "album": "Fireball / The Barbershop",
+    "year": 1978,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato (composto da D. McAllister e J. Alter)",
+    "labels": [
+      "Omnimusic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "amen-brother-the-winstons",
     "title": "Amen, Brother",
     "artist": "The Winstons",
@@ -130,6 +164,24 @@
     ],
     "type": "famoso",
     "ubb": "1"
+  },
+  {
+    "id": "and-then-there-was-skin-cozy-powell",
+    "title": "And Then There Was Skin",
+    "artist": "Cozy Powell",
+    "release": "45 giri Chrysalis CHS 2029 (USA, 1973), lato B di Dance with the Devil (2:27); nel Regno Unito RAK 164 (ottobre 1973)",
+    "year": 1973,
+    "drummers": [
+      "Cozy Powell"
+    ],
+    "drummerText": "Cozy Powell (probabile: batterista, disco a suo nome; musicisti non accreditati)",
+    "producers": [
+      "Mickie Most"
+    ],
+    "labels": [
+      "Chrysalis"
+    ],
+    "type": "documentato"
   },
   {
     "id": "angel-of-love-mike-longo",
@@ -232,6 +284,22 @@
     "type": "documentato"
   },
   {
+    "id": "army-green-dale-brooks",
+    "title": "Army Green",
+    "artist": "Dale Brooks",
+    "release": "45 giri Dolphin 1 (1964), lato A (2:19); sul retro Reminds Me of You. Distribuito da Laurie",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Al Kasha"
+    ],
+    "labels": [
+      "Dolphin"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ashley-s-roachclip-the-soul-searchers",
     "title": "Ashley's Roachclip",
     "artist": "The Soul Searchers",
@@ -320,6 +388,21 @@
     ],
     "labels": [
       "Sims"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "banzai-pipeline-coast-continentals",
+    "title": "Banzai Pipeline",
+    "artist": "Coast Continentals",
+    "release": "EP 7\" Reprise 40 206 CT (Germania, 1964 circa), lato B, traccia 2, come \"Banzi Pipeline\"; dalla compilation Surf's Up! (Reprise R-6094, 1964), lato B, traccia 3",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Reprise"
     ],
     "type": "documentato"
   },
@@ -821,6 +904,21 @@
     "ubb": "9"
   },
   {
+    "id": "cement-mixer-put-ti-put-ti-the-dancing-panther-danceband",
+    "title": "Cement Mixer (Put-Ti, Put-Ti)",
+    "artist": "The Dancing Panther Danceband",
+    "release": "45 giri Warner Bros. 5215 (1961), lato B di Tropic Love (2:07); voci dei Jungle Cats",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "the-champ-the-mohawks",
     "title": "The Champ",
     "artist": "The Mohawks",
@@ -949,6 +1047,23 @@
     "ubb": "20"
   },
   {
+    "id": "the-chopper-the-crestones",
+    "title": "The Chopper",
+    "artist": "The Crestones",
+    "release": "45 giri U.S.A. 835 (ottobre 1965), lato B di My Girl (2:00); uscito prima su Markie M-127 (1964), lato A, con Scrambled Eggs sul retro",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "L. Lufman"
+    ],
+    "producerText": "L. Lufman (crediti della stampa Markie, 1964)",
+    "labels": [
+      "U.S.A."
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "clap-your-hands-the-ambertones",
     "title": "Clap Your Hands",
     "artist": "The Ambertones",
@@ -999,6 +1114,25 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "comin-the-crimson-bridge",
+    "title": "Comin'",
+    "artist": "The Crimson Bridge",
+    "release": "The Crimson Bridge (Myrrh MST-6503, 1972), lato A, traccia 3 (4:07); anche sulla compilation The Real Thing (Word WST-8584, 1972), lato A, traccia 6",
+    "album": "The Crimson Bridge",
+    "year": 1972,
+    "drummers": [
+      "Gary Shafer"
+    ],
+    "drummerText": "Gary Shafer (crediti dell'album)",
+    "producers": [
+      "Billy Ray Hearn"
+    ],
+    "labels": [
+      "Myrrh (Word)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "comin-back-home-american-blues",
@@ -1257,6 +1391,22 @@
     ],
     "labels": [
       "Soul Power (Jewel)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "dartell-stomp-the-dartells",
+    "title": "Dartell Stomp",
+    "artist": "The Dartells",
+    "release": "45 giri Dot 45-16453 (febbraio 1963), lato B di Hot Pastrami (2:20); uscito prima su Arlen 509 (novembre 1962) come lato A",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Tom Ayers"
+    ],
+    "labels": [
+      "Dot"
     ],
     "type": "documentato"
   },
@@ -1588,6 +1738,21 @@
     ],
     "labels": [
       "Roulette"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "dynamite-the-clee-shays",
+    "title": "Dynamite",
+    "artist": "The Clee-Shays",
+    "release": "45 giri Triumph 45-65 (1966), con The Man from U.N.C.L.E. sull'altro lato (lato A o B secondo la stampa); distribuito da Atco",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Triumph"
     ],
     "type": "documentato"
   },
@@ -1928,6 +2093,21 @@
     "ubb": "8 (2ª stampa)"
   },
   {
+    "id": "the-fly-swatter-d-d-t-and-the-repellents",
+    "title": "The Fly Swatter",
+    "artist": "D.D.T. and the Repellents",
+    "release": "45 giri RCA Victor 47-8064 (1962), lato A (1:56); sul retro Bee Side",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Bob & Jerry e Margo-Medress (così sul disco)",
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "fly-fly-the-route-shoot-if",
     "title": "Fly, Fly, the Route, Shoot",
     "artist": "If",
@@ -2167,6 +2347,22 @@
     ],
     "type": "famoso",
     "ubb": "2"
+  },
+  {
+    "id": "get-out-of-my-life-chuck-jackson",
+    "title": "Get Out of My Life",
+    "artist": "Chuck Jackson",
+    "release": "Tribute to Rhythm and Blues (1966), lato A, traccia 4 (3:00); con l'orchestra di Bobby Scott",
+    "album": "Tribute to Rhythm and Blues",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato (\"Green-Jack Productions\"; arrangiamento e direzione di Bobby Scott)",
+    "labels": [
+      "Wand (Scepter)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "get-out-of-my-life-woman-allen-toussaint",
@@ -3116,6 +3312,21 @@
     "type": "documentato"
   },
   {
+    "id": "i-know-dan-nix-and-the-teen-sounds",
+    "title": "I Know",
+    "artist": "Dan Nix and the Teen Sounds",
+    "release": "45 giri Crash 7-7940 (luglio 1967), lato A; sul retro Long Lonely Miles",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Crash"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "i-know-you-got-soul-bobby-byrd",
     "title": "I Know You Got Soul",
     "artist": "Bobby Byrd",
@@ -3133,6 +3344,22 @@
     ],
     "type": "famoso",
     "ubb": "4"
+  },
+  {
+    "id": "i-like-everything-about-you-chuck-jackson",
+    "title": "I Like Everything About You",
+    "artist": "Chuck Jackson",
+    "release": "Chuck Jackson Arrives! (1968), lato B, traccia 3 (2:58)",
+    "album": "Chuck Jackson Arrives!",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Motown"
+    ],
+    "type": "documentato"
   },
   {
     "id": "i-like-funky-music-uncle-louie",
@@ -3284,6 +3511,26 @@
     ],
     "type": "famoso",
     "ubb": "21"
+  },
+  {
+    "id": "i-m-just-a-rock-n-roller-dalton-dubarri",
+    "title": "I'm Just a Rock 'n' Roller",
+    "artist": "Dalton & Dubarri",
+    "release": "Success & Failure (ABC ABCD-964, agosto 1976), lato B, traccia 5 (4:43)",
+    "album": "Success & Failure",
+    "year": 1976,
+    "drummers": [
+      "Kent Dubarri"
+    ],
+    "drummerText": "Kent Dubarri (crediti dell'album)",
+    "producers": [
+      "Kent Dubarri",
+      "Gary Dalton"
+    ],
+    "labels": [
+      "ABC"
+    ],
+    "type": "documentato"
   },
   {
     "id": "i-ve-been-watching-you-southside-movement",
@@ -3485,6 +3732,22 @@
     "ubb": "18"
   },
   {
+    "id": "it-s-over-danny-the-velaires",
+    "title": "It's Over",
+    "artist": "Danny & the Velaires",
+    "release": "45 giri Ramco 1983 (1966), lato A (2:02), cantato da Carolyn; sul retro I Found a Love",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Jerry Davis"
+    ],
+    "labels": [
+      "Ramco"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "jack-diane-john-cougar",
     "title": "Jack & Diane",
     "artist": "John Cougar",
@@ -3566,6 +3829,38 @@
     ],
     "type": "famoso",
     "ubb": "14"
+  },
+  {
+    "id": "jamil-daddy-goodloe-and-his-band",
+    "title": "Jamil",
+    "artist": "Daddy Goodloe and His Band",
+    "release": "45 giri Vee-Jay VJ 421 (1961), parte I sul lato A (2:30), parte II sul lato B",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Vee-Jay"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "john-jacob-jingleheimer-smith-daddy-dewdrop",
+    "title": "John Jacob Jingleheimer Smith",
+    "artist": "Daddy Dewdrop",
+    "release": "45 giri Sunflower SUN 105 (1971), lato B di Chick-a-Boom (Don't Ya Jes' Love It) (2:18); l'album Daddy Dewdrop (Sunflower SNF 5006, 1971) ha una versione diversa da 2:32",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato (band d'accompagnamento The Torrance Cookers, strumenti non indicati)",
+    "producers": [
+      "Dick Monda",
+      "Don Sciarrotta"
+    ],
+    "labels": [
+      "Sunflower"
+    ],
+    "type": "documentato"
   },
   {
     "id": "johnny-the-fox-meets-jimmy-the-weed-thin-lizzy",
@@ -3904,6 +4199,22 @@
     "type": "documentato"
   },
   {
+    "id": "la-novia-hector-garrido-and-the-dancing-strings",
+    "title": "La Novia",
+    "artist": "Hector Garrido and the Dancing Strings",
+    "release": "45 giri Roper 271, lato A (2:22); sul retro Tua",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Franc Peri"
+    ],
+    "labels": [
+      "Roper"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "lana-bobby-jay-and-the-hawks",
     "title": "Lana",
     "artist": "Bobby Jay and the Hawks",
@@ -4119,6 +4430,21 @@
     ],
     "labels": [
       "Cadet Concept (Chess)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "lifeguard-man-dale-hawkins",
+    "title": "Lifeguard Man",
+    "artist": "Dale Hawkins",
+    "release": "45 giri Checker 929 (1959), lato B di Our Turn (2:26)",
+    "year": 1959,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Checker (Chess)"
     ],
     "type": "documentato"
   },
@@ -4773,6 +5099,22 @@
     "type": "documentato"
   },
   {
+    "id": "nothing-at-all-the-coachmen",
+    "title": "Nothing at All",
+    "artist": "The Coachmen",
+    "release": "45 giri Bear 1974 (1966), lato B di Mr. Moon; uscito prima su MMC (1965)",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Scott A. Cameron"
+    ],
+    "labels": [
+      "Bear"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "nowhere-to-run-tower-of-power",
     "title": "Nowhere to Run",
     "artist": "Tower of Power",
@@ -5183,6 +5525,25 @@
     "type": "documentato"
   },
   {
+    "id": "queen-of-the-silver-dollar-dave-sugar",
+    "title": "Queen of the Silver Dollar",
+    "artist": "Dave & Sugar",
+    "release": "45 giri RCA Victor PB-10425 (1975), lato A (2:45); sul retro Fools. Anche su Dave & Sugar (RCA APL1-1818, 1975), lato A, traccia 5 (2:44)",
+    "album": "Dave & Sugar",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Charley Pride",
+      "Jerry Bradley"
+    ],
+    "producerText": "Charley Pride e Jerry Bradley (crediti dell'album)",
+    "labels": [
+      "RCA Victor"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "raghupati-ananda-shankar",
     "title": "Raghupati",
     "artist": "Ananda Shankar",
@@ -5258,6 +5619,21 @@
     ],
     "labels": [
       "London"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "restless-the-cobras",
+    "title": "Restless",
+    "artist": "The Cobras",
+    "release": "45 giri Stax S-148 (marzo 1964), lato A; sul retro Shake Up",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Stax"
     ],
     "type": "documentato"
   },
@@ -5410,6 +5786,27 @@
     ],
     "labels": [
       "Ritetrack"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "run-for-cover-crowfoot",
+    "title": "Run for Cover",
+    "artist": "Crowfoot",
+    "release": "Find the Sun (ABC ABCS-745, 1971), lato A, traccia 4 (3:30)",
+    "album": "Find the Sun",
+    "year": 1971,
+    "drummers": [
+      "Bill Meeker",
+      "Don Francisco"
+    ],
+    "drummerText": "Bill Meeker o Don Francisco: uno dei due (crediti dell'album)",
+    "producers": [
+      "Russ Gary",
+      "Russell DaShiell"
+    ],
+    "labels": [
+      "ABC"
     ],
     "type": "documentato"
   },
@@ -6044,6 +6441,25 @@
     "type": "scoperta"
   },
   {
+    "id": "something-for-mary-the-credibility-gap",
+    "title": "Something for Mary",
+    "artist": "The Credibility Gap",
+    "release": "45 giri promozionale Warner Bros. PRO 517 (1973), mini opera rock in sei parti per la convention Warner; stesso programma su entrambi i lati (stereo sul lato A, mono sul lato B)",
+    "year": 1973,
+    "drummers": [
+      "Mel Lee"
+    ],
+    "drummerText": "Mel Lee (crediti del disco)",
+    "producers": [
+      "The Credibility Gap",
+      "David Herscher"
+    ],
+    "labels": [
+      "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "son-of-scorpio-dennis-coffey",
     "title": "Son of Scorpio",
     "artist": "Dennis Coffey",
@@ -6280,6 +6696,23 @@
     "type": "documentato"
   },
   {
+    "id": "squeeze-your-knees-cupit",
+    "title": "Squeeze Your Knees",
+    "artist": "Cupit",
+    "release": "45 giri Neptune N-27 (1970), lato B di Trainman (Akiwawa) (2:47); distribuito da Chess",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Tim Moore",
+      "Tom Sellers"
+    ],
+    "labels": [
+      "Neptune"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "squib-cakes-tower-of-power",
     "title": "Squib Cakes",
     "artist": "Tower of Power",
@@ -6334,6 +6767,21 @@
     "producerText": "Non accreditato",
     "labels": [
       "Coronet"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "step-by-step-the-crests",
+    "title": "Step by Step",
+    "artist": "The Crests",
+    "release": "45 giri Coed CO 525 (1960), lato A; sul retro Gee (But I'd Give the World)",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Coed"
     ],
     "type": "documentato"
   },
@@ -6499,6 +6947,25 @@
     ],
     "labels": [
       "Best of Everything (Pye)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sweet-wine-cream",
+    "title": "Sweet Wine",
+    "artist": "Cream",
+    "release": "Fresh Cream (Atco SD 33-206, 1967), lato A, traccia 5 (3:16); nel Regno Unito su Reaction (dicembre 1966)",
+    "album": "Fresh Cream",
+    "year": 1967,
+    "drummers": [
+      "Ginger Baker"
+    ],
+    "drummerText": "Ginger Baker (crediti dell'album)",
+    "producers": [
+      "Robert Stigwood"
+    ],
+    "labels": [
+      "Atco"
     ],
     "type": "documentato"
   },
@@ -6896,6 +7363,23 @@
     ],
     "labels": [
       "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "trainman-akiwawa-cupit",
+    "title": "Trainman (Akiwawa)",
+    "artist": "Cupit",
+    "release": "45 giri Neptune N-27 (1970), lato A (2:47); sul retro Squeeze Your Knees. Arrangiamento di Bobby Eli e Tom Sellers",
+    "year": 1970,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "John Madara",
+      "Robert Cupit"
+    ],
+    "labels": [
+      "Neptune"
     ],
     "type": "documentato"
   },
@@ -7304,6 +7788,22 @@
     "type": "documentato"
   },
   {
+    "id": "ya-ya-chuck-jackson",
+    "title": "Ya Ya",
+    "artist": "Chuck Jackson",
+    "release": "Tribute to Rhythm and Blues (1966), lato B, traccia 6 (2:45); con l'orchestra di Bobby Scott",
+    "album": "Tribute to Rhythm and Blues",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato (\"Green-Jack Productions\"; arrangiamento e direzione di Bobby Scott)",
+    "labels": [
+      "Wand (Scepter)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "yellow-sunshine-yellow-sunshine",
     "title": "Yellow Sunshine",
     "artist": "Yellow Sunshine",
@@ -7574,6 +8074,25 @@
     ],
     "labels": [
       "Excello"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "zion-i-cymande",
+    "title": "Zion I",
+    "artist": "Cymande",
+    "release": "45 giri Janus J 203 (1972), lato B di The Message (3:29); anche su Cymande (Janus JLS 3044, settembre 1972), lato A, traccia 1 (3:29)",
+    "album": "Cymande",
+    "year": 1972,
+    "drummers": [
+      "Sam Kelly"
+    ],
+    "drummerText": "Sam Kelly (crediti dell'album)",
+    "producers": [
+      "John Schroeder"
+    ],
+    "labels": [
+      "Janus (GRT)"
     ],
     "type": "documentato"
   },
