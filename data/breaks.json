@@ -956,6 +956,25 @@
     "ubb": "15"
   },
   {
+    "id": "chaquita-the-dave-clark-five",
+    "title": "Chaquita",
+    "artist": "The Dave Clark Five",
+    "release": "45 giri Epic 5-9678 (USA, 1963), lato B di Do You Love Me (2:13); uscito prima nel Regno Unito su Ember EMB S156 (agosto 1962) come lato A",
+    "year": 1963,
+    "drummers": [
+      "Dave Clark"
+    ],
+    "drummerText": "Dave Clark (probabile: batterista e leader del gruppo; musicisti non accreditati sul disco)",
+    "producers": [
+      "Dave Clark"
+    ],
+    "producerText": "Dave Clark (probabile: Wikipedia lo indica come produttore delle registrazioni del gruppo; non accreditato sul disco)",
+    "labels": [
+      "Epic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "checkmate-twist-the-checkmates",
     "title": "Checkmate Twist",
     "artist": "The Checkmates",
@@ -3670,6 +3689,24 @@
     "type": "famoso"
   },
   {
+    "id": "it-s-always-because-of-this-a-deformity-dave-grusin",
+    "title": "It's Always Because of This: A Deformity",
+    "artist": "Dave Grusin",
+    "release": "Candy, colonna sonora (ABC ABCS-OC-9, dicembre 1968), lato B, traccia 3 (2:30)",
+    "album": "Candy",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Dave Grusin"
+    ],
+    "producerText": "Dave Grusin, con Peter DeAngelis coproduttore",
+    "labels": [
+      "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "it-s-great-to-be-here-the-jackson-5",
     "title": "It's Great to Be Here",
     "artist": "The Jackson 5",
@@ -5874,6 +5911,23 @@
     "type": "documentato"
   },
   {
+    "id": "save-me-dave-dee-dozy-beaky-mick-tich",
+    "title": "Save Me",
+    "artist": "Dave Dee, Dozy, Beaky, Mick & Tich",
+    "release": "45 giri Fontana TF 775 (Regno Unito, 2 dicembre 1966), lato A (2:54); sul retro Shame. In Germania su Star-Club 148 575 STF, \"eine Fontana-Produktion\"",
+    "year": 1966,
+    "drummers": [
+      "Mick Wilson"
+    ],
+    "drummerText": "Mick Wilson (probabile: batterista del gruppo; musicisti non accreditati sul disco)",
+    "producers": [],
+    "producerText": "Non trovato",
+    "labels": [
+      "Fontana"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "save-the-world-southside-movement",
     "title": "Save the World",
     "artist": "Southside Movement",
@@ -6751,6 +6805,21 @@
     ],
     "type": "famoso",
     "ubb": "15"
+  },
+  {
+    "id": "starlight-dave-and-the-starlights",
+    "title": "Starlight",
+    "artist": "Dave and the Starlights",
+    "release": "45 giri White Label of Golden Ring (1963), lato A; sul retro I Wished Upon a Star",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "White Label of Golden Ring"
+    ],
+    "type": "documentato"
   },
   {
     "id": "steam-adamkosky",
