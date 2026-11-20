@@ -300,6 +300,24 @@
     "type": "documentato"
   },
   {
+    "id": "ascension-to-virginity-dave-grusin",
+    "title": "Ascension to Virginity",
+    "artist": "Dave Grusin",
+    "release": "Candy, colonna sonora (ABC ABCS-OC-9, dicembre 1968), lato B, traccia 5 (5:05)",
+    "album": "Candy",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Dave Grusin"
+    ],
+    "producerText": "Dave Grusin, con Peter DeAngelis coproduttore",
+    "labels": [
+      "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ashley-s-roachclip-the-soul-searchers",
     "title": "Ashley's Roachclip",
     "artist": "The Soul Searchers",
