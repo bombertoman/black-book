@@ -16,6 +16,12 @@ const HELP = `Black Book – drum breaks
   node bb.js drummer "Nome" --role ".." --other ".."   scheda batterista
   node bb.js source "Titolo" <url>                aggiunge una fonte
   node bb.js serve [porta]                        avvia la webapp in locale (default 4173)
+  node bb.js arr "Artista" "Titolo" ["Album o singolo"]   cerca chi ha arrangiato un brano (Discogs, MusicBrainz, Wikipedia)
+  node bb.js arr --id <id>                        stessa ricerca per un break del database (usa le sue pagine Discogs)
+  node bb.js arr --missing [--from N] [--limit N] [--out file.json]   ricerca per i break senza arrangiatore
+
+Opzioni di arr: --discogs <url release o master>   --only discogs,musicbrainz,wikipedia   --json
+  Non scrive nulla nel database: mostra i candidati da controllare. Con DISCOGS_TOKEN nell'ambiente Discogs va più veloce.
 
 Opzioni di add (ripetibili per più nomi, oppure separati da ";"):
   -t --title      -a --artist     -r --release "Album (1973), lato A"   -b --album "Album"   -y --year
@@ -28,7 +34,7 @@ Esempio:
   node bb.js add "Impeach the President - The Honey Drippers" -r "45 giri (1973)" -l Alaga --ubb 11 --push`;
 
 const SHORT = { t: 'title', a: 'artist', r: 'release', b: 'album', y: 'year', d: 'drummer', p: 'producer', x: 'arranger', l: 'label' };
-const BOOL = new Set(['force', 'push', 'help']);
+const BOOL = new Set(['force', 'push', 'help', 'json', 'missing']);
 
 function parse(argv) {
   const pos = [], opt = {};
@@ -76,6 +82,56 @@ function parseJson(text) {
   }
 }
 
+// Prints the arranger candidates of one search.
+function printArrangers(input, res) {
+  console.log(`\n${input.title} – ${input.artist}${input.release ? `  (${input.release})` : ''}`);
+  if (!res.people.length) console.log('  Nessun credito di arrangiamento trovato.');
+  for (const p of res.people) {
+    console.log(`  ${p.name || '(nome da leggere)'}`);
+    for (const c of p.credits) console.log(`    ${c.source} · ${c.scope} · ${c.role} · ${c.where}\n      ${c.url}`);
+  }
+  if (res.checked.length) console.log('  Pagine controllate:\n' + res.checked.map((c) => `    ${c.source}: ${c.what}${c.track ? ` – ${c.track}` : ''}  ${c.url || ''}`).join('\n'));
+  for (const e of res.errors) console.log(`  ERRORE ${e}`);
+}
+
+async function arrangers(pos, opt) {
+  const { findArrangers, discogsRefsFor } = require('./lib/arrangers');
+  const sources = opt.only ? String(opt.only).split(',').map((s) => s.trim()) : undefined;
+  const log = opt.json ? () => {} : (m) => console.error('… ' + m);
+  const one = async (input) => findArrangers(input, { sources, log });
+
+  if (opt.missing) {
+    const all = store.read('breaks').filter((b) => !(b.arrangers && b.arrangers.length) && !b.arrangerText);
+    const from = Number(opt.from) || 0, limit = Number(opt.limit) || 10;
+    const srcs = store.read('sources');
+    const report = [];
+    for (const b of all.slice(from, from + limit)) {
+      const input = { artist: b.artist, title: b.title, release: b.album, discogsRefs: discogsRefsFor(b, srcs) };
+      const res = await one(input);
+      report.push({ id: b.id, title: b.title, artist: b.artist, album: b.album || null, people: res.people, checked: res.checked, errors: res.errors });
+      if (!opt.json) printArrangers(input, res);
+    }
+    if (opt.out) fs.writeFileSync(path.resolve(opt.out), JSON.stringify(report, null, 2) + '\n');
+    if (opt.json) console.log(JSON.stringify(report, null, 2));
+    console.error(`\n${report.length} break esaminati (da ${from} a ${from + report.length - 1} su ${all.length} senza arrangiatore)${opt.out ? `, rapporto in ${opt.out}` : ''}`);
+    return;
+  }
+
+  let input;
+  if (opt.id) {
+    const b = store.read('breaks').find((x) => x.id === opt.id);
+    if (!b) throw new Error(`Nessun break con id "${opt.id}"`);
+    input = { artist: b.artist, title: b.title, release: b.album, discogsRefs: discogsRefsFor(b, store.read('sources')) };
+  } else {
+    if (pos.length < 2) throw new Error('Uso: arr "Artista" "Titolo" ["Album o singolo"]  oppure  arr --id <id>');
+    input = { artist: pos[0], title: pos[1], release: pos[2] };
+  }
+  if (opt.discogs) input.discogsRefs = [].concat(opt.discogs);
+  const res = await one(input);
+  if (opt.json) console.log(JSON.stringify({ input, ...res }, null, 2));
+  else printArrangers(input, res);
+}
+
 async function main() {
   const [cmd, ...rest] = process.argv.slice(2);
   const { pos, opt } = parse(rest);
@@ -116,6 +172,8 @@ async function main() {
     if (!pos[1]) throw new Error('Uso: source "Titolo" <url>');
     console.log(`Fonti: ${store.addSource(pos[0], pos[1])}`);
     if (opt.push) push(`Add source: ${pos[0]}`);
+  } else if (cmd === 'arr') {
+    await arrangers(pos, opt);
   } else if (cmd === 'serve') {
     require('./server').start(Number(pos[0]) || undefined);
   } else {

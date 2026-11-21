@@ -37,6 +37,20 @@ Campi: `title`, `artist`, `release`, `album`, `year`, `drummers`, `producers`, `
 Valgono anche i nomi italiani (`brano`, `artista`, `disco`, `anno`, `batterista`, `produttore`, `arrangiatore`, `etichetta`, `tipo`).
 `arrangers` è facoltativo: chi ha arrangiato il brano ("arr." sul disco).
 
+### Cercare gli arrangiatori
+
+```bash
+node bb.js arr "Tower of Power" "Squib Cakes" "Back to Oakland"   # artista, titolo, album o singolo (facoltativo)
+node bb.js arr --id squib-cakes-tower-of-power                     # un break del database
+node bb.js arr --missing --limit 10 --out arr.json                 # i break senza arrangiatore, 10 alla volta
+```
+
+Cerca su Discogs (crediti del brano e del disco), MusicBrainz (relazioni "arranger") e Wikipedia (righe del personale con "arrang").
+Per i break del database usa le pagine Discogs già tra le fonti; altrimenti cerca la release, una per master.
+Non scrive nulla: mostra i candidati con la pagina da cui vengono, e `scope` dice se il credito è sul brano o su tutto il disco.
+`--only discogs,musicbrainz,wikipedia` sceglie le fonti, `--discogs <url>` indica la release giusta, `--json` dà l'uscita grezza.
+Discogs senza token accetta 25 richieste al minuto: con un token personale in `DISCOGS_TOKEN` la ricerca è più veloce.
+
 Senza `type`: `famoso` se c'è `ubb`, altrimenti `scoperta`. L'anno si ricava dal disco se manca.
 
 ### Batch completo
