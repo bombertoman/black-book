@@ -647,6 +647,23 @@
     "type": "documentato"
   },
   {
+    "id": "bossa-nova-blues-doris-troy",
+    "title": "Bossa Nova Blues",
+    "artist": "Doris Troy",
+    "release": "45 giri Atlantic 45-2188 (aprile 1963), lato B di Just One Look (2:03)",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Artie Ripp"
+    ],
+    "producerText": "Artie Ripp (supervisione della produzione musicale, crediti del disco)",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "bouncy-lady-pleasure",
     "title": "Bouncy Lady",
     "artist": "Pleasure",
@@ -972,6 +989,21 @@
     ],
     "type": "famoso",
     "ubb": "15"
+  },
+  {
+    "id": "chapo-david-rose-his-orchestra",
+    "title": "Chapo",
+    "artist": "David Rose & His Orchestra",
+    "release": "45 giri MGM K12652 (1958), lato A (2:10); sul retro Punch and Judy",
+    "year": 1958,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "MGM"
+    ],
+    "type": "documentato"
   },
   {
     "id": "chaquita-the-dave-clark-five",
@@ -1744,6 +1776,21 @@
     "ubb": "25"
   },
   {
+    "id": "don-t-throw-your-back-outa-wack-dizzy-gillespie",
+    "title": "Don't Throw Your Back Outa Wack",
+    "artist": "Dizzy Gillespie",
+    "release": "45 giri Limelight L-3079 (1965), lato A (2:27); sul retro N.A.T.R.A. Arrangiamento di Sammy Lowe",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Limelight"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "down-on-the-avenue-fat-larry-s-band",
     "title": "Down on the Avenue",
     "artist": "Fat Larry's Band",
@@ -1761,6 +1808,21 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "dreamy-nights-dickey-lee",
+    "title": "Dreamy Nights",
+    "artist": "Dickey Lee",
+    "release": "45 giri Sun 297 (aprile 1958), lato B di Fool, Fool, Fool (2:28)",
+    "year": 1958,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Sun"
+    ],
+    "type": "documentato"
   },
   {
     "id": "drumsville-the-aire-dales",
@@ -1993,6 +2055,22 @@
     "type": "documentato"
   },
   {
+    "id": "far-away-places-eddie-the-showmen",
+    "title": "Far Away Places",
+    "artist": "Eddie & the Showmen",
+    "release": "45 giri Liberty 55695 (maggio 1964), lato B di Lanky Bones (1:58)",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Dave Pell"
+    ],
+    "labels": [
+      "Liberty"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "fatbackin-the-fatback-band",
     "title": "Fatbackin'",
     "artist": "The Fatback Band",
@@ -2110,6 +2188,23 @@
     "type": "documentato"
   },
   {
+    "id": "the-five-seventeen-the-definitive-rock-chorale",
+    "title": "The Five-Seventeen",
+    "artist": "The Definitive Rock Chorale",
+    "release": "45 giri Bell B-844 (1969), lato B di I Love You (1:57)",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Ellie Greenwich",
+      "Mike Rashkow"
+    ],
+    "labels": [
+      "Bell"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "flip-jesse-green",
     "title": "Flip",
     "artist": "Jesse Green",
@@ -2213,6 +2308,22 @@
     "producerText": "The Isley Brothers, con Malcolm Cecil e Robert Margouleff",
     "labels": [
       "T-Neck"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "forget-that-girl-de-lite-ful",
+    "title": "Forget That Girl",
+    "artist": "De-Lite-Ful",
+    "release": "45 giri Vigor VI-1718 (1975), lato A (2:43); sul retro la versione strumentale. Missaggio di Tom Moulton",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Tony Valor"
+    ],
+    "labels": [
+      "Vigor"
     ],
     "type": "documentato"
   },
@@ -3049,6 +3160,21 @@
     "type": "documentato"
   },
   {
+    "id": "hit-run-the-deltones",
+    "title": "Hit & Run",
+    "artist": "The Deltones",
+    "release": "45 giri Star Satelite 1014, lato A (2:05); sul retro Strollin' with the Blues",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Star Satelite"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "hit-or-miss-bo-diddley",
     "title": "Hit or Miss",
     "artist": "Bo Diddley",
@@ -3486,6 +3612,22 @@
     "ubb": "16"
   },
   {
+    "id": "i-want-my-momma-the-dells",
+    "title": "I Want My Momma",
+    "artist": "The Dells",
+    "release": "45 giri Cadet 5621 (1968), lato B di Always Together (2:29); arrangiamento di Charles Stepney",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bobby Miller"
+    ],
+    "labels": [
+      "Cadet (Chess)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "i-wouldn-t-change-a-thing-coke-escovedo",
     "title": "I Wouldn't Change a Thing",
     "artist": "Coke Escovedo",
@@ -3784,6 +3926,22 @@
     ],
     "type": "famoso",
     "ubb": "18"
+  },
+  {
+    "id": "it-s-limited-the-devastation",
+    "title": "It's Limited",
+    "artist": "The Devastation",
+    "release": "45 giri NGC 45-002 (1971), lato A; sul retro Congestion",
+    "year": 1971,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Velton Banks"
+    ],
+    "labels": [
+      "NGC"
+    ],
+    "type": "documentato"
   },
   {
     "id": "it-s-my-thing-marva-whitney",
@@ -4488,6 +4646,21 @@
     "type": "documentato"
   },
   {
+    "id": "let-s-waddle-the-earls",
+    "title": "Let's Waddle",
+    "artist": "The Earls",
+    "release": "45 giri Old Town 1130 (1963), lato B di Remember Then",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Old Town"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "life-could-rotary-connection",
     "title": "Life Could",
     "artist": "Rotary Connection",
@@ -4866,6 +5039,22 @@
     "ubb": "1"
   },
   {
+    "id": "mary-s-mamma-drama",
+    "title": "Mary's Mamma",
+    "artist": "Drama",
+    "release": "45 giri Philips 6012 228 (Francia, 1972), lato A (3:21); sul retro Mademoiselle",
+    "year": 1972,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Peter Koelewijn"
+    ],
+    "labels": [
+      "Philips"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "the-mayville-line-apple",
     "title": "The Mayville Line",
     "artist": "Apple",
@@ -5009,6 +5198,22 @@
     "producerText": "Non accreditato (\"Produced by Downey Records\")",
     "labels": [
       "Downey"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "mr-rebel-eddie-the-showmen",
+    "title": "Mr. Rebel",
+    "artist": "Eddie & the Showmen",
+    "release": "45 giri Liberty F-55659 (1963), lato A (1:59); sul retro Movin'",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bert Bertrand"
+    ],
+    "labels": [
+      "Liberty"
     ],
     "type": "documentato"
   },
@@ -5727,6 +5932,22 @@
     "producerText": "Non accreditato",
     "labels": [
       "Stax"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "ride-on-ebony-jam",
+    "title": "Ride On",
+    "artist": "Ebony Jam",
+    "release": "45 giri Amos AJB-122 (1969), versione cantata sul lato A (2:47), strumentale sul lato B",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Shelly Feinberg"
+    ],
+    "labels": [
+      "Amos"
     ],
     "type": "documentato"
   },
@@ -6713,6 +6934,22 @@
     "type": "documentato"
   },
   {
+    "id": "soul-vibrations-dorothy-ashby",
+    "title": "Soul Vibrations",
+    "artist": "Dorothy Ashby",
+    "release": "45 giri Cadet 5604 (1968), lato A (3:00); sul retro Lonely Girl. Sull'album Afro-Harping (Cadet LPS-809, 1968), lato A, traccia 1, la versione dura 3:15",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Richard Evans"
+    ],
+    "labels": [
+      "Cadet (Chess)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "space-dust-the-galactic-force-band",
     "title": "Space Dust",
     "artist": "The Galactic Force Band",
@@ -6818,6 +7055,21 @@
     ],
     "labels": [
       "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "squeeze-me-the-dynamic-7",
+    "title": "Squeeze Me",
+    "artist": "The Dynamic 7",
+    "release": "45 giri Sound Stage 7 SS7-2625 (1969), parte I sul lato A (2:33), parte II sul lato B; registrato a Nashville (Music City Recorders)",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Image Productions (così sul disco)",
+    "labels": [
+      "Sound Stage 7 (Monument)"
     ],
     "type": "documentato"
   },
@@ -7092,6 +7344,22 @@
     "type": "documentato"
   },
   {
+    "id": "sweet-sugar-artista-non-indicato",
+    "title": "Sweet Sugar",
+    "artist": "Artista non indicato",
+    "release": "Discotheque Dance Party (Diplomat DS-2334, 1964), lato B, traccia 6; compilation senza artisti indicati per brano",
+    "album": "Discotheque Dance Party",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Diplomat"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "sweet-wine-cream",
     "title": "Sweet Wine",
     "artist": "Cream",
@@ -7107,6 +7375,22 @@
     ],
     "labels": [
       "Atco"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "swim-cindy-swim-dancers-go-go",
+    "title": "Swim Cindy Swim",
+    "artist": "Dancers-Go-Go!",
+    "release": "Discotheque Dancers Go! Go! (Coronet CX-245, 1965), lato B, traccia 3",
+    "album": "Discotheque Dancers Go! Go!",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Coronet"
     ],
     "type": "documentato"
   },
@@ -7263,6 +7547,22 @@
       "Costa Est (EMI)"
     ],
     "type": "scoperta"
+  },
+  {
+    "id": "tennessee-stud-dewayne-the-beldettas",
+    "title": "Tennessee Stud",
+    "artist": "Dewayne & the Beldettas",
+    "release": "45 giri Hanna-Barbera HBR-465 (1966), lato A (2:20); sul retro I'll Walk Along",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Paul Menard"
+    ],
+    "labels": [
+      "Hanna-Barbera"
+    ],
+    "type": "documentato"
   },
   {
     "id": "theme-from-s-w-a-t-rhythm-heritage",
@@ -7675,6 +7975,21 @@
     ],
     "type": "famoso",
     "ubb": "14"
+  },
+  {
+    "id": "voo-doo-don-sohl-and-the-roadrunners",
+    "title": "Voo Doo",
+    "artist": "Don Sohl and the Roadrunners",
+    "release": "45 giri Palms 728 (1962), lato A (2:18); sul retro Ticker Tape",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Ramsey-Davis (così sul disco)",
+    "labels": [
+      "Palms"
+    ],
+    "type": "documentato"
   },
   {
     "id": "voodo-david-morrison",
