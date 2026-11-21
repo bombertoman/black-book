@@ -9,6 +9,7 @@ const KINDS = {
   albums: { one: 'Album', many: 'Album' },
   drummers: { one: 'Batterista', many: 'Batteristi', text: 'drummerText' },
   producers: { one: 'Produttore', many: 'Produttori', text: 'producerText' },
+  arrangers: { one: 'Arrangiatore', many: 'Arrangiatori', text: 'arrangerText' },
   labels: { one: 'Etichetta', many: 'Etichette', text: 'labelText' },
 };
 const TYPES = { famoso: 'Famoso', documentato: 'Documentato', scoperta: 'Scoperta' };
@@ -65,8 +66,8 @@ async function load() {
       b._heat[kind] = Math.max(0, ...keys(b, kind).map((n) => index[kind].get(n).length));
       b._heat.any = Math.max(b._heat.any, b._heat[kind]);
     }
-    b._hay = norm([b.title, b.artist, b.release, b.album, b.where, b.drummers, b.drummerText, b.producers, b.producerText,
-      b.labels, b.labelText, b.type, b.ubb ? 'ubb ' + b.ubb : ''].flat().filter(Boolean).join(' | '));
+    b._hay = norm([b.title, b.artist, b.release, b.album, b.drummers, b.drummerText, b.producers, b.producerText,
+      b.arrangers, b.arrangerText, b.labels, b.labelText, b.type, b.ubb ? 'ubb ' + b.ubb : ''].flat().filter(Boolean).join(' | '));
     b._dec = b.year ? Math.floor(b.year / 10) * 10 : 0;
     b._ubb = b.ubb ? String(parseInt(b.ubb, 10)) : '';
   }
@@ -78,7 +79,8 @@ async function load() {
 }
 
 // ---------- rendering helpers ----------
-const heat = (n) => (n >= 3 ? ' h3' : n === 2 ? ' h2' : '');
+// Heat levels: 2–3 light blue, 4–5 green, 6–7 yellow, 8+ red.
+const heat = (n) => (n >= 8 ? ' h8' : n >= 6 ? ' h6' : n >= 4 ? ' h4' : n >= 2 ? ' h2' : '');
 function entBtn(kind, name, badge = true) {
   const k = key(kind, name), n = (index[kind].get(k) || []).length;
   return `<button class="ent${heat(n)}" data-who="${esc(kind + ':' + k)}" title="Calore ${n}: compare in ${n} break">${esc(name)}${badge && n > 1 ? `<sup>${n}</sup>` : ''}</button>`;
@@ -123,13 +125,13 @@ function filtered() {
 function renderBreaks() {
   const rows = filtered();
   const yt = (b) => 'https://www.youtube.com/results?search_query=' + encodeURIComponent(`${b.artist} ${b.title}`);
-  const head = '<div class="row head"><div>Brano</div><div>Disco</div><div>Dove</div><div>Batterista</div><div>Produttore</div><div>Etichetta</div><div>Tipo</div></div>';
+  const head = '<div class="row head"><div>Brano</div><div>Disco</div><div>Batterista</div><div>Produttore</div><div>Arrangiamento</div><div>Etichetta</div><div>Tipo</div></div>';
   const body = rows.map((b) => `<article class="row">
     <div class="title"><b>${esc(b.title)}</b><span>${entBtn('artists', b.artist)}</span></div>
     ${cell('Disco', disco(b))}
-    ${cell('Dove', esc(b.where || ''))}
     ${cell('Batterista', people(b, 'drummers'))}
     ${cell('Produttore', people(b, 'producers'))}
+    ${cell('Arrangiamento', people(b, 'arrangers'))}
     ${cell('Etichetta', people(b, 'labels'))}
     <div class="tags"><span class="tag ${b.type}">${TYPES[b.type]}</span>${b.ubb ? `<span class="tag">UBB ${esc(b.ubb)}</span>` : ''}<a class="yt" href="${yt(b)}" target="_blank" rel="noopener" title="Cerca su YouTube">▶</a></div>
   </article>`).join('');

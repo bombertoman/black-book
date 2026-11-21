@@ -16,7 +16,9 @@ Apri http://localhost:4173. La webapp è in sola lettura, sia in locale sia pubb
 - `data/drummers.json` — ruolo e altri dischi dei batteristi
 - `data/sources.json` — fonti
 
-Artisti, album, produttori, etichette e calore sono calcolati dai break.
+Artisti, album, produttori, arrangiatori, etichette e calore sono calcolati dai break.
+
+Calore: 2–3 azzurro, 4–5 verde, 6–7 giallo, da 8 in su rosso.
 
 ## Aggiungere break
 
@@ -30,9 +32,10 @@ echo '{"title":"X - Y","year":1974,"drummer":"A;B"}' | node bb.js import -
 node bb.js help           # tutti i comandi
 ```
 
-Campi: `title`, `artist`, `release`, `album`, `year`, `where`, `drummers`, `producers`, `labels` (array oppure nomi separati da `;`),
-`drummerText` / `producerText` / `labelText` (testo libero con note), `type` (`famoso`, `documentato`, `scoperta`), `ubb`.
-Valgono anche i nomi italiani (`brano`, `artista`, `disco`, `anno`, `dove`, `batterista`, `produttore`, `etichetta`, `tipo`).
+Campi: `title`, `artist`, `release`, `album`, `year`, `drummers`, `producers`, `arrangers`, `labels` (array oppure nomi separati da `;`),
+`drummerText` / `producerText` / `arrangerText` / `labelText` (testo libero con note), `type` (`famoso`, `documentato`, `scoperta`), `ubb`.
+Valgono anche i nomi italiani (`brano`, `artista`, `disco`, `anno`, `batterista`, `produttore`, `arrangiatore`, `etichetta`, `tipo`).
+`arrangers` è facoltativo: chi ha arrangiato il brano ("arr." sul disco).
 
 Senza `type`: `famoso` se c'è `ubb`, altrimenti `scoperta`. L'anno si ricava dal disco se manca.
 

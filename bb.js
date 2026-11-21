@@ -19,15 +19,15 @@ const HELP = `Black Book – drum breaks
 
 Opzioni di add (ripetibili per più nomi, oppure separati da ";"):
   -t --title      -a --artist     -r --release "Album (1973), lato A"   -b --album "Album"   -y --year
-  -w --where "0:12, 4 battute"    -d --drummer    -p --producer  -l --label
+  -d --drummer    -p --producer   -x --arranger   -l --label
   --type famoso|documentato|scoperta   --ubb 6
-  --drummer-text / --producer-text / --label-text   testo libero mostrato al posto dei nomi
+  --drummer-text / --producer-text / --arranger-text / --label-text   testo libero mostrato al posto dei nomi
   --force   sostituisce un break esistente      --push   git commit + push dopo la modifica
 
 Esempio:
   node bb.js add "Impeach the President - The Honey Drippers" -r "45 giri (1973)" -l Alaga --ubb 11 --push`;
 
-const SHORT = { t: 'title', a: 'artist', r: 'release', b: 'album', y: 'year', w: 'where', d: 'drummer', p: 'producer', l: 'label' };
+const SHORT = { t: 'title', a: 'artist', r: 'release', b: 'album', y: 'year', d: 'drummer', p: 'producer', x: 'arranger', l: 'label' };
 const BOOL = new Set(['force', 'push', 'help']);
 
 function parse(argv) {
@@ -60,8 +60,8 @@ async function ask() {
   const b = {
     title: await q('Titolo'), artist: await q('Artista'), release: await q('Disco, es. "Album (1973), lato A"'),
     album: await q('Album (vuoto se solo 45 giri)'),
-    where: await q('Dove (minuto, battute)'), drummers: await q('Batteristi (separati da ;)'),
-    producers: await q('Produttori (;)'), labels: await q('Etichette (;)'),
+    drummers: await q('Batteristi (separati da ;)'),
+    producers: await q('Produttori (;)'), arrangers: await q('Arrangiatori (;)'), labels: await q('Etichette (;)'),
     type: await q('Tipo [famoso/documentato/scoperta] (vuoto = scoperta)'), ubb: await q('Volume UBB (vuoto = nessuno)'),
   };
   rl.close();
