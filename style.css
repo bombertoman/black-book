@@ -48,6 +48,13 @@ nav button.on small { color: var(--gold); }
 #filters select, #reset, .chips button { font: 600 14px var(--display); letter-spacing: .05em; text-transform: uppercase; background: var(--bg); }
 .chips { display: flex; gap: 6px; flex-wrap: wrap; }
 .chips button { padding: 7px 12px; }
+/* Active filters: same yellow as the selected type chip. */
+#filters select.on { background: var(--gold); border-color: var(--gold); color: #000; }
+#filters select.on option { background: var(--panel); color: var(--text); }
+.min.on { color: var(--gold); }
+.min.on input { border-color: var(--gold); background: var(--gold); color: #000; }
+#reset { border-color: var(--gold); color: var(--gold); }
+#reset:hover { background: var(--gold); color: #000; }
 .chips button.on { background: var(--gold); border-color: var(--gold); color: #000; }
 .chips button.on small { color: #000; opacity: .6; }
 #who { padding: 12px 14px; margin-bottom: 12px; background: var(--panel); border: 1px solid var(--line-2); border-left: 6px solid var(--gold); }

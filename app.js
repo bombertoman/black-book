@@ -181,6 +181,11 @@ function render() {
   if ($('#min').value !== state.min) $('#min').value = state.min;
   $('#esort').value = state.esort;
   $('#reset').hidden = !(state.q || state.min || (onBreaks && (state.type || state.dec || state.ubb || state.who || state.hk)));
+  // Filters not on their default value are painted yellow, so a forgotten one (e.g. a decade kept in the link) shows.
+  $('#dec').classList.toggle('on', !!state.dec);
+  $('#ubb').classList.toggle('on', !!state.ubb);
+  $('#hk').classList.toggle('on', !!state.hk);
+  $('.min').classList.toggle('on', !!state.min);
   if ($('#q').value !== state.q) $('#q').value = state.q;
 
   // Entity banner
