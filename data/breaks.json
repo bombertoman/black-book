@@ -11,6 +11,10 @@
     "producers": [
       "Cecil Holmes"
     ],
+    "arrangers": [
+      "Tony Camillo"
+    ],
+    "arrangerText": "Tony Camillo (crediti dell'album)",
     "labels": [
       "Buddah"
     ],
@@ -126,6 +130,10 @@
     "producers": [
       "Rick James"
     ],
+    "arrangers": [
+      "Rick James"
+    ],
+    "arrangerText": "Rick James (crediti dell'album: tutti gli arrangiamenti)",
     "labels": [
       "Gordy (Motown)"
     ],
@@ -159,6 +167,11 @@
     ],
     "producers": [],
     "producerText": "Non accreditato",
+    "arrangers": [
+      "The Winstons",
+      "Emory Gordy"
+    ],
+    "arrangerText": "The Winstons secondo Discogs (crediti del 45 giri), Emory Gordy secondo MusicBrainz",
     "labels": [
       "Metromedia"
     ],
@@ -236,6 +249,11 @@
     "drummerText": "Tullio De Piscopo (crediti dell'album)",
     "producers": [],
     "producerText": "Non indicato",
+    "arrangers": [
+      "G. Sorio",
+      "R. Bobbio"
+    ],
+    "arrangerText": "G. Sorio e R. Bobbio (crediti del disco, nomi abbreviati)",
     "labels": [
       "Durium"
     ],
@@ -278,6 +296,11 @@
       "Olaf Kübler",
       "Amon Düül II"
     ],
+    "arrangers": [
+      "Amon Düül II",
+      "Siegfried E. Loch"
+    ],
+    "arrangerText": "Amon Düül II (crediti del brano su MusicBrainz e dell'album su Discogs); Discogs accredita all'album anche Siegfried E. Loch",
     "labels": [
       "Liberty"
     ],
@@ -294,6 +317,10 @@
     "producers": [
       "Al Kasha"
     ],
+    "arrangers": [
+      "Charlie Calello"
+    ],
+    "arrangerText": "Charlie Calello (crediti del 45 giri, sul disco \"Callello\")",
     "labels": [
       "Dolphin"
     ],
@@ -353,6 +380,12 @@
       "Commodores"
     ],
     "producerText": "James Anthony Carmichael e i Commodores",
+    "arrangers": [
+      "Commodores",
+      "James Anthony Carmichael",
+      "Gloria Jones"
+    ],
+    "arrangerText": "Commodores e Gloria Jones secondo Discogs; Commodores e James Anthony Carmichael secondo Wikipedia",
     "labels": [
       "Motown"
     ],
