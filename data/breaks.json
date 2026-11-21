@@ -2035,6 +2035,31 @@
     "type": "documentato"
   },
   {
+    "id": "every-girl-wants-my-guy-aretha-franklin",
+    "title": "Every Girl (Wants My Guy)",
+    "artist": "Aretha Franklin",
+    "release": "Get It Right (Arista AL 8-8019, 1983), lato A, traccia 3 (6:29); il 45 giri Arista AS1-9095 (1983) ha una versione accorciata da 4:20",
+    "album": "Get It Right",
+    "year": 1983,
+    "drummers": [
+      "Yogi Horton"
+    ],
+    "drummerText": "Yogi Horton (crediti dell'album)",
+    "producers": [
+      "Luther Vandross"
+    ],
+    "arrangers": [
+      "Marcus Miller",
+      "Luther Vandross",
+      "Aretha Franklin"
+    ],
+    "arrangerText": "Marcus Miller (arrangiamento ritmico); Luther Vandross e Aretha Franklin (arrangiamento vocale)",
+    "labels": [
+      "Arista"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "exotic-bob-vaught-the-renegaids",
     "title": "Exotic",
     "artist": "Bob Vaught & the Renegaids",
@@ -2686,6 +2711,30 @@
     "ubb": "16"
   },
   {
+    "id": "gimme-your-love-aretha-franklin",
+    "title": "Gimme Your Love",
+    "artist": "Aretha Franklin",
+    "release": "Through the Storm (Arista, 1989), traccia 1 (5:18), in duetto con James Brown; il 45 giri Arista 112682 (1989) ha una versione accorciata da 4:23",
+    "album": "Through the Storm",
+    "year": 1989,
+    "drummers": [
+      "Narada Michael Walden",
+      "Bongo Bob Smith"
+    ],
+    "drummerText": "Narada Michael Walden (batteria Simmons) e Bongo Bob Smith (programmazione della batteria), crediti su Wikipedia; Ren Klyce al Fairlight CMI",
+    "producers": [
+      "Narada Michael Walden"
+    ],
+    "arrangers": [
+      "Narada Michael Walden"
+    ],
+    "arrangerText": "Narada Michael Walden (crediti dell'album)",
+    "labels": [
+      "Arista"
+    ],
+    "type": "scoperta"
+  },
+  {
     "id": "give-it-to-you-upp",
     "title": "Give It to You",
     "artist": "UPP",
@@ -2705,20 +2754,23 @@
     "ubb": "3"
   },
   {
-    "id": "give-it-up-or-turnit-a-loose-james-brown",
-    "title": "Give It Up or Turnit a Loose",
+    "id": "give-it-up-or-turnit-a-loose-remix-james-brown",
+    "title": "Give It Up or Turnit a Loose (Remix)",
     "artist": "James Brown",
-    "release": "Sex Machine (1970), versione dal vivo",
-    "album": "Sex Machine",
-    "year": 1970,
+    "release": "In the Jungle Groove (Polydor 829 624, 1986), traccia 3 (6:09): remix di Tim Rogers di una registrazione con Bootsy e Catfish Collins. Il break c'è solo in questo remix, non nell'originale del 1969 né nella versione dal vivo di Sex Machine",
+    "album": "In the Jungle Groove",
+    "year": 1986,
     "drummers": [
       "Clyde Stubblefield"
     ],
+    "drummerText": "Clyde Stubblefield (crediti dell'album)",
     "producers": [
-      "James Brown"
+      "James Brown",
+      "Tim Rogers"
     ],
+    "producerText": "James Brown (produzione originale); remix di Tim Rogers, raccolta curata da Cliff White e Tim Rogers",
     "labels": [
-      "King"
+      "Polydor"
     ],
     "type": "famoso",
     "ubb": "7"
@@ -6061,6 +6113,31 @@
     "ubb": "15"
   },
   {
+    "id": "rock-steady-aretha-franklin",
+    "title": "Rock Steady",
+    "artist": "Aretha Franklin",
+    "release": "45 giri Atlantic 2838 (11 ottobre 1971), lato A (3:15); anche su Young, Gifted and Black (Atlantic SD 7213, 24 gennaio 1972), lato A, traccia 3 (3:12). Percussioni di Dr. John e Robert Popwell",
+    "album": "Young, Gifted and Black",
+    "year": 1971,
+    "drummers": [
+      "Bernard Purdie"
+    ],
+    "drummerText": "Bernard Purdie (crediti dell'album e del brano)",
+    "producers": [
+      "Jerry Wexler",
+      "Arif Mardin",
+      "Tom Dowd"
+    ],
+    "arrangers": [
+      "Tom Dowd"
+    ],
+    "arrangerText": "Tom Dowd (fiati)",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "rooftop-the-sons-of-champlin",
     "title": "Rooftop",
     "artist": "The Sons of Champlin",
@@ -7898,6 +7975,25 @@
     "type": "documentato"
   },
   {
+    "id": "the-truth-dizzy-gillespie",
+    "title": "The Truth",
+    "artist": "Dizzy Gillespie",
+    "release": "Bahiana (Pablo 2625-708, doppio LP, 1976; registrato a Los Angeles il 19 e 20 novembre 1975), lato C, traccia 2 (8:27); composta da Michael Longo",
+    "album": "Bahiana",
+    "year": 1976,
+    "drummers": [
+      "Mickey Roker"
+    ],
+    "drummerText": "Mickey Roker (crediti dell'album; percussioni di Paulinho Da Costa)",
+    "producers": [
+      "Norman Granz"
+    ],
+    "labels": [
+      "Pablo"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "tulsa-turnaround-alexander-harvey",
     "title": "Tulsa Turnaround",
     "artist": "Alexander Harvey",
@@ -8527,6 +8623,30 @@
     ],
     "type": "famoso",
     "ubb": "2"
+  },
+  {
+    "id": "you-re-a-sweet-sweet-man-aretha-franklin",
+    "title": "You're a Sweet Sweet Man",
+    "artist": "Aretha Franklin",
+    "release": "Aretha Now (Atlantic SD 8186, 14 giugno 1968), lato B, traccia 1 (2:14)",
+    "album": "Aretha Now",
+    "year": 1968,
+    "drummers": [
+      "Roger Hawkins"
+    ],
+    "drummerText": "Roger Hawkins (crediti dell'album)",
+    "producers": [
+      "Jerry Wexler"
+    ],
+    "arrangers": [
+      "Arif Mardin",
+      "Tom Dowd"
+    ],
+    "arrangerText": "Arif Mardin e Tom Dowd (crediti dell'album: tutti gli arrangiamenti)",
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
   },
   {
     "id": "you-ve-been-around-too-long-carole-king",
