@@ -45,7 +45,9 @@ node bb.js arr --id squib-cakes-tower-of-power                     # un break de
 node bb.js arr --missing --limit 10 --out arr.json                 # i break senza arrangiatore, 10 alla volta
 ```
 
-Cerca su Discogs (crediti del brano e del disco), MusicBrainz (relazioni "arranger") e Wikipedia (righe del personale con "arrang").
+Cerca su Discogs (crediti del brano e del disco) e MusicBrainz (relazioni "arranger") insieme.
+Wikipedia (righe del personale con "arrang") aggiunge di rado nomi nuovi, quindi fa da spareggio: viene consultata solo se
+Discogs e MusicBrainz indicano persone diverse, o se sono entrambi vuoti e il break è su un album. `--wiki` la consulta sempre, `--nowiki` mai.
 Per i break del database usa le pagine Discogs già tra le fonti; altrimenti cerca la release, una per master.
 Non scrive nulla: mostra i candidati con la pagina da cui vengono, e `scope` dice se il credito è sul brano o su tutto il disco.
 `--only discogs,musicbrainz,wikipedia` sceglie le fonti, `--discogs <url>` indica la release giusta, `--json` dà l'uscita grezza.

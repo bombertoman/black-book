@@ -21,6 +21,8 @@ const HELP = `Black Book – drum breaks
   node bb.js arr --missing [--from N] [--limit N] [--out file.json]   ricerca per i break senza arrangiatore
 
 Opzioni di arr: --discogs <url release o master>   --only discogs,musicbrainz,wikipedia   --json
+  Wikipedia fa da spareggio: solo se Discogs e MusicBrainz non sono d'accordo, o sono vuoti e il break è su un album.
+  --wiki la consulta sempre, --nowiki mai.
   Non scrive nulla nel database: mostra i candidati da controllare. Con DISCOGS_TOKEN nell'ambiente Discogs va più veloce.
 
 Opzioni di add (ripetibili per più nomi, oppure separati da ";"):
@@ -34,7 +36,7 @@ Esempio:
   node bb.js add "Impeach the President - The Honey Drippers" -r "45 giri (1973)" -l Alaga --ubb 11 --push`;
 
 const SHORT = { t: 'title', a: 'artist', r: 'release', b: 'album', y: 'year', d: 'drummer', p: 'producer', x: 'arranger', l: 'label' };
-const BOOL = new Set(['force', 'push', 'help', 'json', 'missing']);
+const BOOL = new Set(['force', 'push', 'help', 'json', 'missing', 'wiki', 'nowiki']);
 
 function parse(argv) {
   const pos = [], opt = {};
@@ -91,6 +93,7 @@ function printArrangers(input, res) {
     for (const c of p.credits) console.log(`    ${c.source} · ${c.scope} · ${c.role} · ${c.where}\n      ${c.url}`);
   }
   if (res.checked.length) console.log('  Pagine controllate:\n' + res.checked.map((c) => `    ${c.source}: ${c.what}${c.track ? ` – ${c.track}` : ''}  ${c.url || ''}`).join('\n'));
+  if (res.wiki) console.log(`  Wikipedia: ${res.wiki}`);
   for (const e of res.errors) console.log(`  ERRORE ${e}`);
 }
 
@@ -98,7 +101,8 @@ async function arrangers(pos, opt) {
   const { findArrangers, discogsRefsFor } = require('./lib/arrangers');
   const sources = opt.only ? String(opt.only).split(',').map((s) => s.trim()) : undefined;
   const log = opt.json ? () => {} : (m) => console.error('… ' + m);
-  const one = async (input) => findArrangers(input, { sources, log });
+  const wiki = opt.wiki ? 'always' : opt.nowiki ? 'never' : 'auto';
+  const one = async (input) => findArrangers(input, { sources, wiki, log });
 
   if (opt.missing) {
     const all = store.read('breaks').filter((b) => !(b.arrangers && b.arrangers.length) && !b.arrangerText);
@@ -108,7 +112,7 @@ async function arrangers(pos, opt) {
     for (const b of all.slice(from, from + limit)) {
       const input = { artist: b.artist, title: b.title, release: b.album, discogsRefs: discogsRefsFor(b, srcs) };
       const res = await one(input);
-      report.push({ id: b.id, title: b.title, artist: b.artist, album: b.album || null, people: res.people, checked: res.checked, errors: res.errors });
+      report.push({ id: b.id, title: b.title, artist: b.artist, album: b.album || null, people: res.people, checked: res.checked, wiki: res.wiki, errors: res.errors });
       if (!opt.json) printArrangers(input, res);
     }
     if (opt.out) fs.writeFileSync(path.resolve(opt.out), JSON.stringify(report, null, 2) + '\n');
