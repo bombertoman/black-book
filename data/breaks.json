@@ -636,6 +636,22 @@
     "ubb": "14"
   },
   {
+    "id": "body-chains-eddie-parker",
+    "title": "Body Chains",
+    "artist": "Eddie Parker",
+    "release": "45 giri Prodigal PLP 0617F (1975): versione cantata sul lato A, strumentale sul lato B (3:14 ciascuna)",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Jack Ashford"
+    ],
+    "labels": [
+      "Prodigal"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "bongo-rock-incredible-bongo-band",
     "title": "Bongo Rock",
     "artist": "Incredible Bongo Band",
@@ -1034,7 +1050,8 @@
       "Harvey Mason"
     ],
     "producers": [
-      "Larry e Fonce Mizell"
+      "Larry Mizell",
+      "Fonce Mizell"
     ],
     "arrangers": [
       "Larry Mizell"
@@ -4166,6 +4183,25 @@
     "ubb": "8"
   },
   {
+    "id": "instant-death-eddie-harris",
+    "title": "Instant Death",
+    "artist": "Eddie Harris",
+    "release": "45 giri Atlantic 45-5115 (1972), lato A (3:07), lato B A Little Wes: versione accorciata del brano dell'LP Instant Death (Atlantic SD 1611, 1972), lato A, traccia 1 (5:45)",
+    "year": 1972,
+    "drummers": [
+      "Billy James"
+    ],
+    "drummerText": "Billy James (crediti dell'LP Instant Death)",
+    "producers": [
+      "Eddie Harris",
+      "Marvin Lagunoff"
+    ],
+    "labels": [
+      "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "it-s-a-new-day-skull-snaps",
     "title": "It's a New Day",
     "artist": "Skull Snaps",
@@ -6984,8 +7020,10 @@
       "Harvey Mason"
     ],
     "producers": [
-      "Larry e Fonce Mizell"
+      "Larry Mizell",
+      "Fonce Mizell"
     ],
+    "producerText": "Larry Mizell e Fonce Mizell (sul disco Larry & Fonce Mizell)",
     "arrangers": [
       "Larry Mizell"
     ],
@@ -7826,6 +7864,25 @@
     "type": "documentato"
   },
   {
+    "id": "summertime-blues-eddie-cochran",
+    "title": "Summertime Blues",
+    "artist": "Eddie Cochran",
+    "release": "45 giri Liberty F-55144 (1958), lato A (1:53), lato B Love Again; registrato il 28 marzo 1958 ai Gold Star Studios. Ristampato su 45 giri Liberty 54503 (1962) con Teenage Heaven sul lato B",
+    "year": 1958,
+    "drummers": [
+      "Earl Palmer"
+    ],
+    "drummerText": "Earl Palmer (secondo Wikipedia)",
+    "producers": [
+      "Eddie Cochran"
+    ],
+    "producerText": "Eddie Cochran (secondo Wikipedia)",
+    "labels": [
+      "Liberty"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "super-punk-charlie-drake",
     "title": "Super Punk",
     "artist": "Charlie Drake",
@@ -8351,6 +8408,22 @@
     "type": "documentato"
   },
   {
+    "id": "tortilla-flats-eddie-cano",
+    "title": "Tortilla Flats",
+    "artist": "Eddie Cano",
+    "release": "45 giri Reprise 0382 (1965), in due parti: Part I sul lato A, Part II sul lato B (2:38 ciascuna)",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Sonny Burke"
+    ],
+    "labels": [
+      "Reprise"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "touch-me-all-night-long-wish-e-fonda-rae",
     "title": "Touch Me (All Night Long)",
     "artist": "Wish e Fonda Rae",
@@ -8525,6 +8598,24 @@
     "producerText": "Frank Virtue (sul disco Virtue-Stiles)",
     "labels": [
       "Virtue"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "two-by-two-eddie-fisher",
+    "title": "Two by Two",
+    "artist": "Eddie Fisher",
+    "release": "45 giri Vanessa 106 (1969), lato A (2:37), lato B The Third Cup; sull'LP The Third Cup (Cadet LPS-828, 1969), lato B, traccia 1, c'è una versione più lunga (3:20)",
+    "year": 1969,
+    "drummers": [
+      "Kenny Rice"
+    ],
+    "drummerText": "Kenny Rice (crediti del 45 giri)",
+    "producers": [
+      "Oliver Sain"
+    ],
+    "labels": [
+      "Vanessa"
     ],
     "type": "documentato"
   },
