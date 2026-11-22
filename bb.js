@@ -18,7 +18,7 @@ const HELP = `Black Book – drum breaks
   node bb.js serve [porta]                        avvia la webapp in locale (default 4173)
   node bb.js arr "Artista" "Titolo" ["Album o singolo"]   cerca chi ha arrangiato un brano (Discogs, MusicBrainz, Wikipedia)
   node bb.js arr --id <id>                        stessa ricerca per un break del database (usa le sue pagine Discogs)
-  node bb.js arr --missing [--from N] [--limit N] [--out file.json]   ricerca per i break senza arrangiatore
+  node bb.js arr --missing [--from N] [--limit N] [--jobs 2] [--out file.json]   ricerca per i break senza arrangiatore
 
 Opzioni di arr: --discogs <url release o master>   --only discogs,musicbrainz,wikipedia   --json
   Wikipedia fa da spareggio: solo se Discogs e MusicBrainz non sono d'accordo, o sono vuoti e il break è su un album.
@@ -92,6 +92,7 @@ function printArrangers(input, res) {
     console.log(`  ${p.name || '(nome da leggere)'}`);
     for (const c of p.credits) console.log(`    ${c.source} · ${c.scope} · ${c.role} · ${c.where}\n      ${c.url}`);
   }
+  if (res.skipped && res.skipped.length) console.log('  Scartati, non riguardano la batteria: ' + res.skipped.map((c) => `${c.name || '?'} (${c.role.slice(0, 60)})`).join('; '));
   if (res.checked.length) console.log('  Pagine controllate:\n' + res.checked.map((c) => `    ${c.source}: ${c.what}${c.track ? ` – ${c.track}` : ''}  ${c.url || ''}`).join('\n'));
   if (res.wiki) console.log(`  Wikipedia: ${res.wiki}`);
   for (const e of res.errors) console.log(`  ERRORE ${e}`);
@@ -108,14 +109,25 @@ async function arrangers(pos, opt) {
     const all = store.read('breaks').filter((b) => !(b.arrangers && b.arrangers.length) && !b.arrangerText);
     const from = Number(opt.from) || 0, limit = Number(opt.limit) || 10;
     const srcs = store.read('sources');
-    const report = [];
-    for (const b of all.slice(from, from + limit)) {
-      const input = { artist: b.artist, title: b.title, release: b.album, discogsRefs: discogsRefsFor(b, srcs) };
-      const res = await one(input);
-      report.push({ id: b.id, title: b.title, artist: b.artist, album: b.album || null, people: res.people, checked: res.checked, wiki: res.wiki, errors: res.errors });
-      if (!opt.json) printArrangers(input, res);
-    }
-    if (opt.out) fs.writeFileSync(path.resolve(opt.out), JSON.stringify(report, null, 2) + '\n');
+    const list = all.slice(from, from + limit);
+    // Several breaks at once (--jobs, default 2): while one waits for a site, another uses a different one.
+    // Each site still gets one request at a time (see lib/arrangers.js), so its limits hold.
+    const jobs = Math.max(1, Number(opt.jobs) || 2);
+    const slots = [];
+    let next = 0;
+    const work = async () => {
+      while (next < list.length) {
+        const i = next++, b = list[i];
+        const input = { artist: b.artist, title: b.title, release: b.album, drummers: b.drummers, discogsRefs: discogsRefsFor(b, srcs) };
+        const res = await one(input);
+        slots[i] = { id: b.id, title: b.title, artist: b.artist, album: b.album || null, people: res.people, skipped: res.skipped, checked: res.checked, wiki: res.wiki, errors: res.errors };
+        if (!opt.json) printArrangers(input, res);
+        // Saved after every break, in list order: a long run that stops halfway keeps what it found.
+        if (opt.out) fs.writeFileSync(path.resolve(opt.out), JSON.stringify(slots.filter(Boolean), null, 2) + '\n');
+      }
+    };
+    await Promise.all(Array.from({ length: jobs }, work));
+    const report = slots.filter(Boolean);
     if (opt.json) console.log(JSON.stringify(report, null, 2));
     console.error(`\n${report.length} break esaminati (da ${from} a ${from + report.length - 1} su ${all.length} senza arrangiatore)${opt.out ? `, rapporto in ${opt.out}` : ''}`);
     return;
@@ -125,7 +137,7 @@ async function arrangers(pos, opt) {
   if (opt.id) {
     const b = store.read('breaks').find((x) => x.id === opt.id);
     if (!b) throw new Error(`Nessun break con id "${opt.id}"`);
-    input = { artist: b.artist, title: b.title, release: b.album, discogsRefs: discogsRefsFor(b, store.read('sources')) };
+    input = { artist: b.artist, title: b.title, release: b.album, drummers: b.drummers, discogsRefs: discogsRefsFor(b, store.read('sources')) };
   } else {
     if (pos.length < 2) throw new Error('Uso: arr "Artista" "Titolo" ["Album o singolo"]  oppure  arr --id <id>');
     input = { artist: pos[0], title: pos[1], release: pos[2] };

@@ -35,7 +35,7 @@ node bb.js help           # tutti i comandi
 Campi: `title`, `artist`, `release`, `album`, `year`, `drummers`, `producers`, `arrangers`, `labels` (array oppure nomi separati da `;`),
 `drummerText` / `producerText` / `arrangerText` / `labelText` (testo libero con note), `type` (`famoso`, `documentato`, `scoperta`), `ubb`.
 Valgono anche i nomi italiani (`brano`, `artista`, `disco`, `anno`, `batterista`, `produttore`, `arrangiatore`, `etichetta`, `tipo`).
-`arrangers` è facoltativo: chi ha arrangiato il brano ("arr." sul disco).
+`arrangers` è facoltativo: chi ha arrangiato il brano ("arr." sul disco), solo l'arrangiamento generale o ritmico, non archi, fiati o voci.
 
 ### Cercare gli arrangiatori
 
@@ -44,6 +44,15 @@ node bb.js arr "Tower of Power" "Squib Cakes" "Back to Oakland"   # artista, tit
 node bb.js arr --id squib-cakes-tower-of-power                     # un break del database
 node bb.js arr --missing --limit 10 --out arr.json                 # i break senza arrangiatore, 10 alla volta
 ```
+
+Con `--missing` cerca 2 break alla volta (`--jobs N` per cambiare): ogni sito riceve comunque una richiesta per volta, nei suoi limiti.
+Il rapporto `--out` viene salvato dopo ogni break, quindi un giro lungo interrotto a metà non perde niente.
+
+Il Black Book è sulla batteria: contano solo gli arrangiamenti che la riguardano, cioè quello generale del brano o quello ritmico.
+I crediti solo per archi, fiati, voci, sintetizzatori o orchestra ("Arranged By [Strings]", "vocal arranger") vengono scartati ed elencati a parte.
+Eccezione: chi è anche batterista del disco si tiene.
+Se l'album accredita più arrangiatori senza dire chi ha fatto quale brano, i nomi vanno solo in `arrangerText`
+("Non si sa chi: l'album accredita X e Y"), così non contano nel calore.
 
 Cerca su Discogs (crediti del brano e del disco) e MusicBrainz (relazioni "arranger") insieme.
 Wikipedia (righe del personale con "arrang") aggiunge di rado nomi nuovi, quindi fa da spareggio: viene consultata solo se
