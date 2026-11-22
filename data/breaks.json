@@ -554,6 +554,11 @@
     "drummerText": "Non trovato",
     "producers": [],
     "producerText": "Non trovato",
+    "arrangers": [
+      "Horace Ott",
+      "Wilbur Bascomb"
+    ],
+    "arrangerText": "Horace Ott e Wilbur Bascomb (crediti dell'album)",
     "labels": [
       "Paramount"
     ],
@@ -575,6 +580,10 @@
     "producers": [
       "Adrian Barber"
     ],
+    "arrangers": [
+      "The Allman Brothers Band"
+    ],
+    "arrangerText": "The Allman Brothers Band (crediti dell'album: tutti gli arrangiamenti)",
     "labels": [
       "Capricorn (Atco)"
     ],
@@ -594,6 +603,13 @@
       "Ronnie Williams"
     ],
     "producerText": "David Porter e Ronnie Williams (crediti per brano)",
+    "arrangers": [
+      "Dale Warren",
+      "Onzie Horn",
+      "Ronnie Williams",
+      "David Porter"
+    ],
+    "arrangerText": "Dale Warren, Onzie Horn (sul disco Onzie Horne), Ronnie Williams e David Porter (crediti del brano)",
     "labels": [
       "Volt (Stax)"
     ],
@@ -615,6 +631,10 @@
       "James Brown"
     ],
     "producerText": "James Brown (non accreditato)",
+    "arrangers": [
+      "James Brown"
+    ],
+    "arrangerText": "James Brown (secondo MusicBrainz)",
     "labels": [
       "People"
     ],
@@ -656,6 +676,13 @@
     ],
     "producers": [],
     "producerText": "Non indicato",
+    "arrangers": [
+      "Wayne Garfield",
+      "Harry Whitaker",
+      "Roy Ayers",
+      "Pat Rebillot"
+    ],
+    "arrangerText": "Wayne Garfield e Harry Whitaker (crediti del brano); Roy Ayers e Pat Rebillot (sintetizzatori) nei crediti dell'album",
     "labels": [
       "Polydor"
     ],
