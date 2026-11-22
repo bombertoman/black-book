@@ -250,10 +250,10 @@
     "producers": [],
     "producerText": "Non indicato",
     "arrangers": [
-      "G. Sorio",
-      "R. Bobbio"
+      "Giancarlo Sorio",
+      "Reddy Bobbio"
     ],
-    "arrangerText": "G. Sorio e R. Bobbio (crediti del disco, nomi abbreviati)",
+    "arrangerText": "Giancarlo Sorio e Reddy Bobbio (crediti del brano, sul disco G. Sorio e R. Bobbio)",
     "labels": [
       "Durium"
     ],
@@ -555,10 +555,9 @@
     "producers": [],
     "producerText": "Non trovato",
     "arrangers": [
-      "Horace Ott",
-      "Wilbur Bascomb"
+      "Horace Ott"
     ],
-    "arrangerText": "Horace Ott e Wilbur Bascomb (crediti dell'album)",
+    "arrangerText": "Horace Ott (crediti del 45 giri e dell'album); l'album accredita anche Wilbur Bascomb",
     "labels": [
       "Paramount"
     ],
@@ -679,10 +678,9 @@
     "arrangers": [
       "Wayne Garfield",
       "Harry Whitaker",
-      "Roy Ayers",
-      "Pat Rebillot"
+      "Roy Ayers"
     ],
-    "arrangerText": "Wayne Garfield e Harry Whitaker (crediti del brano); Roy Ayers e Pat Rebillot (sintetizzatori) nei crediti dell'album",
+    "arrangerText": "Wayne Garfield e Harry Whitaker (crediti del brano); Roy Ayers (crediti dell'album)",
     "labels": [
       "Polydor"
     ],
@@ -1044,6 +1042,10 @@
     "producers": [
       "Larry e Fonce Mizell"
     ],
+    "arrangers": [
+      "Larry Mizell"
+    ],
+    "arrangerText": "Larry Mizell (crediti del brano)",
     "labels": [
       "Blue Note"
     ],
@@ -1112,6 +1114,10 @@
     "producers": [
       "Angelo Di Pippo"
     ],
+    "arrangers": [
+      "Angelo Di Pippo"
+    ],
+    "arrangerText": "Angelo Di Pippo (crediti dell'album)",
     "labels": [
       "Fiesta"
     ],
@@ -1319,6 +1325,10 @@
       "Bob Smith",
       "Mark Taylor"
     ],
+    "arrangers": [
+      "Bob Smith"
+    ],
+    "arrangerText": "Bob Smith (crediti dell'album)",
     "labels": [
       "Kent"
     ],
@@ -1338,6 +1348,10 @@
     "drummerText": "Phillip White o Michael Baxter: uno dei due (batteristi del gruppo secondo la biografia su Last.fm)",
     "producers": [],
     "producerText": "Non trovato",
+    "arrangers": [
+      "Brother Soul"
+    ],
+    "arrangerText": "Brother Soul (crediti dell'album)",
     "labels": [
       "Leo Mini"
     ],
@@ -1377,6 +1391,10 @@
     "producers": [
       "Michael Stokes"
     ],
+    "arrangers": [
+      "Paul Riser"
+    ],
+    "arrangerText": "Paul Riser (crediti dell'album)",
     "labels": [
       "Sussex"
     ],
@@ -1450,6 +1468,11 @@
     "drummerText": "Tullio De Piscopo (crediti dell'album)",
     "producers": [],
     "producerText": "Non indicato",
+    "arrangers": [
+      "Giancarlo Sorio",
+      "Reddy Bobbio"
+    ],
+    "arrangerText": "Giancarlo Sorio e Reddy Bobbio (crediti del brano, sul disco G. Sorio e R. Bobbio)",
     "labels": [
       "Durium"
     ],
@@ -1465,6 +1488,10 @@
     "drummerText": "Non confermato",
     "producers": [],
     "producerText": "Non trovato",
+    "arrangers": [
+      "Ronald LaPread"
+    ],
+    "arrangerText": "Ronald LaPread (sul disco Ron LaPread), crediti del brano",
     "labels": [
       "Parachute"
     ],
@@ -1569,6 +1596,10 @@
     "producers": [
       "Backa Hans Eriksson"
     ],
+    "arrangers": [
+      "Backa Hans Eriksson"
+    ],
+    "arrangerText": "Backa Hans Eriksson (crediti dell'album)",
     "labels": [
       "AT-Production"
     ],
@@ -1586,6 +1617,10 @@
     "producers": [
       "Stan Watson"
     ],
+    "arrangers": [
+      "Sound Experience"
+    ],
+    "arrangerText": "Sound Experience (crediti del brano)",
     "labels": [
       "Soulville"
     ],
@@ -1609,6 +1644,10 @@
     "producers": [
       "Buck Herring"
     ],
+    "arrangers": [
+      "Michael Omartian"
+    ],
+    "arrangerText": "Michael Omartian (archi e fiati di tutto l'album tranne I Don't Wanna Go Home, secondo Wikipedia; è anche uno dei batteristi dell'album)",
     "labels": [
       "Myrrh (Word)"
     ],
@@ -1626,6 +1665,10 @@
     ],
     "producers": [],
     "producerText": "Non accreditato",
+    "arrangers": [
+      "Johnny Cameron"
+    ],
+    "arrangerText": "Johnny Cameron (secondo MusicBrainz)",
     "labels": [
       "Twinight"
     ],
@@ -1681,6 +1724,10 @@
     "producers": [
       "Lorraine Chandler"
     ],
+    "arrangers": [
+      "Jack Ashford"
+    ],
+    "arrangerText": "Jack Ashford (crediti del brano)",
     "labels": [
       "Spectrum"
     ],
@@ -1778,6 +1825,10 @@
     "producers": [
       "Bones Howe"
     ],
+    "arrangers": [
+      "Mike Melvoin"
+    ],
+    "arrangerText": "Mike Melvoin (crediti del brano)",
     "labels": [
       "A&M"
     ],
@@ -1797,6 +1848,10 @@
     "producers": [
       "Norman Whitfield"
     ],
+    "arrangers": [
+      "Norman Whitfield"
+    ],
+    "arrangerText": "Norman Whitfield (crediti dell'album)",
     "labels": [
       "Whitfield"
     ],
@@ -1845,6 +1900,10 @@
     "drummerText": "Non accreditato",
     "producers": [],
     "producerText": "Non accreditato",
+    "arrangers": [
+      "Sammy Lowe"
+    ],
+    "arrangerText": "Sammy Lowe (crediti del brano)",
     "labels": [
       "Limelight"
     ],
@@ -1863,6 +1922,7 @@
     "producers": [
       "Vince Montana Jr."
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Fat Larry's Band e Vince Montana Jr. (sul disco Vincent Montana Jr.)",
     "labels": [
       "WMOT"
     ],
@@ -1988,6 +2048,10 @@
       "Emilio Castillo",
       "Tower of Power"
     ],
+    "arrangers": [
+      "Chester Thompson"
+    ],
+    "arrangerText": "Chester Thompson (crediti del brano)",
     "labels": [
       "Warner Bros."
     ],
@@ -2006,6 +2070,10 @@
     "producers": [
       "Kool & the Gang"
     ],
+    "arrangers": [
+      "Kool & the Gang"
+    ],
+    "arrangerText": "Kool & the Gang (crediti del brano)",
     "labels": [
       "De-Lite"
     ],
@@ -2039,6 +2107,11 @@
     "producers": [
       "Don Davis"
     ],
+    "arrangers": [
+      "David Van DePitte",
+      "Rudy Robinson"
+    ],
+    "arrangerText": "David Van DePitte (sul disco David Van De Pitte), crediti del brano; Rudy Robinson (crediti dell'album)",
     "labels": [
       "Columbia"
     ],
@@ -2056,6 +2129,10 @@
     "producers": [
       "Billy Davis"
     ],
+    "arrangers": [
+      "Phil Wright"
+    ],
+    "arrangerText": "Phil Wright (crediti del 45 giri)",
     "labels": [
       "Chess"
     ],
@@ -2076,11 +2153,9 @@
       "Luther Vandross"
     ],
     "arrangers": [
-      "Marcus Miller",
-      "Luther Vandross",
-      "Aretha Franklin"
+      "Marcus Miller"
     ],
-    "arrangerText": "Marcus Miller (arrangiamento ritmico); Luther Vandross e Aretha Franklin (arrangiamento vocale)",
+    "arrangerText": "Marcus Miller (arrangiamento ritmico)",
     "labels": [
       "Arista"
     ],
@@ -2248,6 +2323,10 @@
     "producers": [
       "Allen Toussaint"
     ],
+    "arrangers": [
+      "Allen Toussaint"
+    ],
+    "arrangerText": "Allen Toussaint (crediti del brano)",
     "labels": [
       "Reprise"
     ],
@@ -2267,6 +2346,7 @@
     "producers": [
       "Hugh McCracken"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Artie Kornfeld e Hugh McCracken (sul disco Hughie McCracken)",
     "labels": [
       "Dunhill (ABC)"
     ],
@@ -2370,6 +2450,10 @@
     "producers": [
       "L.J.F. Production"
     ],
+    "arrangers": [
+      "Fred Kibble"
+    ],
+    "arrangerText": "Fred Kibble (crediti del 45 giri)",
     "labels": [
       "Ovide"
     ],
@@ -2391,6 +2475,10 @@
       "Robert Margouleff"
     ],
     "producerText": "The Isley Brothers, con Malcolm Cecil e Robert Margouleff",
+    "arrangers": [
+      "The Isley Brothers"
+    ],
+    "arrangerText": "The Isley Brothers (Ernie, Marvin, O'Kelly, Ronald e Rudolph Isley e Chris Jasper), crediti dell'album",
     "labels": [
       "T-Neck"
     ],
@@ -2426,6 +2514,10 @@
     "producers": [
       "McKinley Jackson"
     ],
+    "arrangers": [
+      "McKinley Jackson"
+    ],
+    "arrangerText": "McKinley Jackson (sul disco M. Jackson), crediti dell'album",
     "labels": [
       "Hot Wax"
     ],
@@ -2462,6 +2554,10 @@
     "producers": [
       "Eddie Davis"
     ],
+    "arrangers": [
+      "Harry Scorzo Jr."
+    ],
+    "arrangerText": "Harry Scorzo Jr. (crediti del brano)",
     "labels": [
       "Rampart"
     ],
@@ -2499,6 +2595,11 @@
       "Joe Tate"
     ],
     "producerText": "Carroll Hynson e Joe Tate (probabile: in etichetta \"C. Hynson e J. Tate\")",
+    "arrangers": [
+      "Carroll Hynson",
+      "Joe Tate"
+    ],
+    "arrangerText": "Carroll Hynson (sul disco C. Hynson) e Joe Tate (sul disco J. Tate), crediti del 45 giri",
     "labels": [
       "Abet"
     ],
@@ -2518,6 +2619,11 @@
     "producers": [
       "James Brown"
     ],
+    "arrangers": [
+      "Fred Wesley",
+      "James Brown"
+    ],
+    "arrangerText": "Fred Wesley e James Brown (crediti del brano)",
     "labels": [
       "Polydor"
     ],
@@ -2537,6 +2643,10 @@
     "producers": [
       "Alphonse Mouzon"
     ],
+    "arrangers": [
+      "Alphonse Mouzon"
+    ],
+    "arrangerText": "Alphonse Mouzon (crediti dell'album)",
     "labels": [
       "Blue Note"
     ],
@@ -2555,6 +2665,7 @@
     "producers": [
       "Mac & Mac"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita J. Johnithis, Richard Evans, Richard Shann (sul disco R. Shann) e Sam D. Byrd",
     "labels": [
       "Gold Plate"
     ],
@@ -2575,6 +2686,10 @@
       "Kenneth Gamble",
       "Leon Huff"
     ],
+    "arrangers": [
+      "Bobby Martin"
+    ],
+    "arrangerText": "Bobby Martin (crediti del brano)",
     "labels": [
       "Atlantic"
     ],
@@ -2592,6 +2707,7 @@
     "drummerText": "Non accreditato",
     "producers": [],
     "producerText": "Non accreditato (\"Green-Jack Productions\"; arrangiamento e direzione di Bobby Scott)",
+    "arrangerText": "Non si sa chi: l'album accredita Chuck Jackson e Bobby Scott",
     "labels": [
       "Wand (Scepter)"
     ],
@@ -2611,6 +2727,10 @@
       "Allen Toussaint",
       "Marshall Sehorn"
     ],
+    "arrangers": [
+      "Allen Toussaint"
+    ],
+    "arrangerText": "Allen Toussaint (crediti del brano)",
     "labels": [
       "Bell"
     ],
@@ -2631,6 +2751,10 @@
       "Allen Toussaint",
       "Marshall Sehorn"
     ],
+    "arrangers": [
+      "Allen Toussaint"
+    ],
+    "arrangerText": "Allen Toussaint (crediti del 45 giri)",
     "labels": [
       "Amy"
     ],
@@ -2731,6 +2855,11 @@
       "Laurin Rinder",
       "W. Michael Lewis"
     ],
+    "arrangers": [
+      "Laurin Rinder",
+      "W. Michael Lewis"
+    ],
+    "arrangerText": "Laurin Rinder e W. Michael Lewis (Rinder & Lewis, sul disco Rinlew Prod. Co. Inc.), crediti del disco",
     "labels": [
       "AVI"
     ],
@@ -2774,6 +2903,10 @@
     "producers": [
       "Jeff Beck"
     ],
+    "arrangers": [
+      "UPP"
+    ],
+    "arrangerText": "UPP (crediti del brano)",
     "labels": [
       "Epic"
     ],
@@ -2855,6 +2988,7 @@
     "producers": [
       "Bones Howe"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Ray Pohlman e Bones Howe",
     "labels": [
       "Soul City"
     ],
@@ -2893,6 +3027,11 @@
       "David Paich",
       "Marty Paich"
     ],
+    "arrangers": [
+      "Marty Paich",
+      "David Paich"
+    ],
+    "arrangerText": "Marty Paich e David Paich (crediti dell'album)",
     "labels": [
       "Columbia"
     ],
@@ -2947,6 +3086,10 @@
     "producers": [
       "John Davis"
     ],
+    "arrangers": [
+      "John Davis"
+    ],
+    "arrangerText": "John Davis (crediti del disco)",
     "labels": [
       "SAM"
     ],
@@ -3007,6 +3150,10 @@
       "T-Connection"
     ],
     "producerText": "Alex Sadkin, Cory Wade e i T-Connection",
+    "arrangers": [
+      "T-Connection"
+    ],
+    "arrangerText": "T-Connection (crediti dell'album)",
     "labels": [
       "Dash (TK)"
     ],
@@ -3026,6 +3173,11 @@
     "producers": [
       "James Brown"
     ],
+    "arrangers": [
+      "James Brown",
+      "The J.B.'s"
+    ],
+    "arrangerText": "James Brown e The J.B.'s (secondo MusicBrainz)",
     "labels": [
       "King"
     ],
@@ -3066,6 +3218,10 @@
     "producers": [
       "Tom Wilson"
     ],
+    "arrangers": [
+      "Benny Golson"
+    ],
+    "arrangerText": "Benny Golson (crediti del brano)",
     "labels": [
       "Verve"
     ],
@@ -3083,6 +3239,11 @@
     "producers": [
       "Cecil Womack"
     ],
+    "arrangers": [
+      "Cecil Womack",
+      "Rudy Robinson"
+    ],
+    "arrangerText": "Cecil Womack e Rudy Robinson (crediti del brano)",
     "labels": [
       "ABC"
     ],
@@ -3214,6 +3375,11 @@
       "Benny Andersson",
       "Björn Ulvaeus"
     ],
+    "arrangers": [
+      "Benny Andersson",
+      "Björn Ulvaeus"
+    ],
+    "arrangerText": "Benny Andersson e Björn Ulvaeus (crediti dell'album su Discogs, del brano su MusicBrainz)",
     "labels": [
       "Polar"
     ],
@@ -3231,6 +3397,7 @@
     "producers": [
       "AJL Band"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Ardo Guerzo (sul disco Ador Guerzo) e Jeremiah Star",
     "labels": [
       "Best of Everything (Pye)"
     ],
@@ -3334,6 +3501,10 @@
     "producers": [
       "David Axelrod"
     ],
+    "arrangers": [
+      "David Axelrod"
+    ],
+    "arrangerText": "David Axelrod (crediti del brano)",
     "labels": [
       "Capitol"
     ],
@@ -3353,6 +3524,10 @@
       "Jimmy Miller"
     ],
     "producerText": "Jimmy Miller, che suona il campanaccio",
+    "arrangers": [
+      "The Rolling Stones"
+    ],
+    "arrangerText": "The Rolling Stones (crediti del brano)",
     "labels": [
       "Decca",
       "London"
@@ -3373,6 +3548,10 @@
       "Al Scramuzza"
     ],
     "producerText": "Al Scramuzza (arrangiamento di Eddie Bo)",
+    "arrangers": [
+      "Eddie Bo"
+    ],
+    "arrangerText": "Eddie Bo (crediti del 45 giri)",
     "labels": [
       "Scram"
     ],
@@ -3485,6 +3664,10 @@
     "producers": [
       "Creed Taylor"
     ],
+    "arrangers": [
+      "Bob James"
+    ],
+    "arrangerText": "Bob James (crediti del brano)",
     "labels": [
       "Kudu (CTI)"
     ],
@@ -3504,6 +3687,10 @@
     "producers": [
       "Anthony Monn"
     ],
+    "arrangers": [
+      "Charly Ricanek"
+    ],
+    "arrangerText": "Charly Ricanek (sul disco C. Ricanek), crediti del brano",
     "labels": [
       "Chrysalis"
     ],
@@ -3523,6 +3710,10 @@
       "Ronald Bell"
     ],
     "producerText": "Ronald Bell (accreditato come Khalis Bayyan, di Kool & the Gang)",
+    "arrangers": [
+      "Ronald Bell"
+    ],
+    "arrangerText": "Ronald Bell (sul disco Khalis Bayyan), crediti dell'album",
     "labels": [
       "Gang (De-Lite)"
     ],
@@ -3580,6 +3771,11 @@
       "Harry Wayne Casey",
       "Richard Finch"
     ],
+    "arrangers": [
+      "Harry Wayne Casey",
+      "Richard Finch"
+    ],
+    "arrangerText": "Harry Wayne Casey e Richard Finch (sul disco H. W. Casey And Richard Finch), crediti dell'album",
     "labels": [
       "TK"
     ],
@@ -3633,6 +3829,10 @@
     "producers": [
       "James Brown"
     ],
+    "arrangers": [
+      "James Brown"
+    ],
+    "arrangerText": "James Brown (crediti del brano)",
     "labels": [
       "King"
     ],
@@ -3670,6 +3870,10 @@
     "producers": [
       "Walter Murphy"
     ],
+    "arrangers": [
+      "Walter Murphy"
+    ],
+    "arrangerText": "Walter Murphy (crediti dell'album)",
     "labels": [
       "Marlin (TK)"
     ],
@@ -3734,6 +3938,10 @@
     "producers": [
       "Bobby Miller"
     ],
+    "arrangers": [
+      "Charles Stepney"
+    ],
+    "arrangerText": "Charles Stepney (crediti del 45 giri)",
     "labels": [
       "Cadet (Chess)"
     ],
@@ -3775,6 +3983,10 @@
       "Willie Mitchell",
       "Al Green"
     ],
+    "arrangers": [
+      "Charles Chalmers"
+    ],
+    "arrangerText": "Charles Chalmers (crediti dell'album secondo Wikipedia)",
     "labels": [
       "Hi"
     ],
@@ -3816,6 +4028,11 @@
     "producers": [
       "Barry White"
     ],
+    "arrangers": [
+      "Barry White",
+      "Gene Page"
+    ],
+    "arrangerText": "Barry White e Gene Page (crediti del brano su MusicBrainz)",
     "labels": [
       "20th Century"
     ],
@@ -3915,6 +4132,10 @@
     "producers": [
       "Tom Dowd"
     ],
+    "arrangers": [
+      "The Allman Brothers Band"
+    ],
+    "arrangerText": "The Allman Brothers Band (crediti dell'album)",
     "labels": [
       "Capricorn (Atco)"
     ],
@@ -3974,6 +4195,7 @@
     "producers": [
       "George Kerr"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Bert Keyes e Skull Snaps (sul disco The Skull Snaps)",
     "labels": [
       "GSF"
     ],
@@ -4011,6 +4233,7 @@
       "Freddie Perren"
     ],
     "producerText": "The Corporation (probabile): Berry Gordy, Freddie Perren, Fonce Mizell e Deke Richards",
+    "arrangerText": "Non si sa chi: l'album accredita Gene Page, James Anthony Carmichael (sul disco James Carmichael) e The Corporation",
     "labels": [
       "Motown"
     ],
@@ -4033,6 +4256,11 @@
       "John Pruitt"
     ],
     "producerText": "Jimmy Castor e John Pruitt (Castor-Pruitt Productions)",
+    "arrangers": [
+      "Gerry Thomas",
+      "Jimmy Castor"
+    ],
+    "arrangerText": "Gerry Thomas (sul disco G. Thomas) e Jimmy Castor (sul disco J. Castor), crediti del brano",
     "labels": [
       "RCA Victor"
     ],
@@ -4146,6 +4374,10 @@
     "producers": [
       "Larry Graham"
     ],
+    "arrangers": [
+      "Larry Graham"
+    ],
+    "arrangerText": "Larry Graham (crediti dell'album)",
     "labels": [
       "Warner Bros."
     ],
@@ -4352,6 +4584,10 @@
     "producers": [
       "Gregg Diamond"
     ],
+    "arrangers": [
+      "Gregg Diamond"
+    ],
+    "arrangerText": "Gregg Diamond (crediti dell'album)",
     "labels": [
       "Buddah"
     ],
@@ -4584,6 +4820,10 @@
     "drummerText": "Non trovato",
     "producers": [],
     "producerText": "Non trovato",
+    "arrangers": [
+      "Eddie Drennon"
+    ],
+    "arrangerText": "Eddie Drennon (crediti del brano su Your's and Your's Alone; arrangiatore e produttore degli altri dischi Friends & Co. di Esther Williams)",
     "labels": [
       "Friends & Co."
     ],
@@ -4622,6 +4862,10 @@
       "Lew Futterman"
     ],
     "producerText": "Richard Evans e Lew Futterman (sul disco Lou Futterman)",
+    "arrangers": [
+      "Richard Evans"
+    ],
+    "arrangerText": "Richard Evans (crediti del 45 giri)",
     "labels": [
       "Cadet (Chess)"
     ],
@@ -4641,6 +4885,10 @@
       "The Fatback Band"
     ],
     "producerText": "The Fatback Band (autoprodotto)",
+    "arrangers": [
+      "Bill \"Fatback\" Curtis"
+    ],
+    "arrangerText": "Bill \"Fatback\" Curtis (sul disco B. Curtis), crediti del brano",
     "labels": [
       "Event"
     ],
@@ -4732,6 +4980,11 @@
     "producers": [
       "Allen Jones"
     ],
+    "arrangers": [
+      "Bar-Kays",
+      "Allen Jones"
+    ],
+    "arrangerText": "Bar-Kays (sul disco The Bar-Kays) e Allen Jones, crediti dell'album",
     "labels": [
       "Mercury"
     ],
@@ -4752,6 +5005,10 @@
     "producers": [
       "Al Kasha"
     ],
+    "arrangers": [
+      "Frank Hunter"
+    ],
+    "arrangerText": "Frank Hunter (crediti dell'album)",
     "labels": [
       "Epic"
     ],
@@ -4787,6 +5044,10 @@
       "Marshall Chess",
       "Charles Stepney"
     ],
+    "arrangers": [
+      "Charles Stepney"
+    ],
+    "arrangerText": "Charles Stepney (crediti dell'album)",
     "labels": [
       "Cadet Concept (Chess)"
     ],
@@ -4851,6 +5112,10 @@
     "producers": [
       "Ollie McLaughlin"
     ],
+    "arrangers": [
+      "Dale Warren"
+    ],
+    "arrangerText": "Dale Warren (crediti del 45 giri)",
     "labels": [
       "Karen"
     ],
@@ -4904,6 +5169,10 @@
       "Roy Ayers",
       "Maurice Green"
     ],
+    "arrangers": [
+      "Roy Ayers"
+    ],
+    "arrangerText": "Roy Ayers (crediti dell'album)",
     "labels": [
       "Polydor"
     ],
@@ -4944,6 +5213,11 @@
       "Johnnie Mae Matthews"
     ],
     "producerText": "Johnnie Mae Matthews, con Woody Wilson coproduttore",
+    "arrangers": [
+      "ADC Band",
+      "Johnnie Mae Matthews"
+    ],
+    "arrangerText": "ADC Band e Johnnie Mae Matthews (crediti dell'album)",
     "labels": [
       "Cotillion (Atlantic)"
     ],
@@ -4960,6 +5234,10 @@
     "producers": [
       "Peter Sullivan"
     ],
+    "arrangers": [
+      "Keith Mansfield"
+    ],
+    "arrangerText": "Keith Mansfield (crediti del brano)",
     "labels": [
       "Decca",
       "Parrot"
@@ -5061,6 +5339,10 @@
     "producers": [
       "Joe Wissert"
     ],
+    "arrangers": [
+      "David Paich"
+    ],
+    "arrangerText": "David Paich (crediti del brano)",
     "labels": [
       "Columbia"
     ],
@@ -5092,6 +5374,10 @@
     "drummerText": "Non trovato",
     "producers": [],
     "producerText": "Non trovato (sull'album Warren Schatz è accreditato come produttore di un altro brano)",
+    "arrangers": [
+      "Jose P. Soares"
+    ],
+    "arrangerText": "Jose P. Soares (sul disco J.P. Soares, sul 45 giri J. P. Soarez), crediti dell'album",
     "labels": [
       "RCA Victor"
     ],
@@ -5199,6 +5485,10 @@
       "Alan Shacklock",
       "Nick Mobbs"
     ],
+    "arrangers": [
+      "Alan Shacklock"
+    ],
+    "arrangerText": "Alan Shacklock (crediti dell'album)",
     "labels": [
       "Harvest (EMI)",
       "Capitol"
@@ -5239,6 +5529,11 @@
       "Jerry Peters"
     ],
     "producerText": "Keg Johnson e Jerry Peters (crediti dell'album; il 45 giri accredita solo Keg Johnson)",
+    "arrangers": [
+      "Jerry Peters",
+      "Harvey Mason"
+    ],
+    "arrangerText": "Jerry Peters e Harvey Mason (percussioni, sul disco Havey Mason), crediti del brano",
     "labels": [
       "Pride (MGM)"
     ],
@@ -5273,6 +5568,10 @@
     "producers": [
       "Creed Taylor"
     ],
+    "arrangers": [
+      "Bob James"
+    ],
+    "arrangerText": "Bob James (crediti dell'album)",
     "labels": [
       "Kudu (CTI)"
     ],
@@ -5293,6 +5592,12 @@
     "producers": [
       "Roy Thomas Baker"
     ],
+    "arrangers": [
+      "Alice Cooper",
+      "Davey Johnstone",
+      "Fred Mandel"
+    ],
+    "arrangerText": "Alice Cooper, Davey Johnstone e Fred Mandel (crediti del brano)",
     "labels": [
       "Warner Bros."
     ],
@@ -5340,6 +5645,10 @@
     "drummerText": "Non trovato",
     "producers": [],
     "producerText": "Non trovato",
+    "arrangers": [
+      "Jimmie Haskell"
+    ],
+    "arrangerText": "Jimmie Haskell (crediti del brano secondo Wikipedia)",
     "labels": [
       "Atco"
     ],
@@ -5376,6 +5685,10 @@
     "producers": [
       "Bill Traut"
     ],
+    "arrangers": [
+      "Bobby Whiteside"
+    ],
+    "arrangerText": "Bobby Whiteside (crediti del brano)",
     "labels": [
       "Acta (Dot)"
     ],
@@ -5431,6 +5744,10 @@
     "producers": [
       "Gene Redd"
     ],
+    "arrangers": [
+      "Gene Redd Jr."
+    ],
+    "arrangerText": "Gene Redd Jr. (sul disco Gene Redd), crediti dell'album",
     "labels": [
       "De-Lite"
     ],
@@ -5450,6 +5767,10 @@
     "producers": [
       "Creed Taylor"
     ],
+    "arrangers": [
+      "Bob James"
+    ],
+    "arrangerText": "Bob James (crediti dell'album)",
     "labels": [
       "CTI"
     ],
@@ -5484,6 +5805,11 @@
     "producers": [
       "Osborne Hunter"
     ],
+    "arrangers": [
+      "Osborne Hunter",
+      "Steve Boston"
+    ],
+    "arrangerText": "Osborne Hunter e Steve Boston (crediti del disco)",
     "labels": [
       "Land of Hits"
     ],
@@ -5575,6 +5901,7 @@
     "producers": [
       "Shadow Morton"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita George \"Shadow\" Morton (sul disco Shadow Morton) e Meco Monardo",
     "labels": [
       "Mercury"
     ],
@@ -5628,6 +5955,10 @@
     "producers": [
       "Larry Maxwell"
     ],
+    "arrangers": [
+      "Monk Higgins"
+    ],
+    "arrangerText": "Monk Higgins (crediti dell'album)",
     "labels": [
       "Buddah"
     ],
@@ -5715,6 +6046,7 @@
     "producers": [
       "James Brown"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita James Brown e Fred Wesley",
     "labels": [
       "Polydor"
     ],
@@ -5736,6 +6068,10 @@
       "Dave Grusin",
       "Larry Rosen"
     ],
+    "arrangers": [
+      "Dave Grusin"
+    ],
+    "arrangerText": "Dave Grusin (crediti del brano)",
     "labels": [
       "GRP (Arista)"
     ],
@@ -5755,6 +6091,10 @@
       "Laurin Rinder",
       "W. Michael Lewis"
     ],
+    "arrangers": [
+      "W. Michael Lewis"
+    ],
+    "arrangerText": "W. Michael Lewis (crediti dell'album)",
     "labels": [
       "AVI"
     ],
@@ -5813,6 +6153,10 @@
     ],
     "producers": [],
     "producerText": "Non indicato",
+    "arrangers": [
+      "Tullio De Piscopo"
+    ],
+    "arrangerText": "Tullio De Piscopo e il suo gruppo (sul disco Revolt Group), crediti dell'album",
     "labels": [
       "Carosello"
     ],
@@ -5847,6 +6191,10 @@
     "drummerText": "Non trovato",
     "producers": [],
     "producerText": "Non trovato",
+    "arrangers": [
+      "J. James Jarrett"
+    ],
+    "arrangerText": "J. James Jarrett (crediti del disco)",
     "labels": [],
     "labelText": "Non identificata",
     "type": "famoso",
@@ -5929,6 +6277,10 @@
     "producers": [
       "Brian Ahern"
     ],
+    "arrangers": [
+      "Brian Ahern"
+    ],
+    "arrangerText": "Brian Ahern (crediti dell'album)",
     "labels": [
       "Capitol"
     ],
@@ -5970,6 +6322,10 @@
       "James Lowe"
     ],
     "producerText": "Alex Hassilev, con James Lowe coproduttore",
+    "arrangers": [
+      "Paul Lewinson"
+    ],
+    "arrangerText": "Paul Lewinson (crediti del brano)",
     "labels": [
       "Reprise"
     ],
@@ -6027,6 +6383,11 @@
       "Barry Miles",
       "Tony Camillo"
     ],
+    "arrangers": [
+      "Barry Miles",
+      "Tony Camillo"
+    ],
+    "arrangerText": "Barry Miles e Tony Camillo (crediti del 45 giri)",
     "labels": [
       "London"
     ],
@@ -6076,6 +6437,11 @@
     "producers": [
       "Mike Theodore"
     ],
+    "arrangers": [
+      "Dennis Coffey",
+      "Mike Theodore"
+    ],
+    "arrangerText": "Dennis Coffey (crediti del brano); Mike Theodore (crediti dell'album)",
     "labels": [
       "Sussex"
     ],
@@ -6155,10 +6521,6 @@
       "Arif Mardin",
       "Tom Dowd"
     ],
-    "arrangers": [
-      "Tom Dowd"
-    ],
-    "arrangerText": "Tom Dowd (fiati)",
     "labels": [
       "Atlantic"
     ],
@@ -6355,6 +6717,7 @@
     "producers": [
       "James Vanleer"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Benjamin Wright (sul disco Ben Wright), James Vanleer (sul disco Vanleer) e Southside Movement",
     "labels": [
       "20th Century"
     ],
@@ -6374,6 +6737,11 @@
       "Clayton Ivey",
       "Terry Woodford"
     ],
+    "arrangers": [
+      "Clayton Ivey",
+      "Terry Woodford"
+    ],
+    "arrangerText": "Clayton Ivey e Terry Woodford (crediti del brano)",
     "labels": [
       "Motown"
     ],
@@ -6395,6 +6763,10 @@
       "Darrell Glenn",
       "David Anderson"
     ],
+    "arrangers": [
+      "The Abstracts"
+    ],
+    "arrangerText": "The Abstracts (crediti dell'album)",
     "labels": [
       "Pompeii (Atlantic)"
     ],
@@ -6414,6 +6786,10 @@
     "producers": [
       "Alan Price"
     ],
+    "arrangers": [
+      "Alan Price"
+    ],
+    "arrangerText": "Alan Price (crediti dell'album)",
     "labels": [
       "Warner Bros."
     ],
@@ -6454,6 +6830,11 @@
       "August Moon"
     ],
     "producerText": "Tyrone Thomas e August Moon (produttori esecutivi)",
+    "arrangers": [
+      "August Moon",
+      "Tyrone Thomas"
+    ],
+    "arrangerText": "August Moon e Tyrone Thomas (crediti dell'album)",
     "labels": [
       "Soul International"
     ],
@@ -6473,6 +6854,10 @@
       "John H. Stiles"
     ],
     "producerText": "Frank Virtue e John H. Stiles (sul disco Virtue-Stiles)",
+    "arrangers": [
+      "Virtue-Stiles"
+    ],
+    "arrangerText": "Virtue-Stiles (crediti del 45 giri)",
     "labels": [
       "Atlantic"
     ],
@@ -6531,6 +6916,10 @@
       "Johnny Pate"
     ],
     "producerText": "Johnny Pate (crediti dell'album; Steve Barri, Dennis Lambert e Brian Potter per i brani dei Four Tops)",
+    "arrangers": [
+      "Johnny Pate"
+    ],
+    "arrangerText": "Johnny Pate (crediti del brano)",
     "labels": [
       "ABC"
     ],
@@ -6549,6 +6938,10 @@
     "producers": [
       "David Axelrod"
     ],
+    "arrangers": [
+      "Oliver Nelson"
+    ],
+    "arrangerText": "Oliver Nelson (crediti del brano)",
     "labels": [
       "Capitol"
     ],
@@ -6616,6 +7009,10 @@
     "producers": [
       "Larry e Fonce Mizell"
     ],
+    "arrangers": [
+      "Larry Mizell"
+    ],
+    "arrangerText": "Larry Mizell (crediti del brano)",
     "labels": [
       "Milestone"
     ],
@@ -6668,6 +7065,10 @@
     "producers": [
       "Sly Stone"
     ],
+    "arrangers": [
+      "Sly Stone"
+    ],
+    "arrangerText": "Sly Stone (crediti dell'album)",
     "labels": [
       "Epic"
     ],
@@ -6685,6 +7086,10 @@
     "producers": [
       "Jürgen Korduletsch"
     ],
+    "arrangers": [
+      "Thor Baldursson"
+    ],
+    "arrangerText": "Thor Baldursson (crediti dell'album)",
     "labels": [
       "Salsoul"
     ],
@@ -6791,6 +7196,10 @@
     "producers": [
       "Stanley Clarke"
     ],
+    "arrangers": [
+      "Stanley Clarke"
+    ],
+    "arrangerText": "Stanley Clarke (crediti dell'album)",
     "labels": [
       "Nemperor"
     ],
@@ -6810,6 +7219,10 @@
     "producers": [
       "George Martin"
     ],
+    "arrangers": [
+      "George Martin"
+    ],
+    "arrangerText": "George Martin (crediti dell'album)",
     "labels": [
       "Warner Bros."
     ],
@@ -6849,6 +7262,10 @@
     "producers": [
       "Gary Le Mel"
     ],
+    "arrangers": [
+      "American Eagle"
+    ],
+    "arrangerText": "American Eagle (crediti dell'album)",
     "labels": [
       "Decca"
     ],
@@ -6867,6 +7284,10 @@
     "drummerText": "Grady Tate (crediti dell'album, nelle note interne)",
     "producers": [],
     "producerText": "Non accreditato (arrangiamento di Gary McFarland)",
+    "arrangers": [
+      "Gary McFarland"
+    ],
+    "arrangerText": "Gary McFarland (crediti del brano)",
     "labels": [
       "Skye"
     ],
@@ -6885,6 +7306,10 @@
     "producers": [
       "Philippe Rault"
     ],
+    "arrangers": [
+      "Willie Tee"
+    ],
+    "arrangerText": "Willie Tee (crediti del brano)",
     "labels": [
       "Polydor"
     ],
@@ -6960,6 +7385,7 @@
       "Mike Theodore"
     ],
     "producerText": "Dennis Coffey e Mike Theodore (probabile)",
+    "arrangerText": "Non si sa chi: l'album accredita Dennis Coffey e Mike Theodore",
     "labels": [
       "Sussex"
     ],
@@ -6978,6 +7404,10 @@
     "producers": [
       "Jerry Fuller"
     ],
+    "arrangers": [
+      "H.B. Barnum"
+    ],
+    "arrangerText": "H.B. Barnum (sul disco H. B. Barnum), crediti dell'album",
     "labels": [
       "Rocky Road"
     ],
@@ -7011,6 +7441,10 @@
     "drummerText": "Al Rogers (crediti dell'album)",
     "producers": [],
     "producerText": "Non accreditato (musiche di Al Kooper, arrangiamento di Charles Calello)",
+    "arrangers": [
+      "Charlie Calello"
+    ],
+    "arrangerText": "Charlie Calello (sul disco Charles Calello), crediti del brano",
     "labels": [
       "United Artists"
     ],
@@ -7045,6 +7479,10 @@
     "producers": [
       "James Brown"
     ],
+    "arrangers": [
+      "Pee Wee Ellis"
+    ],
+    "arrangerText": "Pee Wee Ellis (sul disco Alfred Ellis), crediti dell'album",
     "labels": [
       "King"
     ],
@@ -7081,6 +7519,10 @@
     "producers": [
       "Richard Evans"
     ],
+    "arrangers": [
+      "Richard Evans"
+    ],
+    "arrangerText": "Richard Evans (crediti del brano)",
     "labels": [
       "Cadet (Chess)"
     ],
@@ -7240,6 +7682,10 @@
     "producers": [
       "Tower of Power"
     ],
+    "arrangers": [
+      "Chester Thompson"
+    ],
+    "arrangerText": "Chester Thompson (crediti del brano)",
     "labels": [
       "Warner Bros."
     ],
@@ -7261,6 +7707,10 @@
       "Creed Taylor"
     ],
     "producerText": "Creed Taylor (probabile: produttore della CTI)",
+    "arrangers": [
+      "David Matthews"
+    ],
+    "arrangerText": "David Matthews (secondo MusicBrainz)",
     "labels": [
       "CTI"
     ],
@@ -7475,6 +7925,7 @@
     "producers": [
       "AJL Band"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Ardo Guerzo (sul disco Ador Guerzo) e Jeremiah Star",
     "labels": [
       "Best of Everything (Pye)"
     ],
@@ -7565,6 +8016,10 @@
     "producers": [
       "Marvin Gaye"
     ],
+    "arrangers": [
+      "Jerry Long"
+    ],
+    "arrangerText": "Jerry Long (crediti del brano)",
     "labels": [
       "Tamla (Motown)"
     ],
@@ -7581,6 +8036,10 @@
     "drummerText": "Non accreditato",
     "producers": [],
     "producerText": "Non accreditato (\"Produced by A.S.R.\"; arrangiamento e direzione di Ernest Smith)",
+    "arrangers": [
+      "Ernest Smith"
+    ],
+    "arrangerText": "Ernest Smith (crediti del 45 giri)",
     "labels": [
       "Jan Ell"
     ],
@@ -7618,6 +8077,10 @@
     "producers": [
       "Creed Taylor"
     ],
+    "arrangers": [
+      "Bob James"
+    ],
+    "arrangerText": "Bob James (crediti del brano)",
     "labels": [
       "CTI"
     ],
@@ -7639,6 +8102,7 @@
     "producers": [
       "McKinley Jackson"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Gene Page, H.B. Barnum, McKinley Jackson e Paul Riser",
     "labels": [
       "ABC"
     ],
@@ -7680,6 +8144,10 @@
       "Tullio De Piscopo",
       "Willy David"
     ],
+    "arrangers": [
+      "François Bréant"
+    ],
+    "arrangerText": "François Bréant (sul disco Francois Breant), crediti dell'album",
     "labels": [
       "Costa Est (EMI)"
     ],
@@ -7717,6 +8185,10 @@
       "Michael Omartian",
       "Steve Barri"
     ],
+    "arrangers": [
+      "Michael Omartian"
+    ],
+    "arrangerText": "Michael Omartian (secondo MusicBrainz)",
     "labels": [
       "ABC"
     ],
@@ -7737,6 +8209,10 @@
     "producers": [
       "Dexter Wansel"
     ],
+    "arrangers": [
+      "Dexter Wansel"
+    ],
+    "arrangerText": "Dexter Wansel (crediti del brano)",
     "labels": [
       "Philadelphia International"
     ],
@@ -7794,6 +8270,10 @@
       "Sly Stone"
     ],
     "producerText": "Sly Stone (come Sylvester Stewart)",
+    "arrangers": [
+      "Ron Elliott"
+    ],
+    "arrangerText": "Ron Elliott (crediti dell'album)",
     "labels": [
       "Autumn"
     ],
@@ -7812,6 +8292,10 @@
     "producers": [
       "James Brown"
     ],
+    "arrangers": [
+      "James Brown"
+    ],
+    "arrangerText": "James Brown (crediti dell'album)",
     "labels": [
       "People"
     ],
@@ -7832,6 +8316,10 @@
     "producers": [
       "Captain Beyond"
     ],
+    "arrangers": [
+      "Captain Beyond"
+    ],
+    "arrangerText": "Captain Beyond (crediti dell'album)",
     "labels": [
       "Capricorn"
     ],
@@ -7866,6 +8354,10 @@
     "producers": [
       "Terry Brown"
     ],
+    "arrangers": [
+      "Alan Tew"
+    ],
+    "arrangerText": "Alan Tew (crediti dell'album)",
     "labels": [
       "Pye"
     ],
@@ -7956,6 +8448,11 @@
       "John Madara",
       "Robert Cupit"
     ],
+    "arrangers": [
+      "Bobby Eli",
+      "Tom Sellers"
+    ],
+    "arrangerText": "Bobby Eli e Tom Sellers (crediti del brano)",
     "labels": [
       "Neptune"
     ],
@@ -7976,6 +8473,10 @@
       "Mike Akopoff"
     ],
     "producerText": "Mike Akopoff (crediti dell'album; arrangiamenti di Maxwell Davis)",
+    "arrangers": [
+      "Maxwell Davis"
+    ],
+    "arrangerText": "Maxwell Davis (crediti dell'album)",
     "labels": [
       "Kent"
     ],
@@ -7996,6 +8497,7 @@
     "producers": [
       "Louis Villery"
     ],
+    "arrangerText": "Non si sa chi: l'album accredita Andy Stroud (sul disco Stroud) e Louis Villery (sul disco Villery)",
     "labels": [
       "Soul Power (Jewel)"
     ],
@@ -8106,6 +8608,11 @@
     "producers": [
       "Eddie Leonetti"
     ],
+    "arrangers": [
+      "Angel",
+      "Eddie Leonetti"
+    ],
+    "arrangerText": "Angel e Eddie Leonetti (crediti del brano)",
     "labels": [
       "Casablanca"
     ],
@@ -8192,6 +8699,11 @@
     "producers": [
       "Jack Douglas"
     ],
+    "arrangers": [
+      "Aerosmith",
+      "Jack Douglas"
+    ],
+    "arrangerText": "Aerosmith e Jack Douglas (crediti del brano)",
     "labels": [
       "Columbia"
     ],
@@ -8296,6 +8808,10 @@
     "producers": [
       "Andrew White"
     ],
+    "arrangers": [
+      "Andrew White"
+    ],
+    "arrangerText": "Andrew White (crediti dell'album)",
     "labels": [
       "Andrew's Music"
     ],
@@ -8393,6 +8909,10 @@
     "drummerText": "John Boudreax Jr., Leslie Milton o Richie Frost: uno dei tre (crediti dell'album; grafie come sul disco)",
     "producers": [],
     "producerText": "Non trovato (prodotto per York-Pala Records; arrangiamento di Harold Battiste)",
+    "arrangers": [
+      "Harold Battiste"
+    ],
+    "arrangerText": "Harold Battiste (crediti del brano)",
     "labels": [
       "Decca"
     ],
@@ -8409,6 +8929,11 @@
     "producers": [
       "Van McCoy"
     ],
+    "arrangers": [
+      "95th Congress",
+      "Van McCoy"
+    ],
+    "arrangerText": "95th Congress e Van McCoy (crediti del 45 giri)",
     "labels": [
       "Sussex"
     ],
@@ -8425,6 +8950,7 @@
     "drummerText": "Non accreditato",
     "producers": [],
     "producerText": "Non accreditato (\"Green-Jack Productions\"; arrangiamento e direzione di Bobby Scott)",
+    "arrangerText": "Non si sa chi: l'album accredita Chuck Jackson e Bobby Scott",
     "labels": [
       "Wand (Scepter)"
     ],
@@ -8445,6 +8971,11 @@
       "Karl Chambers"
     ],
     "producerText": "Roland Chambers e Karl Chambers (probabile: una sola fonte)",
+    "arrangers": [
+      "Karl Chambers",
+      "Roland Chambers"
+    ],
+    "arrangerText": "Karl Chambers (crediti del brano); Roland Chambers (crediti dell'album)",
     "labels": [
       "Gamble"
     ],
@@ -8569,6 +9100,11 @@
       "James Brown"
     ],
     "producerText": "James Brown (arrangiamenti di James Brown e Fred Wesley)",
+    "arrangers": [
+      "Fred Wesley",
+      "James Brown"
+    ],
+    "arrangerText": "Fred Wesley e James Brown (crediti del brano)",
     "labels": [
       "People"
     ],
@@ -8588,6 +9124,10 @@
     "producers": [
       "Alphonse Mouzon"
     ],
+    "arrangers": [
+      "Alphonse Mouzon"
+    ],
+    "arrangerText": "Alphonse Mouzon (crediti dell'album)",
     "labels": [
       "Blue Note"
     ],
@@ -8723,6 +9263,10 @@
     "producers": [
       "Lionel Whitfield"
     ],
+    "arrangers": [
+      "Howard C. Harris"
+    ],
+    "arrangerText": "Howard C. Harris (crediti del brano)",
     "labels": [
       "Excello"
     ],
@@ -8757,6 +9301,10 @@
     "drummerText": "Non accreditato",
     "producers": [],
     "producerText": "Non accreditato",
+    "arrangers": [
+      "Perry Botkin Jr."
+    ],
+    "arrangerText": "Perry Botkin Jr. (secondo MusicBrainz)",
     "labels": [
       "Date"
     ],
