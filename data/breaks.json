@@ -501,6 +501,41 @@
     "type": "documentato"
   },
   {
+    "id": "beg-me-the-five-cards-stud",
+    "title": "Beg Me",
+    "artist": "The Five Cards Stud",
+    "release": "45 giri Smash S-2080 (1967), lato B di Once (2:11)",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Artie Kornfeld"
+    ],
+    "labels": [
+      "Smash (Mercury)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "beggar-man-fanny",
+    "title": "Beggar Man",
+    "artist": "Fanny",
+    "release": "45 giri Casablanca NB 814 (1974), lato B di Butter Boy (4:05); anche sull'LP Rock and Roll Survivors (Casablanca NBLP 7007, 1974), lato B, traccia 2, scritto Begger Man (4:05)",
+    "album": "Rock and Roll Survivors",
+    "year": 1974,
+    "drummers": [
+      "Brie Howard"
+    ],
+    "drummerText": "Brie Howard (crediti dell'album)",
+    "producers": [
+      "Vini Poncia"
+    ],
+    "labels": [
+      "Casablanca"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "behind-the-times-bill-hjerpe",
     "title": "Behind the Times",
     "artist": "Bill Hjerpe",
@@ -595,6 +630,25 @@
     "arrangerText": "The Allman Brothers Band (crediti dell'album: tutti gli arrangiamenti)",
     "labels": [
       "Capricorn (Atco)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "blacksmith-blues-the-fireballs",
+    "title": "Blacksmith Blues",
+    "artist": "The Fireballs",
+    "release": "45 giri Hamilton 45-50036 (marzo 1963), lato A (2:16), lato B Tuff-A-Nuff",
+    "year": 1963,
+    "drummers": [
+      "Doug Roberts"
+    ],
+    "drummerText": "Doug Roberts (probabile: secondo Wikipedia era entrato al posto di Eric Budd all'inizio degli anni '60)",
+    "producers": [
+      "Norman Petty"
+    ],
+    "producerText": "Norman Petty (il brano è tra i suoi master, raccolta Ace The Original Norman Petty Masters)",
+    "labels": [
+      "Hamilton (Dot)"
     ],
     "type": "documentato"
   },
@@ -799,6 +853,21 @@
       "Janus (GRT)"
     ],
     "type": "famoso"
+  },
+  {
+    "id": "brazil-the-flairs",
+    "title": "Brazil",
+    "artist": "The Flairs",
+    "release": "45 giri Palms 726 (1961), lato B di Roll Over Beethoven (1:53); il gruppo è noto anche come The Velaires",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Palms"
+    ],
+    "type": "documentato"
   },
   {
     "id": "the-breakdown-part-2-rufus-thomas",
@@ -1668,6 +1737,29 @@
     "type": "documentato"
   },
   {
+    "id": "desafinado-enoch-light",
+    "title": "Desafinado",
+    "artist": "Enoch Light",
+    "release": "Big Band Bossa Nova (Command RS 844 SD, 1962), lato A, traccia 1 (2:30); uscito anche su 7\" Command (in Italia SP 50266, con One Note Samba)",
+    "album": "Big Band Bossa Nova",
+    "year": 1962,
+    "drummers": [
+      "Don Lamond"
+    ],
+    "drummerText": "Don Lamond (crediti dell'album; percussioni di Bobby Rosengarden, Ed Shaughnessy e Phil Kraus)",
+    "producers": [
+      "Enoch Light"
+    ],
+    "arrangers": [
+      "Lew Davies"
+    ],
+    "arrangerText": "Lew Davies (crediti dell'album, sul disco Lew Davis)",
+    "labels": [
+      "Command (Grand Award)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "devil-with-the-bust-sound-experience",
     "title": "Devil with the Bust",
     "artist": "Sound Experience",
@@ -1988,6 +2080,25 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "dreamworld-the-end",
+    "title": "Dreamworld",
+    "artist": "The End",
+    "release": "Introspection (Decca SKL-R 5015, 3 novembre 1969), lato A, traccia 1 (4:15)",
+    "album": "Introspection",
+    "year": 1969,
+    "drummers": [
+      "Hugh Attwooll"
+    ],
+    "drummerText": "Hugh Attwooll (crediti dell'album)",
+    "producers": [
+      "Bill Wyman"
+    ],
+    "labels": [
+      "Decca"
+    ],
+    "type": "documentato"
   },
   {
     "id": "dreamy-nights-dickey-lee",
@@ -2774,6 +2885,21 @@
     "type": "documentato"
   },
   {
+    "id": "get-out-of-my-life-woman-the-fabulous-impacts",
+    "title": "Get Out of My Life Woman",
+    "artist": "The Fabulous Impacts",
+    "release": "45 giri Dad's SR 503 (1967), lato A (2:10), lato B Tell Me; sulla copertina il gruppo è The Dynamic Impacts",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Dad's"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "get-out-of-my-life-woman-allen-toussaint",
     "title": "Get Out of My Life, Woman",
     "artist": "Allen Toussaint",
@@ -3212,6 +3338,21 @@
     "type": "documentato"
   },
   {
+    "id": "green-door-eskew-reeder",
+    "title": "Green Door",
+    "artist": "Eskew Reeder",
+    "release": "45 giri Minit 648 (1962), lato A (2:49), lato AA I Waited Too Long. Eskew Reeder è Esquerita",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Minit (Imperial)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "groove-to-get-down-t-connection",
     "title": "Groove to Get Down",
     "artist": "T-Connection",
@@ -3438,6 +3579,22 @@
     "type": "documentato"
   },
   {
+    "id": "here-comes-jesus-evangelist-crusaders",
+    "title": "Here Comes Jesus",
+    "artist": "Evangelist Crusaders",
+    "release": "Turn Around (Sacred Knof SKR-LP 2019, circa 1975), lato B, traccia 4",
+    "album": "Turn Around",
+    "year": 1975,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Sacred Knof"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "hey-lizzie-the-eiffel-tower",
     "title": "Hey Lizzie",
     "artist": "The Eiffel Tower",
@@ -3649,6 +3806,23 @@
     ],
     "type": "famoso",
     "ubb": "20"
+  },
+  {
+    "id": "hot-dog-my-baby-s-comin-home-the-four-shells",
+    "title": "Hot Dog (My Baby's Comin' Home)",
+    "artist": "The Four Shells",
+    "release": "45 giri Volt V-134 (14 marzo 1966), lato A (2:05), lato B Reputation",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Eddie Thomas",
+      "Jerry Butler"
+    ],
+    "labels": [
+      "Volt (Stax)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "hot-pants-bonus-beats-bobby-byrd",
@@ -4145,6 +4319,21 @@
     ],
     "labels": [
       "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "i-m-sorry-fred-lowery-with-big-bo-and-the-arrows",
+    "title": "I'm Sorry",
+    "artist": "Fred Lowery with Big Bo and the Arrows",
+    "release": "45 giri Gay Shel 202, lato A (2:35), lato B You're Not Worth the Tears; ristampato da Atco (45-6430, 1966). Sul disco: Fred Lowery - Big Bo and the Arrows",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Gay Shel"
     ],
     "type": "documentato"
   },
@@ -5411,6 +5600,25 @@
     "ubb": "25"
   },
   {
+    "id": "love-magnet-freda-payne",
+    "title": "Love Magnet",
+    "artist": "Freda Payne",
+    "release": "45 giri Capitol 4494 (1977), lato A (3:37), lato B Loving You Means So Much to Me; sull'LP Stares and Whispers (Capitol ST-11700, 1977), lato A, traccia 2, c'è una versione più lunga (6:23)",
+    "year": 1977,
+    "drummers": [
+      "Raymond Pounds"
+    ],
+    "drummerText": "Raymond Pounds (crediti dell'LP)",
+    "producers": [
+      "Frank Wilson"
+    ],
+    "producerText": "Frank Wilson (crediti del 45 giri; l'LP accredita anche Tony Camillo)",
+    "labels": [
+      "Capitol"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "love-stop-airwaves",
     "title": "Love Stop",
     "artist": "Airwaves",
@@ -5793,6 +6001,29 @@
     "arrangerText": "Jimmie Haskell (crediti del brano secondo Wikipedia)",
     "labels": [
       "Atco"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "music-the-family",
+    "title": "Music",
+    "artist": "The Family",
+    "release": "45 giri Little City LCR 10106 (1977), lato A (4:32), lato B My Song to You; anche sull'LP Music – Let It Thru (Little City LC 1502, 1977), lato A, traccia 1 (4:32)",
+    "album": "Music – Let It Thru",
+    "year": 1977,
+    "drummers": [
+      "William Eugene Jackson"
+    ],
+    "drummerText": "William Eugene Jackson (crediti dell'album, sul disco William (Billy Jack) Eugene Jackson)",
+    "producers": [
+      "Leon E. Stewart Sr."
+    ],
+    "arrangers": [
+      "The Family"
+    ],
+    "arrangerText": "The Family (crediti dell'album)",
+    "labels": [
+      "Little City"
     ],
     "type": "documentato"
   },
@@ -6684,6 +6915,21 @@
     "type": "documentato"
   },
   {
+    "id": "roll-over-beethoven-the-flairs",
+    "title": "Roll Over Beethoven",
+    "artist": "The Flairs",
+    "release": "45 giri Palms 726 (1961), lato A (2:23), lato B Brazil; il gruppo è noto anche come The Velaires",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Palms"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "rooftop-the-sons-of-champlin",
     "title": "Rooftop",
     "artist": "The Sons of Champlin",
@@ -6776,6 +7022,25 @@
     ],
     "labels": [
       "ABC"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "the-sad-skinhead-faust",
+    "title": "The Sad Skinhead",
+    "artist": "Faust",
+    "release": "Faust IV (Virgin V 2004, 21 settembre 1973), lato A, traccia 2 (2:35)",
+    "album": "Faust IV",
+    "year": 1973,
+    "drummers": [
+      "Werner \"Zappi\" Diermaier"
+    ],
+    "drummerText": "Werner \"Zappi\" Diermaier (secondo Wikipedia)",
+    "producers": [
+      "Uwe Nettelbeck"
+    ],
+    "labels": [
+      "Virgin"
     ],
     "type": "documentato"
   },
@@ -6970,6 +7235,29 @@
     ],
     "type": "famoso",
     "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "seven-day-fool-etta-james",
+    "title": "Seven Day Fool",
+    "artist": "Etta James",
+    "release": "45 giri Argo 5402 (1961), lato A (2:50), lato B It's Too Soon to Know; anche sull'LP The Second Time Around (Argo LP-4011, 1961), lato A, traccia 5 (2:55)",
+    "album": "The Second Time Around",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Phil Chess",
+      "Leonard Chess"
+    ],
+    "producerText": "Phil Chess e Leonard Chess (crediti dell'album secondo Wikipedia)",
+    "arrangers": [
+      "Riley Hampton"
+    ],
+    "arrangerText": "Riley Hampton (crediti dell'album)",
+    "labels": [
+      "Argo (Chess)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "seven-minutes-of-funk-the-whole-darn-family",
@@ -7959,6 +8247,21 @@
     "type": "documentato"
   },
   {
+    "id": "strange-guitar-frankie-baldo-the-noveltones",
+    "title": "Strange Guitar",
+    "artist": "Frankie Baldo & the Noveltones",
+    "release": "45 giri Imperial X5755 (1961), lato A (1:48), lato B One Song; uscito prima su Dandy A-10",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Imperial"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "stratus-billy-cobham",
     "title": "Stratus",
     "artist": "Billy Cobham",
@@ -8022,6 +8325,37 @@
     "producerText": "Non accreditato",
     "labels": [
       "Topkapı"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "submarine-race-watching-the-escorts",
+    "title": "Submarine Race Watching",
+    "artist": "The Escorts",
+    "release": "45 giri Coral 62336 (1962), lato A (2:32), lato B Somewhere; voce solista di Goldie Zelkowitz (poi Genya Ravan), non accreditata; orchestrazione di Dick Jacobs",
+    "year": 1962,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Coral (Decca)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sugar-freddie-cannon",
+    "title": "Sugar",
+    "artist": "Freddie Cannon",
+    "release": "45 giri Claridge 416 (1976), lato A; Sugar Part Two sul lato B",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Jimmy Lewis"
+    ],
+    "labels": [
+      "Claridge"
     ],
     "type": "documentato"
   },
@@ -9450,6 +9784,22 @@
     "arrangerText": "Arif Mardin e Tom Dowd (crediti dell'album: tutti gli arrangiamenti)",
     "labels": [
       "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "you-re-hip-miss-pastorfield-fred-karlin",
+    "title": "You're Hip, Miss Pastorfield",
+    "artist": "Fred Karlin",
+    "release": "Up the Down Staircase, colonna sonora del film (United Artists UAS 5169, 1967), lato A, traccia 5 (1:51)",
+    "album": "Up the Down Staircase",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "United Artists"
     ],
     "type": "documentato"
   },
