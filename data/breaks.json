@@ -858,6 +858,22 @@
     "ubb": "19"
   },
   {
+    "id": "broad-street-the-electric-indian",
+    "title": "Broad Street",
+    "artist": "The Electric Indian",
+    "release": "45 giri United Artists UA 50563 (1969), lato B di Keem-O-Sabe (1:59); uscito prima su Marmaduke CR-4001. Non è sull'LP",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Len Barry"
+    ],
+    "labels": [
+      "United Artists"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "brother-green-the-disco-king-roy-ayers-ubiquity",
     "title": "Brother Green (The Disco King)",
     "artist": "Roy Ayers Ubiquity",
@@ -3019,6 +3035,25 @@
     "ubb": "11"
   },
   {
+    "id": "good-lovin-the-elgins",
+    "title": "Good Lovin'",
+    "artist": "The Elgins",
+    "release": "Darling Baby (V.I.P. 400, 1966), lato A, traccia 5 (2:47)",
+    "album": "Darling Baby",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Brian Holland",
+      "Lamont Dozier"
+    ],
+    "producerText": "Brian Holland e Lamont Dozier (crediti dell'album secondo Wikipedia)",
+    "labels": [
+      "V.I.P. (Motown)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "good-news-the-5th-dimension",
     "title": "Good News",
     "artist": "The 5th Dimension",
@@ -4644,6 +4679,27 @@
     "type": "documentato"
   },
   {
+    "id": "keem-o-sabe-the-electric-indian",
+    "title": "Keem-O-Sabe",
+    "artist": "The Electric Indian",
+    "release": "45 giri United Artists UA 50563 (1969), lato A (2:07), lato B Broad Street; uscito prima su Marmaduke CR-4001. Anche sull'LP Keem-O-Sabe (United Artists UAS 6728, 1969), lato A, traccia 1 (2:10)",
+    "album": "Keem-O-Sabe",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Len Barry"
+    ],
+    "arrangers": [
+      "Tom Sellers"
+    ],
+    "arrangerText": "Tom Sellers (crediti del brano)",
+    "labels": [
+      "United Artists"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "keep-it-up-longer-andrea-true-connection",
     "title": "Keep It Up Longer",
     "artist": "Andrea True Connection",
@@ -6223,6 +6279,24 @@
     ],
     "type": "famoso",
     "ubb": "7"
+  },
+  {
+    "id": "pop-popcorn-children-eldridge-holmes",
+    "title": "Pop, Popcorn Children",
+    "artist": "Eldridge Holmes",
+    "release": "45 giri Atco 45-6701 (agosto 1969), lato A (2:51), lato B Cheatin' Woman",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Allen Toussaint",
+      "Marshall Sehorn"
+    ],
+    "producerText": "Allen Toussaint e Marshall Sehorn (sul disco Marshall E. Sehorn)",
+    "labels": [
+      "Atco"
+    ],
+    "type": "documentato"
   },
   {
     "id": "porta-capuana-in-festa-tullio-de-piscopo",
@@ -8453,6 +8527,21 @@
     "producerText": "Non accreditato",
     "labels": [
       "Studio City"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "to-the-disco-ellison-chase",
+    "title": "To the Disco",
+    "artist": "Ellison Chase",
+    "release": "45 giri Big Tree BT-16072 (1976), lato B di Let's Rock (2:40)",
+    "year": 1976,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Big Tree (Atlantic)"
     ],
     "type": "documentato"
   },
