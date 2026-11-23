@@ -257,6 +257,21 @@
     "type": "scoperta"
   },
   {
+    "id": "anytime-eddy-bell-the-bel-aires",
+    "title": "Anytime",
+    "artist": "Eddy Bell & the Bel-Aires",
+    "release": "45 giri Mercury 71677 (1960), lato B di The Masked Man (Hi Yo Silver) (2:03). Eddy Bell era lo pseudonimo di Eddie Blazonczyk",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "apache-incredible-bongo-band",
     "title": "Apache",
     "artist": "Incredible Bongo Band",
@@ -1296,6 +1311,28 @@
     "producerText": "Sam Coplin (produttore esecutivo; \"A Karma Production\")",
     "labels": [
       "Uni (MCA)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "concrete-and-clay-eddie-rambeau",
+    "title": "Concrete and Clay",
+    "artist": "Eddie Rambeau",
+    "release": "45 giri Dynovoice 204 (1965), lato A (2:14), lato B Don't Believe Him; anche sull'LP Sings Concrete and Clay (Dynovoice 9001, 1965), lato A, traccia 7 (2:19)",
+    "album": "Sings Concrete and Clay",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Charlie Calello"
+    ],
+    "producerText": "Charlie Calello (sul disco Chas. Calello), per Bob Crewe Productions",
+    "arrangers": [
+      "Charlie Calello"
+    ],
+    "arrangerText": "Charlie Calello (crediti del 45 giri, sul disco Chas. Calello)",
+    "labels": [
+      "Dynovoice (Bell)"
     ],
     "type": "documentato"
   },
@@ -3366,6 +3403,21 @@
     "type": "documentato"
   },
   {
+    "id": "hey-lizzie-the-eiffel-tower",
+    "title": "Hey Lizzie",
+    "artist": "The Eiffel Tower",
+    "release": "LP di library music senza titolo proprio, Chappell Recorded Music LPC 1032 (1969), lato A, traccia 3; scritto da Sam Fonteyn",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Chappell"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "hey-hey-helen-abba",
     "title": "Hey, Hey Helen",
     "artist": "ABBA",
@@ -4764,6 +4816,22 @@
     ],
     "labels": [
       "Liuto"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "la-comparsa-edmundo-ros-his-orchestra",
+    "title": "La Comparsa",
+    "artist": "Edmundo Ros & His Orchestra",
+    "release": "Bongos From the South (London Phase 4 Stereo SP 44003, 1961; nel Regno Unito Decca PFS 34010), lato A, traccia 4 (2:15)",
+    "album": "Bongos From the South",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "London"
     ],
     "type": "documentato"
   },
@@ -7240,6 +7308,26 @@
     "arrangerText": "George Martin (crediti dell'album)",
     "labels": [
       "Warner Bros."
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "smokehouse-edison-electric-band",
+    "title": "Smokehouse",
+    "artist": "Edison Electric Band",
+    "release": "Bless You, Dr. Woodward (Cotillion SD 9022, 1970), lato B, traccia 5 (3:58)",
+    "album": "Bless You, Dr. Woodward",
+    "year": 1970,
+    "drummers": [
+      "David \"Rip\" Stock"
+    ],
+    "drummerText": "David \"Rip\" Stock (crediti dell'album; ha anche scritto il brano)",
+    "producers": [
+      "Joel Dorn",
+      "Jack Shaw"
+    ],
+    "labels": [
+      "Cotillion (Atlantic)"
     ],
     "type": "documentato"
   },
