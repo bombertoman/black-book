@@ -2736,6 +2736,29 @@
     "ubb": "13"
   },
   {
+    "id": "funky-freddie-king",
+    "title": "Funky",
+    "artist": "Freddie King",
+    "release": "45 giri Cotillion 44015 (novembre 1968), lato B di Play It Cool (2:25); anche sull'LP Freddie King Is a Blues Master (Cotillion SD 9004, 1969), lato B, traccia 2 (2:26)",
+    "album": "Freddie King Is a Blues Master",
+    "year": 1968,
+    "drummers": [
+      "Norman Pride"
+    ],
+    "drummerText": "Norman Pride (crediti dell'LP)",
+    "producers": [
+      "King Curtis"
+    ],
+    "arrangers": [
+      "King Curtis"
+    ],
+    "arrangerText": "King Curtis (crediti del 45 giri)",
+    "labels": [
+      "Cotillion (Atlantic)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "funky-drummer-james-brown",
     "title": "Funky Drummer",
     "artist": "James Brown",
@@ -3024,6 +3047,22 @@
     "producerText": "Phil Wainman, con il gruppo",
     "labels": [
       "Vertigo"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "gimme-some-fun-featuring-bob-mckeag",
+    "title": "Gimme Some",
+    "artist": "Fun featuring Bob McKeag",
+    "release": "45 giri Buddah BDA 573 (1977), lato A (2:33), lato B Our Love",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bill Hons"
+    ],
+    "labels": [
+      "Buddah"
     ],
     "type": "documentato"
   },
@@ -3425,6 +3464,21 @@
     "ubb": "13"
   },
   {
+    "id": "hangin-out-freddy-scott-s-orchestra",
+    "title": "Hangin' Out",
+    "artist": "Freddy Scott's Orchestra",
+    "release": "45 giri Marlin 45-16003, lato A (2:20), lato B First Things First; «A Bradley-Alaimo Production». Discogs non indica l'anno: 1965 è quello dell'elenco di Freddy Fresh",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato per nome (sul disco «A Bradley-Alaimo Production»)",
+    "labels": [
+      "Marlin (London)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "happiness-is-benny-golson",
     "title": "Happiness Is",
     "artist": "Benny Golson",
@@ -3487,6 +3541,27 @@
     ],
     "type": "famoso",
     "ubb": "24"
+  },
+  {
+    "id": "hare-krishna-galt-macdermot",
+    "title": "Hare Krishna",
+    "artist": "Galt MacDermot",
+    "release": "Hair Pieces (Verve Forecast FTS-3045, 1968), lato B, traccia 1 (3:32)",
+    "album": "Hair Pieces",
+    "year": 1968,
+    "drummers": [
+      "Bernard Purdie",
+      "Earl Williams",
+      "Jimmy Johnson Jr."
+    ],
+    "drummerText": "Bernard Purdie, Earl Williams o Jimmy Johnson Jr.: l'album ne accredita tre, l'elenco di Freddy Fresh indica Bernard Purdie; Sir Harold ai tamburi africani",
+    "producers": [
+      "Rick Shorter"
+    ],
+    "labels": [
+      "Verve Forecast (MGM)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "harem-girl-butch-vaden-and-the-nite-sounds",
@@ -3882,6 +3957,23 @@
     ],
     "type": "famoso",
     "ubb": "20"
+  },
+  {
+    "id": "humdinger-freddy-cannon",
+    "title": "Humdinger",
+    "artist": "Freddy Cannon",
+    "release": "45 giri Swan 4061 (1960), lato A (2:45), lato B My Blue Heaven; sul disco Freddy Cannon with Frank Slay and His Orchestra",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Frank Slay"
+    ],
+    "producerText": "Frank Slay (secondo Wikipedia era il suo produttore alla Swan; sul disco con Frank Slay and His Orchestra)",
+    "labels": [
+      "Swan"
+    ],
+    "type": "documentato"
   },
   {
     "id": "humpty-dump-the-vibrettes",
@@ -5696,6 +5788,41 @@
     "arrangerText": "David Paich (crediti del brano)",
     "labels": [
       "Columbia"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "lsd-25-the-gamblers",
+    "title": "LSD-25",
+    "artist": "The Gamblers",
+    "release": "45 giri World Pacific X-815 (1960), lato B di Moon Dawg! (2:07)",
+    "year": 1960,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "arrangers": [
+      "Nick Venet"
+    ],
+    "arrangerText": "Nick Venet (crediti del 45 giri; anche direzione)",
+    "labels": [
+      "World Pacific"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "make-some-music-game",
+    "title": "Make Some Music",
+    "artist": "Game",
+    "release": "Game (Faithful Virtue FVS 2003, 1969), lato A, traccia 5 (7:48)",
+    "album": "Game",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Faithful Virtue"
     ],
     "type": "documentato"
   },
@@ -8344,10 +8471,10 @@
     "type": "documentato"
   },
   {
-    "id": "sugar-freddie-cannon",
+    "id": "sugar-freddy-cannon",
     "title": "Sugar",
-    "artist": "Freddie Cannon",
-    "release": "45 giri Claridge 416 (1976), lato A; Sugar Part Two sul lato B",
+    "artist": "Freddy Cannon",
+    "release": "45 giri Claridge 416 (1976), lato A; Sugar Part Two sul lato B; sul disco Freddie Cannon",
     "year": 1976,
     "drummers": [],
     "drummerText": "Non accreditato",
@@ -8586,6 +8713,27 @@
     ],
     "labels": [
       "Karen"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "take-care-beware-capricorn-gary-mcfarland",
+    "title": "Take Care... Beware (Capricorn)",
+    "artist": "Gary McFarland",
+    "release": "Scorpio and Other Signs (Verve V6-8738, 1968), lato A, traccia 1 (3:23)",
+    "album": "Scorpio and Other Signs",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Esmond Edwards"
+    ],
+    "arrangers": [
+      "Gary McFarland"
+    ],
+    "arrangerText": "Gary McFarland (crediti del brano su MusicBrainz e dell'album)",
+    "labels": [
+      "Verve"
     ],
     "type": "documentato"
   },
@@ -9096,6 +9244,21 @@
     "type": "documentato"
   },
   {
+    "id": "turnaround-the-free-souls",
+    "title": "Turnaround",
+    "artist": "The Free Souls",
+    "release": "45 giri 'reno 6707 (marzo 1967), uscita della Fredlo Records; lato B di Things (You Left Behind) (2:59)",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "'reno (Fredlo)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "twenty-five-miles-big-al-t-orchestra",
     "title": "Twenty Five Miles",
     "artist": "Big Al \"T\" Orchestra",
@@ -9312,6 +9475,22 @@
     ],
     "type": "famoso",
     "ubb": "8"
+  },
+  {
+    "id": "what-s-goin-through-my-head-game",
+    "title": "What's Goin' Through My Head",
+    "artist": "Game",
+    "release": "Game (Faithful Virtue FVS 2003, 1969), lato A, traccia 2",
+    "album": "Game",
+    "year": 1969,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Faithful Virtue"
+    ],
+    "type": "documentato"
   },
   {
     "id": "whatcha-gonna-do-tomorrow-buddy-killen",
