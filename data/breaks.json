@@ -79,6 +79,29 @@
     "type": "documentato"
   },
   {
+    "id": "aiko-biaye-ginger-baker-s-air-force",
+    "title": "Aiko Biaye",
+    "artist": "Ginger Baker's Air Force",
+    "release": "Ginger Baker's Air Force (Atco SD 2-703, 30 marzo 1970), lato C, traccia 1 (12:58); dal vivo alla Royal Albert Hall, 15 gennaio 1970",
+    "album": "Ginger Baker's Air Force",
+    "year": 1970,
+    "drummers": [
+      "Ginger Baker"
+    ],
+    "drummerText": "Ginger Baker (secondo Wikipedia)",
+    "producers": [
+      "Jimmy Miller"
+    ],
+    "arrangers": [
+      "Ginger Baker"
+    ],
+    "arrangerText": "Ginger Baker (crediti dell'album secondo MusicBrainz, che accredita anche Denny Laine)",
+    "labels": [
+      "Atco"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "ain-t-we-funkin-now-the-brothers-johnson",
     "title": "Ain't We Funkin' Now",
     "artist": "The Brothers Johnson",
@@ -721,6 +744,28 @@
     "type": "documentato"
   },
   {
+    "id": "body-language-gf-and-friends",
+    "title": "Body Language",
+    "artist": "GF and Friends",
+    "release": "45 giri Monument 45-211 (1977), lato A (4:45), lato B Body Motion",
+    "year": 1977,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Russ Lewis",
+      "Terry Willis"
+    ],
+    "arrangers": [
+      "Russ Lewis",
+      "Terry Willis"
+    ],
+    "arrangerText": "Russ Lewis e Terry Willis (crediti del 45 giri)",
+    "labels": [
+      "Monument"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "bongo-rock-incredible-bongo-band",
     "title": "Bongo Rock",
     "artist": "Incredible Bongo Band",
@@ -998,6 +1043,21 @@
     ],
     "type": "famoso",
     "ubb": "8 (2ª stampa)"
+  },
+  {
+    "id": "buzz-saw-twist-the-gee-cees",
+    "title": "Buzz Saw Twist",
+    "artist": "The Gee-Cees",
+    "release": "45 giri Crest 45-1088 (ottobre 1961), stesso brano sui due lati (2:05)",
+    "year": 1961,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Crest"
+    ],
+    "type": "documentato"
   },
   {
     "id": "california-sun-annette",
@@ -1359,6 +1419,27 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "collard-greens-george-semper",
+    "title": "Collard Greens",
+    "artist": "George Semper",
+    "release": "45 giri Imperial 66203 (1966), lato A (2:06), lato B Shortnin' Bread; anche sull'LP Makin' Waves (Imperial LP-12327, 1966), lato A, traccia 1 (2:06)",
+    "album": "Makin' Waves",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Marshall Leib"
+    ],
+    "arrangers": [
+      "George Semper"
+    ],
+    "arrangerText": "George Semper (crediti dell'album)",
+    "labels": [
+      "Imperial"
+    ],
+    "type": "documentato"
   },
   {
     "id": "comin-the-crimson-bridge",
@@ -1808,6 +1889,25 @@
     "type": "documentato"
   },
   {
+    "id": "devil-s-waitin-on-bald-mountain-the-glencoves",
+    "title": "Devil's Waitin' (On Bald Mountain)",
+    "artist": "The Glencoves",
+    "release": "45 giri Select 727 (1963), lato A (2:18), lato B Better Think Twice (Hey-Lie-Lee)",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "arrangers": [
+      "Al Ham"
+    ],
+    "arrangerText": "Al Ham (crediti della stampa australiana W & G dello stesso 45 giri)",
+    "labels": [
+      "Select"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "different-strokes-syl-johnson",
     "title": "Different Strokes",
     "artist": "Syl Johnson",
@@ -1828,6 +1928,31 @@
     ],
     "type": "famoso",
     "ubb": "4"
+  },
+  {
+    "id": "directions-giant-crab",
+    "title": "Directions",
+    "artist": "Giant Crab",
+    "release": "A Giant Crab Comes Forth (Uni 73037, 1968), lato A, traccia 3 (3:03)",
+    "album": "A Giant Crab Comes Forth",
+    "year": 1968,
+    "drummers": [
+      "Ruben Orosco",
+      "Dennis Fricia"
+    ],
+    "drummerText": "Ruben Orosco o Dennis Fricia: l'album li accredita entrambi alla batteria",
+    "producers": [
+      "Bill Holmes"
+    ],
+    "arrangers": [
+      "Ernie Orosco",
+      "Raymond Orosco"
+    ],
+    "arrangerText": "Ernie Orosco e Raymond Orosco (crediti dell'album: arrangiamento musicale)",
+    "labels": [
+      "Uni (MCA)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "dirty-feet-daly-wilson-big-band",
@@ -2080,6 +2205,21 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "downtown-googie-rene-combo",
+    "title": "Downtown",
+    "artist": "Googie Rene Combo",
+    "release": "45 giri Class C-1519 (1966), lato B di Beautiful Weekend",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Class"
+    ],
+    "type": "documentato"
   },
   {
     "id": "dreamworld-the-end",
@@ -2904,6 +3044,27 @@
     "arrangerText": "Non si sa chi: l'album accredita Chuck Jackson e Bobby Scott",
     "labels": [
       "Wand (Scepter)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "get-out-of-my-life-woman-george-semper",
+    "title": "Get Out of My Life Woman",
+    "artist": "George Semper",
+    "release": "Makin' Waves (Imperial LP-12327, 1966), lato A, traccia 5 (2:45)",
+    "album": "Makin' Waves",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Marshall Leib"
+    ],
+    "arrangers": [
+      "George Semper"
+    ],
+    "arrangerText": "George Semper (crediti dell'album)",
+    "labels": [
+      "Imperial"
     ],
     "type": "documentato"
   },
@@ -4079,6 +4240,27 @@
     "ubb": "18"
   },
   {
+    "id": "i-can-t-get-no-satisfaction-george-semper",
+    "title": "(I Can't Get No) Satisfaction",
+    "artist": "George Semper",
+    "release": "Makin' Waves (Imperial LP-12327, 1966), lato A, traccia 3 (2:48)",
+    "album": "Makin' Waves",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Marshall Leib"
+    ],
+    "arrangers": [
+      "George Semper"
+    ],
+    "arrangerText": "George Semper (crediti dell'album)",
+    "labels": [
+      "Imperial"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "i-can-t-stop-john-davis-the-monster-orchestra",
     "title": "I Can't Stop",
     "artist": "John Davis & the Monster Orchestra",
@@ -4237,6 +4419,27 @@
     ],
     "type": "famoso",
     "ubb": "6"
+  },
+  {
+    "id": "i-lost-me-a-friend-the-glitterhouse",
+    "title": "I Lost Me a Friend",
+    "artist": "The Glitterhouse",
+    "release": "45 giri Dynovoice DY-925 (1968), lato B di Tinkerbell's Mind; anche sull'LP Color Blind (Dynovoice DY 1905, 1968), lato B, traccia 1 (4:19)",
+    "album": "Color Blind",
+    "year": 1968,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bob Crewe"
+    ],
+    "arrangers": [
+      "Bob Crewe"
+    ],
+    "arrangerText": "Bob Crewe (crediti dell'album)",
+    "labels": [
+      "Dynovoice (Dot)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "i-think-i-d-do-it-z-z-hill",
@@ -4904,6 +5107,23 @@
     "type": "documentato"
   },
   {
+    "id": "june-bride-baby-the-goldebriars",
+    "title": "June Bride Baby",
+    "artist": "The Goldebriars",
+    "release": "45 giri Epic 5-9806 (giugno 1965), lato B di I'm Gonna Marry You (2:21)",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Bob Morgan"
+    ],
+    "arrangerText": "Non si sa chi: il 45 giri accredita Beverly Ross, Bob Goldstein e Curt Boettcher",
+    "labels": [
+      "Epic"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "just-because-it-s-so-bru-hau-and-the-sawmill-creek-band",
     "title": "Just Because It's So",
     "artist": "Bru Hau and the Sawmill Creek Band",
@@ -4924,6 +5144,25 @@
     "type": "documentato"
   },
   {
+    "id": "just-found-me-a-lady-good-rats",
+    "title": "Just Found Me a Lady",
+    "artist": "Good Rats",
+    "release": "45 giri Passport PS 7912 (1978), lato A (2:27), lato B Coo Coo Coo Blues; sull'LP From Rats to Riches (Passport PB 9825, 1978), lato A, traccia 2, c'è una versione più lunga (2:50)",
+    "year": 1978,
+    "drummers": [
+      "Joe Franco"
+    ],
+    "drummerText": "Joe Franco (crediti dell'LP secondo Wikipedia)",
+    "producers": [
+      "Flo & Eddie"
+    ],
+    "producerText": "Flo & Eddie (Stephan Galfas coproduttore)",
+    "labels": [
+      "Passport (Arista)"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "k-39-the-challengers",
     "title": "K-39",
     "artist": "The Challengers",
@@ -4939,6 +5178,21 @@
     ],
     "labels": [
       "Vault"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "kaha-huna-goddess-of-surfing-gene-moles-the-softwinds",
+    "title": "Kaha Huna (Goddess of Surfing)",
+    "artist": "Gene Moles & the Softwinds",
+    "release": "45 giri Garpax 45-44176 (1963), lato A (2:11), lato B Maria (The Wind)",
+    "year": 1963,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Garpax (London)"
     ],
     "type": "documentato"
   },
@@ -5730,6 +5984,21 @@
     "type": "documentato"
   },
   {
+    "id": "love-wasn-t-real-granger-hunt-the-believers",
+    "title": "Love Wasn't Real",
+    "artist": "Granger Hunt & the Believers",
+    "release": "45 giri Josie 45-925 (1964), lato B di Motor Mouth (1:40)",
+    "year": 1964,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Josie"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "love-s-theme-fausto-papetti",
     "title": "Love's Theme",
     "artist": "Fausto Papetti",
@@ -5946,6 +6215,27 @@
     ],
     "labels": [
       "Page One (Fontana)"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "memphis-george-semper",
+    "title": "Memphis",
+    "artist": "George Semper",
+    "release": "Makin' Waves (Imperial LP-12327, 1966), lato B, traccia 3 (2:20)",
+    "album": "Makin' Waves",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Marshall Leib"
+    ],
+    "arrangers": [
+      "George Semper"
+    ],
+    "arrangerText": "George Semper (crediti dell'album)",
+    "labels": [
+      "Imperial"
     ],
     "type": "documentato"
   },
@@ -6290,6 +6580,25 @@
     "producerText": "Non accreditato",
     "labels": [
       "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "new-orleans-gary-u-s-bonds",
+    "title": "New Orleans",
+    "artist": "Gary U.S. Bonds",
+    "release": "45 giri Legrand 1003 (settembre 1960), lato A (2:44), lato B Please Forgive Me; sul disco U.S. Bonds. Accompagnamento della Church Street Five di Gene Barge",
+    "year": 1960,
+    "drummers": [
+      "Emmet Shields"
+    ],
+    "drummerText": "Emmet Shields (probabile: secondo Wikipedia era il batterista della Church Street Five, che accompagna Bonds nel brano)",
+    "producers": [
+      "Frank Guida"
+    ],
+    "producerText": "Frank Guida (secondo Wikipedia)",
+    "labels": [
+      "Legrand"
     ],
     "type": "documentato"
   },
@@ -6843,6 +7152,26 @@
     "arrangerText": "Paul Lewinson (crediti del brano)",
     "labels": [
       "Reprise"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "ragtime-mambo-george-siravo-his-orchestra",
+    "title": "Ragtime Mambo",
+    "artist": "George Siravo & His Orchestra",
+    "release": "Swingin' Stereo in Studio A (RCA Victor LSP-1970, 1959; in mono Swingin' Hi-Fi in Studio A, LPM-1970), lato A, traccia 6 (1:46)",
+    "album": "Swingin' Stereo in Studio A",
+    "year": 1959,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "arrangers": [
+      "George Siravo"
+    ],
+    "arrangerText": "George Siravo (crediti dell'album)",
+    "labels": [
+      "RCA Victor"
     ],
     "type": "documentato"
   },
@@ -7592,6 +7921,42 @@
     "ubb": "5"
   },
   {
+    "id": "sho-is-good-gene-miller",
+    "title": "Sho Is Good",
+    "artist": "Gene Miller",
+    "release": "45 giri Hi 45-2121 (marzo 1967), lato A (2:50), lato B The Goodest Man",
+    "year": 1967,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [],
+    "producerText": "Non accreditato",
+    "labels": [
+      "Hi"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "shortnin-bread-george-semper",
+    "title": "Shortnin' Bread",
+    "artist": "George Semper",
+    "release": "Makin' Waves (Imperial LP-12327, 1966), lato B, traccia 5 (2:25); anche lato B del 45 giri Imperial 66203 (Collard Greens)",
+    "album": "Makin' Waves",
+    "year": 1966,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Marshall Leib"
+    ],
+    "arrangers": [
+      "George Semper"
+    ],
+    "arrangerText": "George Semper (crediti del brano, sul disco G. Semper)",
+    "labels": [
+      "Imperial"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "silent-screamer-the-dave-myers-effect",
     "title": "Silent Screamer",
     "artist": "The Dave Myers Effect",
@@ -7841,6 +8206,29 @@
     "ubb": "24"
   },
   {
+    "id": "snow-plow-turn-the-glaciers",
+    "title": "Snow Plow Turn",
+    "artist": "The Glaciers",
+    "release": "From Sea to Ski (Mercury SR 60895, 1964), lato A, traccia 1 (2:13)",
+    "album": "From Sea to Ski",
+    "year": 1964,
+    "drummers": [
+      "Hal Blaine"
+    ],
+    "drummerText": "Hal Blaine (non accreditato sul disco; credito aggiunto su Discogs)",
+    "producers": [
+      "Marshall Leib"
+    ],
+    "arrangers": [
+      "David Gates"
+    ],
+    "arrangerText": "David Gates (non accreditato sul disco; credito aggiunto su Discogs)",
+    "labels": [
+      "Mercury"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "so-satisfied-american-eagle",
     "title": "So Satisfied",
     "artist": "American Eagle",
@@ -8001,6 +8389,24 @@
     "arrangerText": "H.B. Barnum (sul disco H. B. Barnum), crediti dell'album",
     "labels": [
       "Rocky Road"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "sookie-sookie-grant-green",
+    "title": "Sookie, Sookie",
+    "artist": "Grant Green",
+    "release": "45 giri Blue Note BN 1965 (2:37; Discogs lo data al 1971), versione ridotta del brano dell'LP Alive! (Blue Note BST 84360, 1970), registrato dal vivo al Cliche Lounge di Newark il 15 agosto 1970 (11:10)",
+    "year": 1970,
+    "drummers": [
+      "Idris Muhammad"
+    ],
+    "drummerText": "Idris Muhammad (crediti dell'LP secondo Wikipedia)",
+    "producers": [
+      "Francis Wolff"
+    ],
+    "labels": [
+      "Blue Note"
     ],
     "type": "documentato"
   },
@@ -9028,6 +9434,31 @@
     "type": "documentato"
   },
   {
+    "id": "toad-ginger-baker-s-air-force",
+    "title": "Toad",
+    "artist": "Ginger Baker's Air Force",
+    "release": "Ginger Baker's Air Force (Atco SD 2-703, 30 marzo 1970), lato B, traccia 2 (12:59); dal vivo alla Royal Albert Hall, 15 gennaio 1970",
+    "album": "Ginger Baker's Air Force",
+    "year": 1970,
+    "drummers": [
+      "Ginger Baker",
+      "Remi Kabaka",
+      "Phil Seamen"
+    ],
+    "drummerText": "Ginger Baker, Remi Kabaka e Phil Seamen (secondo Wikipedia)",
+    "producers": [
+      "Jimmy Miller"
+    ],
+    "arrangers": [
+      "Ginger Baker"
+    ],
+    "arrangerText": "Ginger Baker (crediti dell'album secondo MusicBrainz, che accredita anche Denny Laine)",
+    "labels": [
+      "Atco"
+    ],
+    "type": "documentato"
+  },
+  {
     "id": "tom-hark-the-alan-tew-orchestra",
     "title": "Tom Hark",
     "artist": "The Alan Tew Orchestra",
@@ -9475,6 +9906,23 @@
     ],
     "type": "famoso",
     "ubb": "8"
+  },
+  {
+    "id": "the-way-you-do-the-things-you-do-gene-barge",
+    "title": "The Way You Do the Things You Do",
+    "artist": "Gene Barge",
+    "release": "Dance with Daddy \"G\" (Checker LP-2994, 1965), lato A, traccia 5 (2:32); registrato ai Ter Mar Studios di Chicago",
+    "album": "Dance with Daddy \"G\"",
+    "year": 1965,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "Gene Barge"
+    ],
+    "labels": [
+      "Checker (Chess)"
+    ],
+    "type": "documentato"
   },
   {
     "id": "what-s-goin-through-my-head-game",
@@ -9963,6 +10411,22 @@
     "arrangerText": "Arif Mardin e Tom Dowd (crediti dell'album: tutti gli arrangiamenti)",
     "labels": [
       "Atlantic"
+    ],
+    "type": "documentato"
+  },
+  {
+    "id": "you-re-gonna-need-somebody-to-love-you-the-gentlemen-their-ladies",
+    "title": "You're Gonna Need (Somebody to Love You)",
+    "artist": "The Gentlemen & Their Ladies",
+    "release": "45 giri Jean JR-733 (1974), lato B di Now Generation (4:16)",
+    "year": 1974,
+    "drummers": [],
+    "drummerText": "Non accreditato",
+    "producers": [
+      "George Kerr"
+    ],
+    "labels": [
+      "Jean"
     ],
     "type": "documentato"
   },
